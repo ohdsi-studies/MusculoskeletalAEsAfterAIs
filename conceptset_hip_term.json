@@ -1,0 +1,83 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red234\green234\blue234;\red53\green118\blue190;
+}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c93333\c93333\c93333;\cssrgb\c25882\c54510\c79216;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs21\fsmilli10588 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\{\
+  \cf4 "items":\cf2  [\
+    \{\
+      \cf4 "concept":\cf2  \{\
+        \cf4 "CONCEPT_ID":\cf2  4042501,\
+        \cf4 "CONCEPT_NAME":\cf2  "Disorder of hip",\
+        \cf4 "STANDARD_CONCEPT":\cf2  "S",\
+        \cf4 "STANDARD_CONCEPT_CAPTION":\cf2  "Standard",\
+        \cf4 "INVALID_REASON":\cf2  "V",\
+        \cf4 "INVALID_REASON_CAPTION":\cf2  "Valid",\
+        \cf4 "CONCEPT_CODE":\cf2  "118935006",\
+        \cf4 "DOMAIN_ID":\cf2  "Condition",\
+        \cf4 "VOCABULARY_ID":\cf2  "SNOMED",\
+        \cf4 "CONCEPT_CLASS_ID":\cf2  "Clinical Finding"\
+      \},\
+      \cf4 "isExcluded":\cf2  false,\
+      \cf4 "includeDescendants":\cf2  true,\
+      \cf4 "includeMapped":\cf2  false\
+    \},\
+    \{\
+      \cf4 "concept":\cf2  \{\
+        \cf4 "CONCEPT_ID":\cf2  4177851,\
+        \cf4 "CONCEPT_NAME":\cf2  "Disorder of hip joint",\
+        \cf4 "STANDARD_CONCEPT":\cf2  "S",\
+        \cf4 "STANDARD_CONCEPT_CAPTION":\cf2  "Standard",\
+        \cf4 "INVALID_REASON":\cf2  "V",\
+        \cf4 "INVALID_REASON_CAPTION":\cf2  "Valid",\
+        \cf4 "CONCEPT_CODE":\cf2  "428097001",\
+        \cf4 "DOMAIN_ID":\cf2  "Condition",\
+        \cf4 "VOCABULARY_ID":\cf2  "SNOMED",\
+        \cf4 "CONCEPT_CLASS_ID":\cf2  "Clinical Finding"\
+      \},\
+      \cf4 "isExcluded":\cf2  false,\
+      \cf4 "includeDescendants":\cf2  true,\
+      \cf4 "includeMapped":\cf2  false\
+    \},\
+    \{\
+      \cf4 "concept":\cf2  \{\
+        \cf4 "CONCEPT_ID":\cf2  444220,\
+        \cf4 "CONCEPT_NAME":\cf2  "Finding of hip region",\
+        \cf4 "STANDARD_CONCEPT":\cf2  "S",\
+        \cf4 "STANDARD_CONCEPT_CAPTION":\cf2  "Standard",\
+        \cf4 "INVALID_REASON":\cf2  "V",\
+        \cf4 "INVALID_REASON_CAPTION":\cf2  "Valid",\
+        \cf4 "CONCEPT_CODE":\cf2  "116313000",\
+        \cf4 "DOMAIN_ID":\cf2  "Condition",\
+        \cf4 "VOCABULARY_ID":\cf2  "SNOMED",\
+        \cf4 "CONCEPT_CLASS_ID":\cf2  "Clinical Finding"\
+      \},\
+      \cf4 "isExcluded":\cf2  false,\
+      \cf4 "includeDescendants":\cf2  true,\
+      \cf4 "includeMapped":\cf2  false\
+    \},\
+    \{\
+      \cf4 "concept":\cf2  \{\
+        \cf4 "CONCEPT_ID":\cf2  4182796,\
+        \cf4 "CONCEPT_NAME":\cf2  "Hip joint finding",\
+        \cf4 "STANDARD_CONCEPT":\cf2  "S",\
+        \cf4 "STANDARD_CONCEPT_CAPTION":\cf2  "Standard",\
+        \cf4 "INVALID_REASON":\cf2  "V",\
+        \cf4 "INVALID_REASON_CAPTION":\cf2  "Valid",\
+        \cf4 "CONCEPT_CODE":\cf2  "299231009",\
+        \cf4 "DOMAIN_ID":\cf2  "Condition",\
+        \cf4 "VOCABULARY_ID":\cf2  "SNOMED",\
+        \cf4 "CONCEPT_CLASS_ID":\cf2  "Clinical Finding"\
+      \},\
+      \cf4 "isExcluded":\cf2  false,\
+      \cf4 "includeDescendants":\cf2  true,\
+      \cf4 "includeMapped":\cf2  false\
+    \}\
+  ]\
+\}}
