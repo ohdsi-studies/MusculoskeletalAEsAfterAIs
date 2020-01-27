@@ -2,23 +2,6 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_ID": 4162099,
-        "CONCEPT_NAME": "Prosthetic arthroplasty of the hip",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "397956004",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Procedure"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 4200387,
         "CONCEPT_NAME": "Arthroplasty, acetabular and proximal femoral, prosthetic replacement",
         "STANDARD_CONCEPT": "S",
@@ -87,33 +70,16 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 2101634,
-        "CONCEPT_NAME": "Anesthesia for open procedures involving hip joint; total hip arthroplasty",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "CONCEPT_ID": 45465965,
+        "CONCEPT_NAME": "Arthroplasty of hip joint using cement",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "01214",
+        "CONCEPT_CODE": "7K20.11",
         "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "CPT4",
-        "CONCEPT_CLASS_ID": "CPT4"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 4146310,
-        "CONCEPT_NAME": "Arthroplasty of hip without cement",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "307815000",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Procedure"
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -138,23 +104,6 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 45465965,
-        "CONCEPT_NAME": "Arthroplasty of hip joint using cement",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "7K20.11",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "Read",
-        "CONCEPT_CLASS_ID": "Read"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 4306618,
         "CONCEPT_NAME": "Arthroplasty of hip with bone graft",
         "STANDARD_CONCEPT": "S",
@@ -172,13 +121,13 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 40308818,
-        "CONCEPT_NAME": "Arthroplasty of the hip",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "U",
-        "INVALID_REASON_CAPTION": "Invalid",
-        "CONCEPT_CODE": "150141001",
+        "CONCEPT_ID": 4146310,
+        "CONCEPT_NAME": "Arthroplasty of hip without cement",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "307815000",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Procedure"
@@ -206,6 +155,23 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40308818,
+        "CONCEPT_NAME": "Arthroplasty of the hip",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "150141001",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 45528555,
         "CONCEPT_NAME": "HIP ARTHROPLASTY",
         "STANDARD_CONCEPT": "N",
@@ -223,13 +189,13 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 4121248,
+        "CONCEPT_ID": 40308823,
         "CONCEPT_NAME": "Hip arthroplasty NOS",
         "STANDARD_CONCEPT": "N",
         "STANDARD_CONCEPT_CAPTION": "Non-Standard",
         "INVALID_REASON": "U",
         "INVALID_REASON_CAPTION": "Invalid",
-        "CONCEPT_CODE": "287873004",
+        "CONCEPT_CODE": "150146006",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Procedure"
@@ -240,13 +206,13 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 40308823,
+        "CONCEPT_ID": 4121248,
         "CONCEPT_NAME": "Hip arthroplasty NOS",
         "STANDARD_CONCEPT": "N",
         "STANDARD_CONCEPT_CAPTION": "Non-Standard",
         "INVALID_REASON": "U",
         "INVALID_REASON_CAPTION": "Invalid",
-        "CONCEPT_CODE": "150146006",
+        "CONCEPT_CODE": "287873004",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Procedure"
@@ -291,23 +257,6 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 4326674,
-        "CONCEPT_NAME": "Prosthetic arthroplasty of left hip",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "430688009",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Procedure"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 40484624,
         "CONCEPT_NAME": "Prosthetic arthroplasty of bilateral hips",
         "STANDARD_CONCEPT": "S",
@@ -325,6 +274,23 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 4326674,
+        "CONCEPT_NAME": "Prosthetic arthroplasty of left hip",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "430688009",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 4326677,
         "CONCEPT_NAME": "Prosthetic arthroplasty of right hip",
         "STANDARD_CONCEPT": "S",
@@ -332,6 +298,23 @@
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "CONCEPT_CODE": "430694001",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4162099,
+        "CONCEPT_NAME": "Prosthetic arthroplasty of the hip",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "397956004",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Procedure"
@@ -383,6 +366,91 @@
         "INVALID_REASON": "U",
         "INVALID_REASON_CAPTION": "Invalid",
         "CONCEPT_CODE": "150142008",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2005891,
+        "CONCEPT_NAME": "Total hip replacement",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "81.51",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD9Proc",
+        "CONCEPT_CLASS_ID": "4-dig billing code"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2005902,
+        "CONCEPT_NAME": "Partial hip replacement",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "81.52",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD9Proc",
+        "CONCEPT_CLASS_ID": "4-dig billing code"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4203771,
+        "CONCEPT_NAME": "Total replacement of hip",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "52734007",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4126168,
+        "CONCEPT_NAME": "Total hip replacement prosthesis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "304120007",
+        "DOMAIN_ID": "Device",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Physical Object"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4144432,
+        "CONCEPT_NAME": "Total prosthetic replacement of hip joint not using cement",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "265160007",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Procedure"
