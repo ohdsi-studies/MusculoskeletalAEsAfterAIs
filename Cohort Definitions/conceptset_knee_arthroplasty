@@ -1,0 +1,650 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 2101660,
+        "CONCEPT_NAME": "Anesthesia for open or surgical arthroscopic procedures on knee joint; total knee arthroplasty",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "01402",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": true
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2105089,
+        "CONCEPT_NAME": "Arthroplasty, femoral condyles or tibial plateau(s), knee",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "27442",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45888673,
+        "CONCEPT_NAME": "Arthroplasty, femoral condyles or tibial plateau(s), knee",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1014119",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45531562,
+        "CONCEPT_NAME": "ARTHROPLASTY KNEE",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "K812 AA",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "OXMIS",
+        "CONCEPT_CLASS_ID": "OXMIS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45890558,
+        "CONCEPT_NAME": "Arthroplasty, knee, condyle and plateau",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1005073",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2105103,
+        "CONCEPT_NAME": "Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "27447",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2105102,
+        "CONCEPT_NAME": "Arthroplasty, knee, condyle and plateau; medial OR lateral compartment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "27446",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45888521,
+        "CONCEPT_NAME": "Arthroplasty, knee, tibial plateau",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1014118",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2105087,
+        "CONCEPT_NAME": "Arthroplasty, knee, tibial plateau",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "27440",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2105088,
+        "CONCEPT_NAME": "Arthroplasty, knee, tibial plateau; with debridement and partial synovectomy",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "27441",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4078547,
+        "CONCEPT_NAME": "Arthroplasty of knee",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "19063003",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4101249,
+        "CONCEPT_NAME": "Arthroplasty of knee, condyle and plateau, lateral compartment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "27748003",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4236762,
+        "CONCEPT_NAME": "Arthroplasty of knee, condyle and plateau, medial compartment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "90827004",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4271851,
+        "CONCEPT_NAME": "Arthroplasty of knee, femoral condyles",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "64295009",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45442538,
+        "CONCEPT_NAME": "Arthroplasty of knee joint not using cement",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7K31.11",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45482685,
+        "CONCEPT_NAME": "Arthroplasty of knee joint using cement",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7K30.12",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4203318,
+        "CONCEPT_NAME": "Arthroplasty of knee, tibial plateau",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "53386008",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40644661,
+        "CONCEPT_NAME": "Arthroplasty of knee, tibial plateaus",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "86245001",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4145255,
+        "CONCEPT_NAME": "Arthroplasty of knee using cement",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "307817008",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4338528,
+        "CONCEPT_NAME": "Arthroplasty of knee with constrained prosthesis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "88056004",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4146312,
+        "CONCEPT_NAME": "Arthroplasty of knee without cement",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "307819006",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4274954,
+        "CONCEPT_NAME": "Arthroplasty of patella",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "65023008",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4033525,
+        "CONCEPT_NAME": "Arthroplasty of patella with prosthesis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "14555006",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45889826,
+        "CONCEPT_NAME": "Arthroplasty, patella",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1005065",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2105085,
+        "CONCEPT_NAME": "Arthroplasty, patella; without prosthesis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "27437",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2105086,
+        "CONCEPT_NAME": "Arthroplasty, patella; with prosthesis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "27438",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 38002124,
+        "CONCEPT_NAME": "Knee Arthroplasty",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "D",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "0681",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "APC",
+        "CONCEPT_CLASS_ID": "APC"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40308827,
+        "CONCEPT_NAME": "Knee arthroplasty (& replacement)",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "150150004",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 21499107,
+        "CONCEPT_NAME": "Ortho-Knee: Arthroplasty",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LA25611-7",
+        "DOMAIN_ID": "Meas Value",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Answer"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40261768,
+        "CONCEPT_NAME": "Other arthroplasty of knee joint",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "179357003",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45522511,
+        "CONCEPT_NAME": "Other arthroplasty of knee joint",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7K32.11",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40640247,
+        "CONCEPT_NAME": "Prosthetic arthroplasty of knee",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "83073004",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45469422,
+        "CONCEPT_NAME": "Prosthetic arthroplasty of the patellofemoral joint",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7K32600",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4034300,
+        "CONCEPT_NAME": "Prosthetic arthroplasty of the patellofemoral joint",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "239502007",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40545263,
+        "CONCEPT_NAME": "Prosthetic total arthroplasty of the knee",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "366801004",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4034299,
+        "CONCEPT_NAME": "Prosthetic unicompartmental arthroplasty of knee",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "239501000",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37111470,
+        "CONCEPT_NAME": "Prosthetic unicompartmental arthroplasty of left knee",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "726418000",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37118018,
+        "CONCEPT_NAME": "Prosthetic unicompartmental arthroplasty of right knee",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "726419008",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}
