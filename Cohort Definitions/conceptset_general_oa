@@ -1,0 +1,973 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 36210274,
+        "CONCEPT_NAME": "Arthritis- osteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LA27403-7",
+        "DOMAIN_ID": "Meas Value",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Answer"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4185423,
+        "CONCEPT_NAME": "Chronic osteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "43829003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4343920,
+        "CONCEPT_NAME": "Endemic osteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "239883006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4192894,
+        "CONCEPT_NAME": "Exacerbation of osteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "394991004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40572024,
+        "CONCEPT_NAME": "Exacerbation of osteoarthritis",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "393602007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45523664,
+        "CONCEPT_NAME": "Generalised osteoarthritis NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N050z00",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45450326,
+        "CONCEPT_NAME": "Generalised osteoarthritis - OA",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N050.00",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40400249,
+        "CONCEPT_NAME": "Generalised osteoarthritis of multiple sites",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201822003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45430440,
+        "CONCEPT_NAME": "Generalised osteoarthritis of multiple sites",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N050200",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4116452,
+        "CONCEPT_NAME": "Generalized osteoarthritis NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201828004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4035439,
+        "CONCEPT_NAME": "Idiopathic osteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "239862000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40400251,
+        "CONCEPT_NAME": "Idiopathic osteoarthritis",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201824002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40400717,
+        "CONCEPT_NAME": "[Joint degeneration] or [osteoarthritis NOS]",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201886002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45510338,
+        "CONCEPT_NAME": "Localised osteoarthritis, unspecified",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N053.00",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4115523,
+        "CONCEPT_NAME": "Localised osteoarthritis, unspecified",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201862004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45497036,
+        "CONCEPT_NAME": "Localised osteoarthritis, unspecified, NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N053z00",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45513748,
+        "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of other specified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N053800",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45503721,
+        "CONCEPT_NAME": "Localised, primary osteoarthritis of unspecified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N051000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45510337,
+        "CONCEPT_NAME": "Localised, secondary osteoarthritis",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N052.00",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45503723,
+        "CONCEPT_NAME": "Localised, secondary osteoarthritis NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N052z00",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45446976,
+        "CONCEPT_NAME": "Localised, secondary osteoarthritis of other specified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N052800",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4114587,
+        "CONCEPT_NAME": "Localised, secondary osteoarthritis of other specified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201856009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4116768,
+        "CONCEPT_NAME": "Localised, secondary osteoarthritis of unspecified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201848006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45443643,
+        "CONCEPT_NAME": "Localised, secondary osteoarthritis of unspecified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N052000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4116774,
+        "CONCEPT_NAME": "Localized osteoarthritis, unspecified, NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201873006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4116773,
+        "CONCEPT_NAME": "Localized osteoarthritis, unspecified, of other specified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201871008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 72993,
+        "CONCEPT_NAME": "Localized, primary osteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "201829007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 80802,
+        "CONCEPT_NAME": "Localized, secondary osteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "201847001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4116770,
+        "CONCEPT_NAME": "Localized, secondary osteoarthritis NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201861006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4115525,
+        "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201874000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45523668,
+        "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N054.00",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4116775,
+        "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified, of unspecified sites",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201875004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45467193,
+        "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified, of unspecified sites",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N054000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42539033,
+        "CONCEPT_NAME": "Oligoosteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "735598004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45423821,
+        "CONCEPT_NAME": "Osteoarthritis",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N05..11",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40400244,
+        "CONCEPT_NAME": "Osteoarthritis",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201818008",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Undefined"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4344441,
+        "CONCEPT_NAME": "Osteoarthritis",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N0000002244",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "NDFRT",
+        "CONCEPT_CLASS_ID": "Ind / CI"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 80180,
+        "CONCEPT_NAME": "Osteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "396275006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40320318,
+        "CONCEPT_NAME": "Osteoarthritis",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "156486003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45884766,
+        "CONCEPT_NAME": "Osteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LA17768-5",
+        "DOMAIN_ID": "Meas Value",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Answer"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45525185,
+        "CONCEPT_NAME": "OSTEOARTHRITIS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7130A",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "OXMIS",
+        "CONCEPT_CLASS_ID": "OXMIS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4144997,
+        "CONCEPT_NAME": "Osteoarthritis NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "267893001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40400752,
+        "CONCEPT_NAME": "Osteoarthritis NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201917002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45523669,
+        "CONCEPT_NAME": "Osteoarthritis NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N05zz00",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40320329,
+        "CONCEPT_NAME": "Osteoarthritis NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "156496007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45500371,
+        "CONCEPT_NAME": "Osteoarthritis NOS",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N05z.00",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4116458,
+        "CONCEPT_NAME": "Osteoarthritis NOS, of unspecified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201887006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45520378,
+        "CONCEPT_NAME": "Osteoarthritis NOS, of unspecified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N05z000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4115528,
+        "CONCEPT_NAME": "Osteoarthritis NOS, other specified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "201895005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45443647,
+        "CONCEPT_NAME": "Osteoarthritis NOS, other specified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "N05z800",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Read",
+        "CONCEPT_CLASS_ID": "Read"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4147779,
+        "CONCEPT_NAME": "Osteoarthritis of multiple joints",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "268054009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40320328,
+        "CONCEPT_NAME": "Osteoarthritis - other joint",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "156495006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4117879,
+        "CONCEPT_NAME": "Osteoarthritis - other joint",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "U",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "287013005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1570359,
+        "CONCEPT_NAME": "Osteoarthritis, unspecified site",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "M19.9",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "ICD10CM",
+        "CONCEPT_CLASS_ID": "4-char nonbill code"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1570340,
+        "CONCEPT_NAME": "Other and unspecified osteoarthritis",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "M19",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "ICD10CM",
+        "CONCEPT_CLASS_ID": "3-char nonbill code"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35208764,
+        "CONCEPT_NAME": "Other polyosteoarthritis",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "M15.8",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "ICD10CM",
+        "CONCEPT_CLASS_ID": "4-char billing code"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40481943,
+        "CONCEPT_NAME": "Secondary osteoarthritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "443524000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}
