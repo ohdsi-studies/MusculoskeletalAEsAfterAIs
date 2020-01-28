@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 4126168,
+        "CONCEPT_NAME": "Total hip replacement prosthesis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "304120007",
+        "DOMAIN_ID": "Device",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Physical Object"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}
