@@ -14,7 +14,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -31,7 +31,7 @@
         "CONCEPT_CLASS_ID": "4-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -48,7 +48,7 @@
         "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -65,7 +65,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -82,7 +82,7 @@
         "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -99,7 +99,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -116,7 +116,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -133,7 +133,7 @@
         "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -150,7 +150,7 @@
         "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -167,7 +167,7 @@
         "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -184,7 +184,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -201,7 +201,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -218,7 +218,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -235,7 +235,7 @@
         "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -252,7 +252,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -269,7 +269,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -286,7 +286,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -303,7 +303,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -320,7 +320,7 @@
         "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -337,7 +337,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -354,7 +354,7 @@
         "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -371,7 +371,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -388,7 +388,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -405,7 +405,7 @@
         "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -422,7 +422,7 @@
         "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -439,7 +439,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -456,7 +456,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -473,7 +473,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -490,7 +490,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -507,7 +507,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -524,7 +524,7 @@
         "CONCEPT_CLASS_ID": "3-char nonbill code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -541,7 +541,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -558,7 +558,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -575,7 +575,7 @@
         "CONCEPT_CLASS_ID": "4-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -592,7 +592,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -609,7 +609,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -626,7 +626,7 @@
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -643,7 +643,7 @@
         "CONCEPT_CLASS_ID": "4-char nonbill code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -660,7 +660,7 @@
         "CONCEPT_CLASS_ID": "5-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -677,7 +677,7 @@
         "CONCEPT_CLASS_ID": "5-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -694,7 +694,7 @@
         "CONCEPT_CLASS_ID": "5-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -711,7 +711,7 @@
         "CONCEPT_CLASS_ID": "5-char nonbill code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -728,7 +728,7 @@
         "CONCEPT_CLASS_ID": "6-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -745,7 +745,7 @@
         "CONCEPT_CLASS_ID": "6-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -762,7 +762,7 @@
         "CONCEPT_CLASS_ID": "6-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -779,7 +779,7 @@
         "CONCEPT_CLASS_ID": "5-char nonbill code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -796,7 +796,7 @@
         "CONCEPT_CLASS_ID": "6-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -813,7 +813,7 @@
         "CONCEPT_CLASS_ID": "5-char nonbill code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -830,7 +830,7 @@
         "CONCEPT_CLASS_ID": "6-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -847,7 +847,7 @@
         "CONCEPT_CLASS_ID": "5-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -864,7 +864,7 @@
         "CONCEPT_CLASS_ID": "5-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     },
     {
@@ -881,7 +881,7 @@
         "CONCEPT_CLASS_ID": "5-char billing code"
       },
       "isExcluded": false,
-      "includeDescendants": false,
+      "includeDescendants": true,
       "includeMapped": false
     }
   ]
