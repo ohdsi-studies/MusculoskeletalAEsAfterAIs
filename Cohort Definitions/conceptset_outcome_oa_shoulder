@@ -36,125 +36,6 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 4114589,
-        "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified, of the shoulder region",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "U",
-        "INVALID_REASON_CAPTION": "Invalid",
-        "CONCEPT_CODE": "201876003",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45510340,
-        "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified, of the shoulder region",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "N054100",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "Read",
-        "CONCEPT_CLASS_ID": "Read"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45520377,
-        "CONCEPT_NAME": "Localised, secondary osteoarthritis of the shoulder region",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "N052100",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "Read",
-        "CONCEPT_CLASS_ID": "Read"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45477220,
-        "CONCEPT_NAME": "Localised, primary osteoarthritis of the shoulder region",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "N051100",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "Read",
-        "CONCEPT_CLASS_ID": "Read"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 4114588,
-        "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of the shoulder region",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "U",
-        "INVALID_REASON_CAPTION": "Invalid",
-        "CONCEPT_CODE": "201864003",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45513747,
-        "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of the shoulder region",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "N053100",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "Read",
-        "CONCEPT_CLASS_ID": "Read"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 759880,
-        "CONCEPT_NAME": "Osteoarthritis of bilateral glenohumeral joints",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "1074421000119105",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 4035440,
         "CONCEPT_NAME": "Osteoarthritis of acromioclavicular joint",
         "STANDARD_CONCEPT": "S",
@@ -172,33 +53,16 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 4116918,
-        "CONCEPT_NAME": "Osteoarthritis NOS, of shoulder region",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "U",
-        "INVALID_REASON_CAPTION": "Invalid",
-        "CONCEPT_CODE": "201888001",
+        "CONCEPT_ID": 759880,
+        "CONCEPT_NAME": "Osteoarthritis of bilateral glenohumeral joints",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1074421000119105",
         "DOMAIN_ID": "Condition",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45430444,
-        "CONCEPT_NAME": "Osteoarthritis NOS, of shoulder region",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "N05z100",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "Read",
-        "CONCEPT_CLASS_ID": "Read"
       },
       "isExcluded": false,
       "includeDescendants": false,
@@ -257,210 +121,6 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 759879,
-        "CONCEPT_NAME": "Osteoarthritis of right glenohumeral joint",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "1074381000119101",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45543485,
-        "CONCEPT_NAME": "Post-traumatic osteoarthritis, left shoulder",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "M19.112",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "ICD10CM",
-        "CONCEPT_CLASS_ID": "6-char billing code"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45606132,
-        "CONCEPT_NAME": "Post-traumatic osteoarthritis, right shoulder",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "M19.111",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "ICD10CM",
-        "CONCEPT_CLASS_ID": "6-char billing code"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 1570348,
-        "CONCEPT_NAME": "Post-traumatic osteoarthritis, shoulder",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "M19.11",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "ICD10CM",
-        "CONCEPT_CLASS_ID": "5-char nonbill code"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45553098,
-        "CONCEPT_NAME": "Post-traumatic osteoarthritis, unspecified shoulder",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "M19.119",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "ICD10CM",
-        "CONCEPT_CLASS_ID": "6-char billing code"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45567472,
-        "CONCEPT_NAME": "Primary osteoarthritis, left shoulder",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "M19.012",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "ICD10CM",
-        "CONCEPT_CLASS_ID": "6-char billing code"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45591743,
-        "CONCEPT_NAME": "Primary osteoarthritis, right shoulder",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "M19.011",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "ICD10CM",
-        "CONCEPT_CLASS_ID": "6-char billing code"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45538687,
-        "CONCEPT_NAME": "Primary osteoarthritis, unspecified shoulder",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "M19.019",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "ICD10CM",
-        "CONCEPT_CLASS_ID": "6-char billing code"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45538688,
-        "CONCEPT_NAME": "Secondary osteoarthritis, left shoulder",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "M19.212",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "ICD10CM",
-        "CONCEPT_CLASS_ID": "6-char billing code"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45582063,
-        "CONCEPT_NAME": "Secondary osteoarthritis, right shoulder",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "M19.211",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "ICD10CM",
-        "CONCEPT_CLASS_ID": "6-char billing code"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45562651,
-        "CONCEPT_NAME": "Secondary osteoarthritis, unspecified shoulder",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "M19.219",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "ICD10CM",
-        "CONCEPT_CLASS_ID": "6-char billing code"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 40320320,
-        "CONCEPT_NAME": "Osteoarthritis of shoulder joint",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "INVALID_REASON": "U",
-        "INVALID_REASON_CAPTION": "Invalid",
-        "CONCEPT_CODE": "156488002",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": false,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 759882,
         "CONCEPT_NAME": "Osteoarthritis of left glenohumeral joint",
         "STANDARD_CONCEPT": "S",
@@ -468,6 +128,23 @@
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "CONCEPT_CODE": "1074441000119104",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 759879,
+        "CONCEPT_NAME": "Osteoarthritis of right glenohumeral joint",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1074381000119101",
         "DOMAIN_ID": "Condition",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Clinical Finding"
