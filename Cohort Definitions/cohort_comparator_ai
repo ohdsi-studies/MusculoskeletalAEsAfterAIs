@@ -3578,13 +3578,230 @@
           }
         ]
       }
+    },
+    {
+      "id": 8,
+      "name": "[MSK-AI] aromatase inhibitors drug",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "f7074834-ce60-4ae5-b368-0c338b5cbb54",
+              "CONCEPT_ID": 45803469,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "b55863f0-5f4d-4e5f-b394-473bdfcf079b",
+              "CONCEPT_ID": 45629142,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "95eb0931-d177-40f6-9bf4-6ba20c9cbf43",
+              "CONCEPT_ID": 45633960,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "064876a8-97d8-495e-8240-0df8ed2a97d1",
+              "CONCEPT_ID": 45636441,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "4bd1c013-75b6-4b68-a356-65d5bbc141e5",
+              "CONCEPT_ID": 45671055,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "9cd2b991-c3fa-4c04-99db-c4b64c6396cf",
+              "CONCEPT_ID": 45678497,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "0952644e-ef42-4dcb-b07f-6901cda78ec0",
+              "CONCEPT_ID": 45703064,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "29d3764c-c67b-4505-8f2d-c4949427d1f3",
+              "CONCEPT_ID": 45782425,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ATC 4th",
+              "CONCEPT_CODE": "L02BG",
+              "CONCEPT_ID": 21603838,
+              "CONCEPT_NAME": "Aromatase inhibitors",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "ATC"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "name": "[MSK-AI] aromatase inhibitors observation",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Substance",
+              "CONCEPT_CODE": "413575009",
+              "CONCEPT_ID": 4187775,
+              "CONCEPT_NAME": "Aromatase inhibitor",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Disposition",
+              "CONCEPT_CODE": "734580007",
+              "CONCEPT_ID": 42536009,
+              "CONCEPT_NAME": "Aromatase inhibitor",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Context-dependent",
+              "CONCEPT_CODE": "449351000124100",
+              "CONCEPT_ID": 763984,
+              "CONCEPT_NAME": "Long-term current use of aromatase inhibitor",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Context-dependent",
+              "CONCEPT_CODE": "123371000119105",
+              "CONCEPT_ID": 37108767,
+              "CONCEPT_NAME": "Prophylactic aromatase inhibitors given",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
     }
   ],
   "PrimaryCriteria": {
     "CriteriaList": [
       {
         "DrugExposure": {
-          "CodesetId": 7,
+          "CodesetId": 8,
+          "First": true
+        }
+      },
+      {
+        "Observation": {
+          "CodesetId": 9,
           "First": true
         }
       }
