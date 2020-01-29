@@ -564,6 +564,230 @@
           }
         ]
       }
+    },
+    {
+      "id": 1,
+      "name": "[MSK-AI] CTS condition",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "12265501000119101",
+              "CONCEPT_ID": 760925,
+              "CONCEPT_NAME": "Bilateral carpal tunnel syndrome",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "57406009",
+              "CONCEPT_ID": 380094,
+              "CONCEPT_NAME": "Carpal tunnel syndrome",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "293861000119102",
+              "CONCEPT_ID": 762150,
+              "CONCEPT_NAME": "Carpal tunnel syndrome of left wrist",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "293871000119108",
+              "CONCEPT_ID": 762151,
+              "CONCEPT_NAME": "Carpal tunnel syndrome of right wrist",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "[MSK-AI] CTS measurement",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "80880-8",
+              "CONCEPT_ID": 21494055,
+              "CONCEPT_NAME": "US Guidance for injection of Carpal tunnel",
+              "DOMAIN_ID": "Measurement",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "[MSK-AI] CTS meas value",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Answer",
+              "CONCEPT_CODE": "LA25594-5",
+              "CONCEPT_ID": 21498742,
+              "CONCEPT_NAME": "Ortho-Elbow/wrist/hand: Carpal tunnel surgery",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "[MSK-AI] CTS procedure",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "171841007",
+              "CONCEPT_ID": 4066890,
+              "CONCEPT_NAME": "Endoscopic carpal tunnel release",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "53006003",
+              "CONCEPT_ID": 4204075,
+              "CONCEPT_NAME": "Exploration of carpal tunnel",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "182641004",
+              "CONCEPT_ID": 4082236,
+              "CONCEPT_NAME": "Injection of carpal tunnel",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "16560008",
+              "CONCEPT_ID": 4041195,
+              "CONCEPT_NAME": "Neurolysis of carpal tunnel",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "359901001",
+              "CONCEPT_ID": 4235010,
+              "CONCEPT_NAME": "Neuroplasty and transposition of median nerve at carpal tunnel",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "10431008",
+              "CONCEPT_ID": 4014640,
+              "CONCEPT_NAME": "Neuroplasty of median nerve at carpal tunnel",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "359904009",
+              "CONCEPT_ID": 4234291,
+              "CONCEPT_NAME": "Transposition of median nerve at carpal tunnel",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
     }
   ],
   "PrimaryCriteria": {
@@ -605,13 +829,73 @@
           {
             "Criteria": {
               "ConditionOccurrence": {
-                "CodesetId": 0,
+                "CodesetId": 1,
                 "First": true
               }
             },
             "StartWindow": {
               "Start": {
                 "Days": 0,
+                "Coeff": -1
+              },
+              "End": {
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "Measurement": {
+                "CodesetId": 2
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Coeff": -1
+              },
+              "End": {
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "Measurement": {
+                "CodesetId": 3
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Coeff": -1
+              },
+              "End": {
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "ProcedureOccurrence": {
+                "CodesetId": 4
+              }
+            },
+            "StartWindow": {
+              "Start": {
                 "Coeff": -1
               },
               "End": {
