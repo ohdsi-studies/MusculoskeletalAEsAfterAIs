@@ -3843,6 +3843,7 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
