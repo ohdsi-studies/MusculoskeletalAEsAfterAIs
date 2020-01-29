@@ -2141,7 +2141,7 @@
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
             },
-            "includeDescendants": true
+            "isExcluded": true
           },
           {
             "concept": {
@@ -2162,100 +2162,30 @@
       }
     },
     {
-      "id": 2,
-      "name": "[MSK-AI] CTS",
+      "id": 3,
+      "name": "[MSK-AI] hip osteoarthritis",
       "expression": {
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "12265501000119101",
-              "CONCEPT_ID": 760925,
-              "CONCEPT_NAME": "Bilateral carpal tunnel syndrome",
+              "CONCEPT_CLASS_ID": "4-char billing code",
+              "CONCEPT_CODE": "M16.2",
+              "CONCEPT_ID": 35208767,
+              "CONCEPT_NAME": "Bilateral osteoarthritis resulting from hip dysplasia",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "7056011",
-              "CONCEPT_ID": 45495534,
-              "CONCEPT_NAME": "Carpal tunnel decompression",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
+              "VOCABULARY_ID": "ICD10CM"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "A65.1",
-              "CONCEPT_ID": 44508054,
-              "CONCEPT_NAME": "Carpal tunnel release",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "OPCS4"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "7056000",
-              "CONCEPT_ID": 45495533,
-              "CONCEPT_NAME": "Carpal tunnel release",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "DRG",
-              "CONCEPT_CODE": "006",
-              "CONCEPT_ID": 38000290,
-              "CONCEPT_NAME": "Carpal Tunnel Release",
-              "DOMAIN_ID": "Observation",
-              "INVALID_REASON": "D",
-              "INVALID_REASON_CAPTION": "Invalid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "DRG"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "57406009",
-              "CONCEPT_ID": 380094,
-              "CONCEPT_NAME": "Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "4-char nonbill code",
-              "CONCEPT_CODE": "G56.0",
-              "CONCEPT_ID": 1568375,
-              "CONCEPT_NAME": "Carpal tunnel syndrome",
+              "CONCEPT_CLASS_ID": "4-char billing code",
+              "CONCEPT_CODE": "M16.0",
+              "CONCEPT_ID": 35208766,
+              "CONCEPT_NAME": "Bilateral primary osteoarthritis of hip",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -2267,9 +2197,9 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "155073007",
-              "CONCEPT_ID": 40322794,
-              "CONCEPT_NAME": "Carpal tunnel syndrome",
+              "CONCEPT_CODE": "201892008",
+              "CONCEPT_ID": 40400724,
+              "CONCEPT_NAME": "Hip osteoarthritis NOS",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "U",
               "INVALID_REASON_CAPTION": "Invalid",
@@ -2280,24 +2210,10 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "4-dig billing code",
-              "CONCEPT_CODE": "354.0",
-              "CONCEPT_ID": 44834640,
-              "CONCEPT_NAME": "Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD9CM"
-            }
-          },
-          {
-            "concept": {
               "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "F340.00",
-              "CONCEPT_ID": 45466763,
-              "CONCEPT_NAME": "Carpal tunnel syndrome",
+              "CONCEPT_CODE": "N05z511",
+              "CONCEPT_ID": 45437062,
+              "CONCEPT_NAME": "Hip osteoarthritis NOS",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -2308,383 +2224,194 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10 code",
-              "CONCEPT_CODE": "G56.0",
-              "CONCEPT_ID": 45566891,
-              "CONCEPT_NAME": "Carpal tunnel syndrome",
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "201868000",
+              "CONCEPT_ID": 40400697,
+              "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of the pelvic region and thigh",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "267891004",
+              "CONCEPT_ID": 4149045,
+              "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of the pelvic region and thigh",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Read",
+              "CONCEPT_CODE": "N053500",
+              "CONCEPT_ID": 45453633,
+              "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of the pelvic region and thigh",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10"
+              "VOCABULARY_ID": "Read"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Read",
+              "CONCEPT_CODE": "N051500",
+              "CONCEPT_ID": 45490472,
+              "CONCEPT_NAME": "Localised, primary osteoarthritis of the pelvic region and thigh",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "Read"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Read",
+              "CONCEPT_CODE": "N052500",
+              "CONCEPT_ID": 45443644,
+              "CONCEPT_NAME": "Localised, secondary osteoarthritis of the pelvic region and thigh",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "Read"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "201835007",
+              "CONCEPT_ID": 4115379,
+              "CONCEPT_NAME": "Localized, primary osteoarthritis of the pelvic region and thigh",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Read",
+              "CONCEPT_CODE": "N054500",
+              "CONCEPT_ID": 45450329,
+              "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified, of the pelvic region and thigh",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "Read"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "201880008",
+              "CONCEPT_ID": 4114591,
+              "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified, of the pelvic region and thigh",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
             }
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Ind / CI",
-              "CONCEPT_CODE": "N0000000693",
-              "CONCEPT_ID": 4344641,
-              "CONCEPT_NAME": "Carpal Tunnel Syndrome",
+              "CONCEPT_CODE": "N0000003201",
+              "CONCEPT_ID": 4266903,
+              "CONCEPT_NAME": "Osteoarthritis, Hip",
               "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
               "VOCABULARY_ID": "NDFRT"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "5-char billing code",
-              "CONCEPT_CODE": "G56.03",
-              "CONCEPT_ID": 37200332,
-              "CONCEPT_NAME": "Carpal tunnel syndrome, bilateral upper limbs",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10CM"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "5-char billing code",
-              "CONCEPT_CODE": "G56.02",
-              "CONCEPT_ID": 45538124,
-              "CONCEPT_NAME": "Carpal tunnel syndrome, left upper limb",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10CM"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "293861000119102",
-              "CONCEPT_ID": 762150,
-              "CONCEPT_NAME": "Carpal tunnel syndrome of left wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "293871000119108",
-              "CONCEPT_ID": 762151,
-              "CONCEPT_NAME": "Carpal tunnel syndrome of right wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "5-char billing code",
-              "CONCEPT_CODE": "G56.01",
-              "CONCEPT_ID": 45576596,
-              "CONCEPT_NAME": "Carpal tunnel syndrome, right upper limb",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10CM"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "5-char billing code",
-              "CONCEPT_CODE": "G56.00",
-              "CONCEPT_ID": 45605567,
-              "CONCEPT_NAME": "Carpal tunnel syndrome, unspecified upper limb",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10CM"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "F340.12",
-              "CONCEPT_ID": 45433321,
-              "CONCEPT_NAME": "CTS - Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "193126005",
-              "CONCEPT_ID": 40391549,
-              "CONCEPT_NAME": "CTS - Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "U",
-              "INVALID_REASON_CAPTION": "Invalid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "SNOMED"
             },
             "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "OXMIS",
-              "CONCEPT_CODE": "K0411",
-              "CONCEPT_ID": 45528458,
-              "CONCEPT_NAME": "DECOMPRESSION CARPAL TUNNEL",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "OXMIS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "171841007",
-              "CONCEPT_ID": 4066890,
-              "CONCEPT_NAME": "Endoscopic carpal tunnel release",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "7056400",
-              "CONCEPT_ID": 45469061,
-              "CONCEPT_NAME": "Endoscopic carpal tunnel release",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "53006003",
-              "CONCEPT_ID": 4204075,
-              "CONCEPT_NAME": "Exploration of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "182641004",
-              "CONCEPT_ID": 4082236,
-              "CONCEPT_NAME": "Injection of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "150871006",
-              "CONCEPT_ID": 40312098,
-              "CONCEPT_NAME": "Injection of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "U",
-              "INVALID_REASON_CAPTION": "Invalid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "85BE.00",
-              "CONCEPT_ID": 45512703,
-              "CONCEPT_NAME": "Injection of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "20526",
-              "CONCEPT_ID": 2102894,
-              "CONCEPT_NAME": "Injection, therapeutic (eg, local anesthetic, corticosteroid), carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "16560008",
-              "CONCEPT_ID": 4041195,
-              "CONCEPT_NAME": "Neurolysis of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "64721",
-              "CONCEPT_ID": 2110823,
-              "CONCEPT_NAME": "Neuroplasty and/or transposition; median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "359901001",
-              "CONCEPT_ID": 4235010,
-              "CONCEPT_NAME": "Neuroplasty and transposition of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "10431008",
-              "CONCEPT_ID": 4014640,
-              "CONCEPT_NAME": "Neuroplasty of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Answer",
-              "CONCEPT_CODE": "LA25594-5",
-              "CONCEPT_ID": 21498742,
-              "CONCEPT_NAME": "Ortho-Elbow/wrist/hand: Carpal tunnel surgery",
-              "DOMAIN_ID": "Meas Value",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "LOINC"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "4-dig billing code",
-              "CONCEPT_CODE": "04.43",
-              "CONCEPT_ID": 2000217,
-              "CONCEPT_NAME": "Release of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD9Proc"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "OXMIS",
-              "CONCEPT_CODE": "357 C",
-              "CONCEPT_ID": 45526976,
-              "CONCEPT_NAME": "SYNDROME CARPAL TUNNEL",
+              "CONCEPT_CODE": "7130DA",
+              "CONCEPT_ID": 45527231,
+              "CONCEPT_NAME": "OSTEOARTHRITIS HIP",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
               "VOCABULARY_ID": "OXMIS"
-            },
-            "includeDescendants": true
+            }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "21667004",
-              "CONCEPT_ID": 40414350,
-              "CONCEPT_NAME": "Transposition of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "239857001",
+              "CONCEPT_ID": 40440091,
+              "CONCEPT_NAME": "Osteoarthritis NOS, of hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "201905004",
+              "CONCEPT_ID": 4116588,
+              "CONCEPT_NAME": "Osteoarthritis NOS, of hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Read",
+              "CONCEPT_CODE": "N05zJ00",
+              "CONCEPT_ID": 45443649,
+              "CONCEPT_NAME": "Osteoarthritis NOS, of hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "Read"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "267897000",
+              "CONCEPT_ID": 4149048,
+              "CONCEPT_NAME": "Osteoarthritis NOS, pelvic region/thigh",
+              "DOMAIN_ID": "Condition",
               "INVALID_REASON": "U",
               "INVALID_REASON_CAPTION": "Invalid",
               "STANDARD_CONCEPT": "N",
@@ -2695,11 +2422,26 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "359904009",
-              "CONCEPT_ID": 4234291,
-              "CONCEPT_NAME": "Transposition of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
+              "CONCEPT_CLASS_ID": "Read",
+              "CONCEPT_CODE": "N05z500",
+              "CONCEPT_ID": 45470615,
+              "CONCEPT_NAME": "Osteoarthritis NOS, pelvic region/thigh",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "Read"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "112991000119105",
+              "CONCEPT_ID": 36684455,
+              "CONCEPT_NAME": "Osteoarthritis of bilateral hip joints",
+              "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
@@ -2710,16 +2452,316 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Observation",
-              "CONCEPT_CODE": "80880-8",
-              "CONCEPT_ID": 21494055,
-              "CONCEPT_NAME": "US Guidance for injection of Carpal tunnel",
-              "DOMAIN_ID": "Measurement",
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "156492009",
+              "CONCEPT_ID": 40320325,
+              "CONCEPT_NAME": "Osteoarthritis of hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "239872002",
+              "CONCEPT_ID": 4079749,
+              "CONCEPT_NAME": "Osteoarthritis of hip",
+              "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "LOINC"
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "3-char nonbill code",
+              "CONCEPT_CODE": "M16",
+              "CONCEPT_ID": 1570329,
+              "CONCEPT_NAME": "Osteoarthritis of hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "303001000119101",
+              "CONCEPT_ID": 37395586,
+              "CONCEPT_NAME": "Osteoarthritis of hip co-occurrent and due to dysplasia",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "712504007",
+              "CONCEPT_ID": 46273178,
+              "CONCEPT_NAME": "Osteoarthritis of hip due to dysplasia",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "4-char billing code",
+              "CONCEPT_CODE": "M16.9",
+              "CONCEPT_ID": 35208771,
+              "CONCEPT_NAME": "Osteoarthritis of hip, unspecified",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "323291000119108",
+              "CONCEPT_ID": 36713109,
+              "CONCEPT_NAME": "Osteoarthritis of left hip joint",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "323311000119107",
+              "CONCEPT_ID": 36713110,
+              "CONCEPT_NAME": "Osteoarthritis of right hip joint",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "4-char billing code",
+              "CONCEPT_CODE": "M16.6",
+              "CONCEPT_ID": 35208769,
+              "CONCEPT_NAME": "Other bilateral secondary osteoarthritis of hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "4-char billing code",
+              "CONCEPT_CODE": "M16.7",
+              "CONCEPT_ID": 35208770,
+              "CONCEPT_NAME": "Other unilateral secondary osteoarthritis of hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "4-char nonbill code",
+              "CONCEPT_CODE": "M16.3",
+              "CONCEPT_ID": 1570331,
+              "CONCEPT_NAME": "Unilateral osteoarthritis resulting from hip dysplasia",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "5-char billing code",
+              "CONCEPT_CODE": "M16.32",
+              "CONCEPT_ID": 45572372,
+              "CONCEPT_NAME": "Unilateral osteoarthritis resulting from hip dysplasia, left hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "5-char billing code",
+              "CONCEPT_CODE": "M16.31",
+              "CONCEPT_ID": 45553095,
+              "CONCEPT_NAME": "Unilateral osteoarthritis resulting from hip dysplasia, right hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "5-char billing code",
+              "CONCEPT_CODE": "M16.30",
+              "CONCEPT_ID": 45606126,
+              "CONCEPT_NAME": "Unilateral osteoarthritis resulting from hip dysplasia, unspecified hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "5-char billing code",
+              "CONCEPT_CODE": "M16.52",
+              "CONCEPT_ID": 45572373,
+              "CONCEPT_NAME": "Unilateral post-traumatic osteoarthritis, left hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "4-char nonbill code",
+              "CONCEPT_CODE": "M16.5",
+              "CONCEPT_ID": 1570332,
+              "CONCEPT_NAME": "Unilateral post-traumatic osteoarthritis of hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "5-char billing code",
+              "CONCEPT_CODE": "M16.50",
+              "CONCEPT_ID": 45601349,
+              "CONCEPT_NAME": "Unilateral post-traumatic osteoarthritis, unspecified hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "5-char billing code",
+              "CONCEPT_CODE": "M16.12",
+              "CONCEPT_ID": 45577164,
+              "CONCEPT_NAME": "Unilateral primary osteoarthritis, left hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "4-char nonbill code",
+              "CONCEPT_CODE": "M16.1",
+              "CONCEPT_ID": 1570330,
+              "CONCEPT_NAME": "Unilateral primary osteoarthritis of hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "5-char billing code",
+              "CONCEPT_CODE": "M16.11",
+              "CONCEPT_ID": 45586889,
+              "CONCEPT_NAME": "Unilateral primary osteoarthritis, right hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "5-char billing code",
+              "CONCEPT_CODE": "M16.10",
+              "CONCEPT_ID": 45577163,
+              "CONCEPT_NAME": "Unilateral primary osteoarthritis, unspecified hip",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "ICD10CM"
             },
             "includeDescendants": true
           }
@@ -2727,7 +2769,437 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
+      "name": "[MSK-AI] hip arthroplasty",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "CPT4",
+              "CONCEPT_CODE": "01214",
+              "CONCEPT_ID": 2101634,
+              "CONCEPT_NAME": "Anesthesia for open procedures involving hip joint; total hip arthroplasty",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "CPT4"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "53081006",
+              "CONCEPT_ID": 4200387,
+              "CONCEPT_NAME": "Arthroplasty, acetabular and proximal femoral, prosthetic replacement",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "CPT4",
+              "CONCEPT_CODE": "27130",
+              "CONCEPT_ID": 2104836,
+              "CONCEPT_NAME": "Arthroplasty, acetabular and proximal femoral prosthetic replacement (total hip arthroplasty), with or without autograft or allograft",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "CPT4"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "57589001",
+              "CONCEPT_ID": 4239154,
+              "CONCEPT_NAME": "Arthroplasty, acetabular and proximal femoral prosthetic replacement, with allograft",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "76915002",
+              "CONCEPT_ID": 4297999,
+              "CONCEPT_NAME": "Arthroplasty, acetabular and proximal femoral prosthetic replacement, with autograft",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Read",
+              "CONCEPT_CODE": "7K20.11",
+              "CONCEPT_ID": 45465965,
+              "CONCEPT_NAME": "Arthroplasty of hip joint using cement",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "Read"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "307814001",
+              "CONCEPT_ID": 4146785,
+              "CONCEPT_NAME": "Arthroplasty of hip joint using cement",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "83381006",
+              "CONCEPT_ID": 4306618,
+              "CONCEPT_NAME": "Arthroplasty of hip with bone graft",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "307815000",
+              "CONCEPT_ID": 4146310,
+              "CONCEPT_NAME": "Arthroplasty of hip without cement",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "150145005",
+              "CONCEPT_ID": 40308822,
+              "CONCEPT_NAME": "Arthroplasty of the hip",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "150141001",
+              "CONCEPT_ID": 40308818,
+              "CONCEPT_NAME": "Arthroplasty of the hip",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "OXMIS",
+              "CONCEPT_CODE": "K811",
+              "CONCEPT_ID": 45528555,
+              "CONCEPT_NAME": "HIP ARTHROPLASTY",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "OXMIS"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "150146006",
+              "CONCEPT_ID": 40308823,
+              "CONCEPT_NAME": "Hip arthroplasty NOS",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "287873004",
+              "CONCEPT_ID": 4121248,
+              "CONCEPT_NAME": "Hip arthroplasty NOS",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "239500004",
+              "CONCEPT_ID": 4034298,
+              "CONCEPT_NAME": "Interposition arthroplasty of the hip",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Read",
+              "CONCEPT_CODE": "7K22.11",
+              "CONCEPT_ID": 45419472,
+              "CONCEPT_NAME": "Other arthroplasty of hip joint",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "Read"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "444051004",
+              "CONCEPT_ID": 40484624,
+              "CONCEPT_NAME": "Prosthetic arthroplasty of bilateral hips",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "430688009",
+              "CONCEPT_ID": 4326674,
+              "CONCEPT_NAME": "Prosthetic arthroplasty of left hip",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "430694001",
+              "CONCEPT_ID": 4326677,
+              "CONCEPT_NAME": "Prosthetic arthroplasty of right hip",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "397956004",
+              "CONCEPT_ID": 4162099,
+              "CONCEPT_NAME": "Prosthetic arthroplasty of the hip",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "770606008",
+              "CONCEPT_ID": 36674771,
+              "CONCEPT_NAME": "Prosthetic total arthroplasty of left hip",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "239498000",
+              "CONCEPT_ID": 40438212,
+              "CONCEPT_NAME": "Prosthetic total arthroplasty of the hip",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "150142008",
+              "CONCEPT_ID": 40308819,
+              "CONCEPT_NAME": "Prosthetic total arthroplasty of the hip",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Neoplasm of breast",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "45221000119105",
+              "CONCEPT_ID": 37016439,
+              "CONCEPT_NAME": "Primary invasive malignant neoplasm of female breast",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "372137005",
+              "CONCEPT_ID": 4162253,
+              "CONCEPT_NAME": "Primary malignant neoplasm of breast",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "[LEGEND HTN] Malignant neoplasms of breast",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "254837009",
+              "CONCEPT_ID": 4112853,
+              "CONCEPT_NAME": "Malignant tumor of breast",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "128462008",
+              "CONCEPT_ID": 432851,
+              "CONCEPT_NAME": "Secondary malignant neoplastic disease",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
       "name": "[MSK-AI]aromatase inhibitors",
       "expression": {
         "items": [
@@ -3112,7 +3584,7 @@
     "CriteriaList": [
       {
         "DrugExposure": {
-          "CodesetId": 3,
+          "CodesetId": 7,
           "First": true
         }
       }
@@ -3153,13 +3625,12 @@
         "CriteriaList": [
           {
             "Criteria": {
-              "ConditionEra": {
-                "CodesetId": 1
+              "ConditionOccurrence": {
+                "CodesetId": 6
               }
             },
             "StartWindow": {
               "Start": {
-                "Days": 365,
                 "Coeff": -1
               },
               "End": {
@@ -3181,12 +3652,6 @@
   "CensoringCriteria": [
     {
       "Death": {}
-    },
-    {
-      "ConditionEra": {
-        "CodesetId": 2,
-        "First": true
-      }
     }
   ],
   "CollapseSettings": {
