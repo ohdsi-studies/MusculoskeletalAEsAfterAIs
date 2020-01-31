@@ -7,558 +7,558 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "12265501000119101",
               "CONCEPT_ID": 760925,
               "CONCEPT_NAME": "Bilateral carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "12265501000119101",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "7056011",
               "CONCEPT_ID": 45495534,
               "CONCEPT_NAME": "Carpal tunnel decompression",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "7056011",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "Read",
+              "CONCEPT_CLASS_ID": "Read"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "A65.1",
               "CONCEPT_ID": 44508054,
               "CONCEPT_NAME": "Carpal tunnel release",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "OPCS4"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "A65.1",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "OPCS4",
+              "CONCEPT_CLASS_ID": "Procedure"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "7056000",
               "CONCEPT_ID": 45495533,
               "CONCEPT_NAME": "Carpal tunnel release",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "7056000",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "Read",
+              "CONCEPT_CLASS_ID": "Read"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "DRG",
-              "CONCEPT_CODE": "006",
               "CONCEPT_ID": 38000290,
               "CONCEPT_NAME": "Carpal Tunnel Release",
-              "DOMAIN_ID": "Observation",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
               "INVALID_REASON": "D",
               "INVALID_REASON_CAPTION": "Invalid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "DRG"
+              "CONCEPT_CODE": "006",
+              "DOMAIN_ID": "Observation",
+              "VOCABULARY_ID": "DRG",
+              "CONCEPT_CLASS_ID": "DRG"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "57406009",
               "CONCEPT_ID": 380094,
               "CONCEPT_NAME": "Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "57406009",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "4-char nonbill code",
-              "CONCEPT_CODE": "G56.0",
               "CONCEPT_ID": 1568375,
               "CONCEPT_NAME": "Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10CM"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "G56.0",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "ICD10CM",
+              "CONCEPT_CLASS_ID": "4-char nonbill code"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "155073007",
               "CONCEPT_ID": 40322794,
               "CONCEPT_NAME": "Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "U",
-              "INVALID_REASON_CAPTION": "Invalid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "CONCEPT_CODE": "155073007",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "4-dig billing code",
-              "CONCEPT_CODE": "354.0",
               "CONCEPT_ID": 44834640,
               "CONCEPT_NAME": "Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD9CM"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "354.0",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "ICD9CM",
+              "CONCEPT_CLASS_ID": "4-dig billing code"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "F340.00",
               "CONCEPT_ID": 45466763,
               "CONCEPT_NAME": "Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "F340.00",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "Read",
+              "CONCEPT_CLASS_ID": "Read"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10 code",
-              "CONCEPT_CODE": "G56.0",
               "CONCEPT_ID": 45566891,
               "CONCEPT_NAME": "Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "G56.0",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "ICD10",
+              "CONCEPT_CLASS_ID": "ICD10 code"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Ind / CI",
-              "CONCEPT_CODE": "N0000000693",
               "CONCEPT_ID": 4344641,
               "CONCEPT_NAME": "Carpal Tunnel Syndrome",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "NDFRT"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "N0000000693",
+              "DOMAIN_ID": "Drug",
+              "VOCABULARY_ID": "NDFRT",
+              "CONCEPT_CLASS_ID": "Ind / CI"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "5-char billing code",
-              "CONCEPT_CODE": "G56.03",
               "CONCEPT_ID": 37200332,
               "CONCEPT_NAME": "Carpal tunnel syndrome, bilateral upper limbs",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10CM"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "G56.03",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "ICD10CM",
+              "CONCEPT_CLASS_ID": "5-char billing code"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "5-char billing code",
-              "CONCEPT_CODE": "G56.02",
               "CONCEPT_ID": 45538124,
               "CONCEPT_NAME": "Carpal tunnel syndrome, left upper limb",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10CM"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "G56.02",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "ICD10CM",
+              "CONCEPT_CLASS_ID": "5-char billing code"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "293861000119102",
               "CONCEPT_ID": 762150,
               "CONCEPT_NAME": "Carpal tunnel syndrome of left wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "293861000119102",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "293871000119108",
               "CONCEPT_ID": 762151,
               "CONCEPT_NAME": "Carpal tunnel syndrome of right wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "293871000119108",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "5-char billing code",
-              "CONCEPT_CODE": "G56.01",
               "CONCEPT_ID": 45576596,
               "CONCEPT_NAME": "Carpal tunnel syndrome, right upper limb",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10CM"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "G56.01",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "ICD10CM",
+              "CONCEPT_CLASS_ID": "5-char billing code"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "5-char billing code",
-              "CONCEPT_CODE": "G56.00",
               "CONCEPT_ID": 45605567,
               "CONCEPT_NAME": "Carpal tunnel syndrome, unspecified upper limb",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD10CM"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "G56.00",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "ICD10CM",
+              "CONCEPT_CLASS_ID": "5-char billing code"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "F340.12",
               "CONCEPT_ID": 45433321,
               "CONCEPT_NAME": "CTS - Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "F340.12",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "Read",
+              "CONCEPT_CLASS_ID": "Read"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "193126005",
               "CONCEPT_ID": 40391549,
               "CONCEPT_NAME": "CTS - Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "U",
-              "INVALID_REASON_CAPTION": "Invalid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "CONCEPT_CODE": "193126005",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "OXMIS",
-              "CONCEPT_CODE": "K0411",
               "CONCEPT_ID": 45528458,
               "CONCEPT_NAME": "DECOMPRESSION CARPAL TUNNEL",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "OXMIS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "K0411",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "OXMIS",
+              "CONCEPT_CLASS_ID": "OXMIS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "171841007",
               "CONCEPT_ID": 4066890,
               "CONCEPT_NAME": "Endoscopic carpal tunnel release",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "171841007",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "7056400",
               "CONCEPT_ID": 45469061,
               "CONCEPT_NAME": "Endoscopic carpal tunnel release",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "7056400",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "Read",
+              "CONCEPT_CLASS_ID": "Read"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "53006003",
               "CONCEPT_ID": 4204075,
               "CONCEPT_NAME": "Exploration of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "53006003",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "182641004",
               "CONCEPT_ID": 4082236,
               "CONCEPT_NAME": "Injection of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "182641004",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "150871006",
               "CONCEPT_ID": 40312098,
               "CONCEPT_NAME": "Injection of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "U",
-              "INVALID_REASON_CAPTION": "Invalid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "CONCEPT_CODE": "150871006",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Read",
-              "CONCEPT_CODE": "85BE.00",
               "CONCEPT_ID": 45512703,
               "CONCEPT_NAME": "Injection of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Read"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "85BE.00",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "Read",
+              "CONCEPT_CLASS_ID": "Read"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "20526",
               "CONCEPT_ID": 2102894,
               "CONCEPT_NAME": "Injection, therapeutic (eg, local anesthetic, corticosteroid), carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "20526",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "CPT4",
+              "CONCEPT_CLASS_ID": "CPT4"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "16560008",
               "CONCEPT_ID": 4041195,
               "CONCEPT_NAME": "Neurolysis of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "16560008",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "64721",
               "CONCEPT_ID": 2110823,
               "CONCEPT_NAME": "Neuroplasty and/or transposition; median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "64721",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "CPT4",
+              "CONCEPT_CLASS_ID": "CPT4"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "359901001",
               "CONCEPT_ID": 4235010,
               "CONCEPT_NAME": "Neuroplasty and transposition of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "359901001",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "10431008",
               "CONCEPT_ID": 4014640,
               "CONCEPT_NAME": "Neuroplasty of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "10431008",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Answer",
-              "CONCEPT_CODE": "LA25594-5",
               "CONCEPT_ID": 21498742,
               "CONCEPT_NAME": "Ortho-Elbow/wrist/hand: Carpal tunnel surgery",
-              "DOMAIN_ID": "Meas Value",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "LOINC"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "LA25594-5",
+              "DOMAIN_ID": "Meas Value",
+              "VOCABULARY_ID": "LOINC",
+              "CONCEPT_CLASS_ID": "Answer"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "4-dig billing code",
-              "CONCEPT_CODE": "04.43",
               "CONCEPT_ID": 2000217,
               "CONCEPT_NAME": "Release of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "ICD9Proc"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "04.43",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD9Proc",
+              "CONCEPT_CLASS_ID": "4-dig billing code"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "OXMIS",
-              "CONCEPT_CODE": "357 C",
               "CONCEPT_ID": 45526976,
               "CONCEPT_NAME": "SYNDROME CARPAL TUNNEL",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "OXMIS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "357 C",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "OXMIS",
+              "CONCEPT_CLASS_ID": "OXMIS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "21667004",
               "CONCEPT_ID": 40414350,
               "CONCEPT_NAME": "Transposition of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "U",
-              "INVALID_REASON_CAPTION": "Invalid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "CONCEPT_CODE": "21667004",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "359904009",
               "CONCEPT_ID": 4234291,
               "CONCEPT_NAME": "Transposition of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "359904009",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Observation",
-              "CONCEPT_CODE": "80880-8",
               "CONCEPT_ID": 21494055,
               "CONCEPT_NAME": "US Guidance for injection of Carpal tunnel",
-              "DOMAIN_ID": "Measurement",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "LOINC"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "80880-8",
+              "DOMAIN_ID": "Measurement",
+              "VOCABULARY_ID": "LOINC",
+              "CONCEPT_CLASS_ID": "Clinical Observation"
             },
             "includeDescendants": true
           }
@@ -572,58 +572,58 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "12265501000119101",
               "CONCEPT_ID": 760925,
               "CONCEPT_NAME": "Bilateral carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "12265501000119101",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "57406009",
               "CONCEPT_ID": 380094,
               "CONCEPT_NAME": "Carpal tunnel syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "57406009",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "293861000119102",
               "CONCEPT_ID": 762150,
               "CONCEPT_NAME": "Carpal tunnel syndrome of left wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "293861000119102",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             }
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "293871000119108",
               "CONCEPT_ID": 762151,
               "CONCEPT_NAME": "Carpal tunnel syndrome of right wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "293871000119108",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           }
@@ -637,16 +637,16 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Observation",
-              "CONCEPT_CODE": "80880-8",
               "CONCEPT_ID": 21494055,
               "CONCEPT_NAME": "US Guidance for injection of Carpal tunnel",
-              "DOMAIN_ID": "Measurement",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "LOINC"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "80880-8",
+              "DOMAIN_ID": "Measurement",
+              "VOCABULARY_ID": "LOINC",
+              "CONCEPT_CLASS_ID": "Clinical Observation"
             },
             "includeDescendants": true
           }
@@ -660,16 +660,16 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Answer",
-              "CONCEPT_CODE": "LA25594-5",
               "CONCEPT_ID": 21498742,
               "CONCEPT_NAME": "Ortho-Elbow/wrist/hand: Carpal tunnel surgery",
-              "DOMAIN_ID": "Meas Value",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "LOINC"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "LA25594-5",
+              "DOMAIN_ID": "Meas Value",
+              "VOCABULARY_ID": "LOINC",
+              "CONCEPT_CLASS_ID": "Answer"
             },
             "includeDescendants": true
           }
@@ -683,106 +683,106 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "171841007",
               "CONCEPT_ID": 4066890,
               "CONCEPT_NAME": "Endoscopic carpal tunnel release",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "171841007",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "53006003",
               "CONCEPT_ID": 4204075,
               "CONCEPT_NAME": "Exploration of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "53006003",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "182641004",
               "CONCEPT_ID": 4082236,
               "CONCEPT_NAME": "Injection of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "182641004",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "16560008",
               "CONCEPT_ID": 4041195,
               "CONCEPT_NAME": "Neurolysis of carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "16560008",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "359901001",
               "CONCEPT_ID": 4235010,
               "CONCEPT_NAME": "Neuroplasty and transposition of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "359901001",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "10431008",
               "CONCEPT_ID": 4014640,
               "CONCEPT_NAME": "Neuroplasty of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "10431008",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "359904009",
               "CONCEPT_ID": 4234291,
               "CONCEPT_NAME": "Transposition of median nerve at carpal tunnel",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "359904009",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           }
@@ -796,1036 +796,1036 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "78382006",
               "CONCEPT_ID": 4301750,
               "CONCEPT_NAME": "Anesthesia for tenotomy, elbow to shoulder, open",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "78382006",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "439861005",
               "CONCEPT_ID": 4259564,
               "CONCEPT_NAME": "Arthroscopy of shoulder with biceps tenodesis",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "439861005",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "56442009",
               "CONCEPT_ID": 4211092,
               "CONCEPT_NAME": "Arthroscopy of shoulder with lysis and resection of adhesions with manipulation",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "56442009",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L520ZZ",
               "CONCEPT_ID": 2754419,
               "CONCEPT_NAME": "Destruction of Left Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L520ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L523ZZ",
               "CONCEPT_ID": 2754420,
               "CONCEPT_NAME": "Destruction of Left Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L523ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L524ZZ",
               "CONCEPT_ID": 2754421,
               "CONCEPT_NAME": "Destruction of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L524ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L510ZZ",
               "CONCEPT_ID": 2754416,
               "CONCEPT_NAME": "Destruction of Right Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L510ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L513ZZ",
               "CONCEPT_ID": 2754417,
               "CONCEPT_NAME": "Destruction of Right Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L513ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L514ZZ",
               "CONCEPT_ID": 2754418,
               "CONCEPT_NAME": "Destruction of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L514ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L820ZZ",
               "CONCEPT_ID": 2754697,
               "CONCEPT_NAME": "Division of Left Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L820ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L823ZZ",
               "CONCEPT_ID": 2754698,
               "CONCEPT_NAME": "Division of Left Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L823ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L824ZZ",
               "CONCEPT_ID": 2754699,
               "CONCEPT_NAME": "Division of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L824ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L810ZZ",
               "CONCEPT_ID": 2754694,
               "CONCEPT_NAME": "Division of Right Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L810ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L813ZZ",
               "CONCEPT_ID": 2754695,
               "CONCEPT_NAME": "Division of Right Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L813ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0L814ZZ",
               "CONCEPT_ID": 2754696,
               "CONCEPT_NAME": "Division of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0L814ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB20ZX",
               "CONCEPT_ID": 2760395,
               "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Open Approach, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB20ZX",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB23ZZ",
               "CONCEPT_ID": 2760398,
               "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB23ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB23ZX",
               "CONCEPT_ID": 2760397,
               "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Percutaneous Approach, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB23ZX",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB24ZZ",
               "CONCEPT_ID": 2760400,
               "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB24ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB24ZX",
               "CONCEPT_ID": 2760399,
               "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Percutaneous Endoscopic Approach, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB24ZX",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB10ZZ",
               "CONCEPT_ID": 2760390,
               "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB10ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB10ZX",
               "CONCEPT_ID": 2760389,
               "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Open Approach, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB10ZX",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB13ZZ",
               "CONCEPT_ID": 2760392,
               "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB13ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB13ZX",
               "CONCEPT_ID": 2760391,
               "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Approach, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB13ZX",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB14ZZ",
               "CONCEPT_ID": 2760394,
               "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB14ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LB14ZX",
               "CONCEPT_ID": 2760393,
               "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Endoscopic Approach, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LB14ZX",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LC20ZZ",
               "CONCEPT_ID": 2760935,
               "CONCEPT_NAME": "Extirpation of Matter from Left Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LC20ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LC23ZZ",
               "CONCEPT_ID": 2760936,
               "CONCEPT_NAME": "Extirpation of Matter from Left Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LC23ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LC24ZZ",
               "CONCEPT_ID": 2760937,
               "CONCEPT_NAME": "Extirpation of Matter from Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LC24ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LC10ZZ",
               "CONCEPT_ID": 2760932,
               "CONCEPT_NAME": "Extirpation of Matter from Right Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LC10ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LC13ZZ",
               "CONCEPT_ID": 2760933,
               "CONCEPT_NAME": "Extirpation of Matter from Right Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LC13ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "20550",
               "CONCEPT_ID": 2102895,
               "CONCEPT_NAME": "Injection(s); single tendon sheath, or ligament, aponeurosis (eg, plantar \"fascia\")",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "20550",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "CPT4",
+              "CONCEPT_CLASS_ID": "CPT4"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LM20ZZ",
               "CONCEPT_ID": 2761406,
               "CONCEPT_NAME": "Reattachment of Left Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LM20ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LM24ZZ",
               "CONCEPT_ID": 2761407,
               "CONCEPT_NAME": "Reattachment of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LM24ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LM10ZZ",
               "CONCEPT_ID": 2761404,
               "CONCEPT_NAME": "Reattachment of Right Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LM10ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LM14ZZ",
               "CONCEPT_ID": 2761405,
               "CONCEPT_NAME": "Reattachment of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LM14ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LN2XZZ",
               "CONCEPT_ID": 2761661,
               "CONCEPT_NAME": "Release Left Shoulder Tendon, External Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LN2XZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LN20ZZ",
               "CONCEPT_ID": 2761658,
               "CONCEPT_NAME": "Release Left Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LN20ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LN23ZZ",
               "CONCEPT_ID": 2761659,
               "CONCEPT_NAME": "Release Left Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LN23ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LN24ZZ",
               "CONCEPT_ID": 2761660,
               "CONCEPT_NAME": "Release Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LN24ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LN1XZZ",
               "CONCEPT_ID": 2761657,
               "CONCEPT_NAME": "Release Right Shoulder Tendon, External Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LN1XZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LN10ZZ",
               "CONCEPT_ID": 2761654,
               "CONCEPT_NAME": "Release Right Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LN10ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LN13ZZ",
               "CONCEPT_ID": 2761655,
               "CONCEPT_NAME": "Release Right Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LN13ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LN14ZZ",
               "CONCEPT_ID": 2761656,
               "CONCEPT_NAME": "Release Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LN14ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LQ20ZZ",
               "CONCEPT_ID": 2758188,
               "CONCEPT_NAME": "Repair Left Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LQ20ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LQ23ZZ",
               "CONCEPT_ID": 2758189,
               "CONCEPT_NAME": "Repair Left Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LQ23ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LQ24ZZ",
               "CONCEPT_ID": 2758190,
               "CONCEPT_NAME": "Repair Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LQ24ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "12660003",
               "CONCEPT_ID": 4129863,
               "CONCEPT_NAME": "Repair of complete shoulder cuff avulsion, chronic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "12660003",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LQ10ZZ",
               "CONCEPT_ID": 2758185,
               "CONCEPT_NAME": "Repair Right Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LQ10ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LQ13ZZ",
               "CONCEPT_ID": 2758186,
               "CONCEPT_NAME": "Repair Right Shoulder Tendon, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LQ13ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LQ14ZZ",
               "CONCEPT_ID": 2758187,
               "CONCEPT_NAME": "Repair Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LQ14ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR207Z",
               "CONCEPT_ID": 2758470,
               "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Autologous Tissue Substitute, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR207Z",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR247Z",
               "CONCEPT_ID": 2758473,
               "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR247Z",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR20KZ",
               "CONCEPT_ID": 2758472,
               "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Nonautologous Tissue Substitute, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR20KZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR24KZ",
               "CONCEPT_ID": 2758475,
               "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR24KZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR20JZ",
               "CONCEPT_ID": 2758471,
               "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Synthetic Substitute, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR20JZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR24JZ",
               "CONCEPT_ID": 2758474,
               "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Synthetic Substitute, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR24JZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR107Z",
               "CONCEPT_ID": 2758464,
               "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Autologous Tissue Substitute, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR107Z",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR147Z",
               "CONCEPT_ID": 2758467,
               "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR147Z",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR10KZ",
               "CONCEPT_ID": 2758466,
               "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Nonautologous Tissue Substitute, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR10KZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR14KZ",
               "CONCEPT_ID": 2758469,
               "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR14KZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR10JZ",
               "CONCEPT_ID": 2758465,
               "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Synthetic Substitute, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR10JZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LR14JZ",
               "CONCEPT_ID": 2758468,
               "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Synthetic Substitute, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LR14JZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LT20ZZ",
               "CONCEPT_ID": 2759446,
               "CONCEPT_NAME": "Resection of Left Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LT20ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LT24ZZ",
               "CONCEPT_ID": 2759447,
               "CONCEPT_NAME": "Resection of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LT24ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LT10ZZ",
               "CONCEPT_ID": 2759444,
               "CONCEPT_NAME": "Resection of Right Shoulder Tendon, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LT10ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0LT14ZZ",
               "CONCEPT_ID": 2759445,
               "CONCEPT_NAME": "Resection of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "0LT14ZZ",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "ICD10PCS",
+              "CONCEPT_CLASS_ID": "ICD10PCS"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "24310",
               "CONCEPT_ID": 2103888,
               "CONCEPT_NAME": "Tenotomy, open, elbow to shoulder, each tendon",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "24310",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "CPT4",
+              "CONCEPT_CLASS_ID": "CPT4"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
-              "CONCEPT_CODE": "1004206",
               "CONCEPT_ID": 45888308,
               "CONCEPT_NAME": "Tenotomy, shoulder area",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "C",
               "STANDARD_CONCEPT_CAPTION": "Classification",
-              "VOCABULARY_ID": "CPT4"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "1004206",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "CPT4",
+              "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
             },
             "includeDescendants": true
           }
@@ -1839,91 +1839,91 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "16003871000119102",
               "CONCEPT_ID": 37108980,
               "CONCEPT_NAME": "Bilateral rotator cuff arthropathy of shoulder",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "16003871000119102",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "404224009",
               "CONCEPT_ID": 437966,
               "CONCEPT_NAME": "Calcium deposits in tendon",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "404224009",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "76318008",
               "CONCEPT_ID": 79116,
               "CONCEPT_NAME": "Disorder of tendon of shoulder region",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "76318008",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "302981000119100",
               "CONCEPT_ID": 762210,
               "CONCEPT_NAME": "Tendonitis of long head of biceps brachii of left shoulder",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "302981000119100",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "302991000119102",
               "CONCEPT_ID": 762211,
               "CONCEPT_NAME": "Tendonitis of long head of biceps brachii of right shoulder",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "302991000119102",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "415746003",
               "CONCEPT_ID": 4215217,
               "CONCEPT_NAME": "Traumatic or non-traumatic rupture of tendon",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "415746003",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           }
@@ -1937,121 +1937,121 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "239976003",
               "CONCEPT_ID": 4344024,
               "CONCEPT_NAME": "Extensor carpi radialis tenosynovitis",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "239976003",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "202921007",
               "CONCEPT_ID": 4002791,
               "CONCEPT_NAME": "Extensor digitorum longus tenosynovitis",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "202921007",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "202915008",
               "CONCEPT_ID": 4000978,
               "CONCEPT_NAME": "Extensor tenosynovitis of finger",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "202915008",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "202916009",
               "CONCEPT_ID": 4002654,
               "CONCEPT_NAME": "Extensor tenosynovitis of thumb",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "202916009",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "202914007",
               "CONCEPT_ID": 4002154,
               "CONCEPT_NAME": "Extensor tenosynovitis of wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "202914007",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "287019009",
               "CONCEPT_ID": 73301,
               "CONCEPT_NAME": "Synovitis/tenosynovitis - wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "287019009",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "423810002",
               "CONCEPT_ID": 4173776,
               "CONCEPT_NAME": "Tendinitis of wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "423810002",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "15676321000119103",
               "CONCEPT_ID": 765214,
               "CONCEPT_NAME": "Tendonitis of finger of right hand",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15676321000119103",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           }
@@ -2065,46 +2065,46 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "25000",
               "CONCEPT_ID": 2104055,
               "CONCEPT_NAME": "Incision, extensor tendon sheath, wrist (eg, de Quervains disease)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "25000",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "CPT4",
+              "CONCEPT_CLASS_ID": "CPT4"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "300034002",
               "CONCEPT_ID": 4101039,
               "CONCEPT_NAME": "Injection for tenosynovitis",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "300034002",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "817351000000101",
               "CONCEPT_ID": 44807555,
               "CONCEPT_NAME": "Release of first extensor compartment of wrist",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "817351000000101",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           }
@@ -2118,91 +2118,91 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "203003003",
               "CONCEPT_ID": 4001123,
               "CONCEPT_NAME": "Achilles degeneration",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "203003003",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "11654001",
               "CONCEPT_ID": 77963,
               "CONCEPT_NAME": "Achilles tendinitis",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "11654001",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "202917000",
               "CONCEPT_ID": 4001475,
               "CONCEPT_NAME": "Achilles tenosynovitis",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "202917000",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "15683361000119109",
               "CONCEPT_ID": 36686996,
               "CONCEPT_NAME": "Bursitis of bilateral calcaneal tendon bursae",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15683361000119109",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "958021000000109",
               "CONCEPT_ID": 46284932,
               "CONCEPT_NAME": "Enthesitis of Achilles tendon",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "958021000000109",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "429513001",
               "CONCEPT_ID": 4323887,
               "CONCEPT_NAME": "Rupture of Achilles tendon",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "429513001",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           }
@@ -2216,31 +2216,31 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "178156005",
               "CONCEPT_ID": 4072039,
               "CONCEPT_NAME": "Repair of tendo achilles",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "178156005",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
-              "CONCEPT_CODE": "1014587",
               "CONCEPT_ID": 45890228,
               "CONCEPT_NAME": "Repair, primary, open or percutaneous, ruptured Achilles tendon",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "C",
               "STANDARD_CONCEPT_CAPTION": "Classification",
-              "VOCABULARY_ID": "CPT4"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "1014587",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "CPT4",
+              "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
             },
             "includeDescendants": true
           }
@@ -2254,166 +2254,166 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "308941000119107",
               "CONCEPT_ID": 36684518,
               "CONCEPT_NAME": "Calcific tendonitis of left ankle",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "308941000119107",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "700380004",
               "CONCEPT_ID": 45763856,
               "CONCEPT_NAME": "Insertional Achilles tendinopathy",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "700380004",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "700381000",
               "CONCEPT_ID": 45763857,
               "CONCEPT_NAME": "Non-insertional Achilles tendinopathy",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "700381000",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "15697681000119103",
               "CONCEPT_ID": 36687009,
               "CONCEPT_NAME": "Tendonitis of bilateral ankles",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15697681000119103",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "15674681000119100",
               "CONCEPT_ID": 761288,
               "CONCEPT_NAME": "Tendonitis of bilateral forearms",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15674681000119100",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "15697601000119106",
               "CONCEPT_ID": 761381,
               "CONCEPT_NAME": "Tendonitis of left ankle",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15697601000119106",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "1076591000119103",
               "CONCEPT_ID": 765267,
               "CONCEPT_NAME": "Tendonitis of left shoulder",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "1076591000119103",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "15630611000119100",
               "CONCEPT_ID": 761119,
               "CONCEPT_NAME": "Tendonitis of left wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15630611000119100",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "15697641000119108",
               "CONCEPT_ID": 761382,
               "CONCEPT_NAME": "Tendonitis of right ankle",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15697641000119108",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "1076581000119101",
               "CONCEPT_ID": 759904,
               "CONCEPT_NAME": "Tendonitis of right shoulder",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "1076581000119101",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "15630571000119109",
               "CONCEPT_ID": 765199,
               "CONCEPT_NAME": "Tendonitis of right wrist",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15630571000119109",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
             },
             "includeDescendants": true
           }
@@ -2427,31 +2427,242 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "MS-DRG",
-              "CONCEPT_CODE": "557",
               "CONCEPT_ID": 38001331,
               "CONCEPT_NAME": "Tendonitis, myositis & bursitis w MCC",
-              "DOMAIN_ID": "Observation",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "DRG"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "557",
+              "DOMAIN_ID": "Observation",
+              "VOCABULARY_ID": "DRG",
+              "CONCEPT_CLASS_ID": "MS-DRG"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "MS-DRG",
-              "CONCEPT_CODE": "558",
               "CONCEPT_ID": 38001332,
               "CONCEPT_NAME": "Tendonitis, myositis & bursitis w/o MCC",
-              "DOMAIN_ID": "Observation",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "DRG"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "558",
+              "DOMAIN_ID": "Observation",
+              "VOCABULARY_ID": "DRG",
+              "CONCEPT_CLASS_ID": "MS-DRG"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "name": "[MSK-AI] tendinopathy condition",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_ID": 36684518,
+              "CONCEPT_NAME": "Calcific tendonitis of left ankle",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "308941000119107",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 45763856,
+              "CONCEPT_NAME": "Insertional Achilles tendinopathy",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "700380004",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 45763857,
+              "CONCEPT_NAME": "Non-insertional Achilles tendinopathy",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "700381000",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 36687009,
+              "CONCEPT_NAME": "Tendonitis of bilateral ankles",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15697681000119103",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 761288,
+              "CONCEPT_NAME": "Tendonitis of bilateral forearms",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15674681000119100",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 761381,
+              "CONCEPT_NAME": "Tendonitis of left ankle",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15697601000119106",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 765267,
+              "CONCEPT_NAME": "Tendonitis of left shoulder",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "1076591000119103",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 761119,
+              "CONCEPT_NAME": "Tendonitis of left wrist",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15630611000119100",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 761382,
+              "CONCEPT_NAME": "Tendonitis of right ankle",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15697641000119108",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 759904,
+              "CONCEPT_NAME": "Tendonitis of right shoulder",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "1076581000119101",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 765199,
+              "CONCEPT_NAME": "Tendonitis of right wrist",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15630571000119109",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "name": "[MSK-AI] tendinopathy general observation",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_ID": 38001331,
+              "CONCEPT_NAME": "Tendonitis, myositis & bursitis w MCC",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "557",
+              "DOMAIN_ID": "Observation",
+              "VOCABULARY_ID": "DRG",
+              "CONCEPT_CLASS_ID": "MS-DRG"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 38001332,
+              "CONCEPT_NAME": "Tendonitis, myositis & bursitis w/o MCC",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "558",
+              "DOMAIN_ID": "Observation",
+              "VOCABULARY_ID": "DRG",
+              "CONCEPT_CLASS_ID": "MS-DRG"
             },
             "includeDescendants": true
           }
@@ -2460,9 +2671,20 @@
     }
   ],
   "PrimaryCriteria": {
-    "CriteriaList": [],
+    "CriteriaList": [
+      {
+        "ConditionOccurrence": {
+          "CodesetId": 13
+        }
+      },
+      {
+        "Observation": {
+          "CodesetId": 14
+        }
+      }
+    ],
     "ObservationWindow": {
-      "PriorDays": 548,
+      "PriorDays": 0,
       "PostDays": 0
     },
     "PrimaryCriteriaLimit": {
@@ -2488,179 +2710,7 @@
   "ExpressionLimit": {
     "Type": "First"
   },
-  "InclusionRules": [
-    {
-      "name": "Tendinopathy",
-      "description": "first episode of any tendinopathy (including general and site specific)",
-      "expression": {
-        "Type": "ALL",
-        "CriteriaList": [
-          {
-            "Criteria": {
-              "ProcedureOccurrence": {
-                "CodesetId": 5
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 6
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 7
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ProcedureOccurrence": {
-                "CodesetId": 8
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 9
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ProcedureOccurrence": {
-                "CodesetId": 10
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 11
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Observation": {
-                "CodesetId": 12
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          }
-        ],
-        "DemographicCriteriaList": [],
-        "Groups": []
-      }
-    }
-  ],
+  "InclusionRules": [],
   "CensoringCriteria": [
     {
       "Death": {}
