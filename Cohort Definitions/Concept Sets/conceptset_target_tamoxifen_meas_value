@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 45883505,
+        "CONCEPT_NAME": "Tamoxifen",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LA14344-8",
+        "DOMAIN_ID": "Meas Value",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Answer"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}
