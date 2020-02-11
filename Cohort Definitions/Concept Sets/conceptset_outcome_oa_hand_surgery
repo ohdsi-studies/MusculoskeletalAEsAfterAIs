@@ -2,6 +2,23 @@
   "items": [
     {
       "concept": {
+        "CONCEPT_ID": 45888520,
+        "CONCEPT_NAME": "Arthrodesis, carpometacarpal joint, thumb, with or without internal fixation",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1014103",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 45888185,
         "CONCEPT_NAME": "Arthrodesis, interphalangeal joint, with or without internal fixation",
         "STANDARD_CONCEPT": "C",
@@ -36,13 +53,13 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 4305812,
-        "CONCEPT_NAME": "Arthroplasty of hand",
+        "CONCEPT_ID": 4114318,
+        "CONCEPT_NAME": "Arthrodesis of finger",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "83007002",
+        "CONCEPT_CODE": "300023000",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Procedure"
@@ -70,6 +87,57 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 4305812,
+        "CONCEPT_NAME": "Arthroplasty of hand",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "83007002",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2005659,
+        "CONCEPT_NAME": "Arthroscopy, hand and finger",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "80.24",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD9Proc",
+        "CONCEPT_CLASS_ID": "4-dig billing code"
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2106073,
+        "CONCEPT_NAME": "Arthroscopy, metacarpophalangeal joint, surgical; with debridement",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "29901",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 4002377,
         "CONCEPT_NAME": "Hand injection",
         "STANDARD_CONCEPT": "S",
@@ -80,40 +148,6 @@
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Procedure"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 4114318,
-        "CONCEPT_NAME": "Arthrodesis of finger",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "300023000",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Procedure"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45888520,
-        "CONCEPT_NAME": "Arthrodesis, carpometacarpal joint, thumb, with or without internal fixation",
-        "STANDARD_CONCEPT": "C",
-        "STANDARD_CONCEPT_CAPTION": "Classification",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "1014103",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "CPT4",
-        "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
       },
       "isExcluded": false,
       "includeDescendants": true,
