@@ -2,16 +2,16 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_ID": 2754694,
-        "CONCEPT_NAME": "Division of Right Shoulder Tendon, Open Approach",
+        "CONCEPT_ID": 4301750,
+        "CONCEPT_NAME": "Anesthesia for tenotomy, elbow to shoulder, open",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0L810ZZ",
+        "CONCEPT_CODE": "78382006",
         "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -19,16 +19,16 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 2761659,
-        "CONCEPT_NAME": "Release Left Shoulder Tendon, Percutaneous Approach",
+        "CONCEPT_ID": 4259564,
+        "CONCEPT_NAME": "Arthroscopy of shoulder with biceps tenodesis",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LN23ZZ",
+        "CONCEPT_CODE": "439861005",
         "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -36,16 +36,16 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 2754696,
-        "CONCEPT_NAME": "Division of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "CONCEPT_ID": 4211092,
+        "CONCEPT_NAME": "Arthroscopy of shoulder with lysis and resection of adhesions with manipulation",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0L814ZZ",
+        "CONCEPT_CODE": "56442009",
         "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -53,64 +53,13 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 45888308,
-        "CONCEPT_NAME": "Tenotomy, shoulder area",
-        "STANDARD_CONCEPT": "C",
-        "STANDARD_CONCEPT_CAPTION": "Classification",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "1004206",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "CPT4",
-        "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760395,
-        "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Open Approach, Diagnostic",
+        "CONCEPT_ID": 2754419,
+        "CONCEPT_NAME": "Destruction of Left Shoulder Tendon, Open Approach",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LB20ZX",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758186,
-        "CONCEPT_NAME": "Repair Right Shoulder Tendon, Percutaneous Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LQ13ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760390,
-        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LB10ZZ",
+        "CONCEPT_CODE": "0L520ZZ",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "ICD10PCS",
         "CONCEPT_CLASS_ID": "ICD10PCS"
@@ -138,47 +87,13 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 2760400,
-        "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "CONCEPT_ID": 2754421,
+        "CONCEPT_NAME": "Destruction of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LB24ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758467,
-        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR147Z",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760389,
-        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Open Approach, Diagnostic",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LB10ZX",
+        "CONCEPT_CODE": "0L524ZZ",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "ICD10PCS",
         "CONCEPT_CLASS_ID": "ICD10PCS"
@@ -206,23 +121,6 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 2759446,
-        "CONCEPT_NAME": "Resection of Left Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LT20ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 2754417,
         "CONCEPT_NAME": "Destruction of Right Shoulder Tendon, Percutaneous Approach",
         "STANDARD_CONCEPT": "S",
@@ -230,159 +128,6 @@
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "CONCEPT_CODE": "0L513ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758474,
-        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Synthetic Substitute, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR24JZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 4301750,
-        "CONCEPT_NAME": "Anesthesia for tenotomy, elbow to shoulder, open",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "78382006",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Procedure"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760399,
-        "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Percutaneous Endoscopic Approach, Diagnostic",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LB24ZX",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2754419,
-        "CONCEPT_NAME": "Destruction of Left Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0L520ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2103888,
-        "CONCEPT_NAME": "Tenotomy, open, elbow to shoulder, each tendon",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "24310",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "CPT4",
-        "CONCEPT_CLASS_ID": "CPT4"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2759447,
-        "CONCEPT_NAME": "Resection of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LT24ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758187,
-        "CONCEPT_NAME": "Repair Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LQ14ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2761660,
-        "CONCEPT_NAME": "Release Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LN24ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2754697,
-        "CONCEPT_NAME": "Division of Left Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0L820ZZ",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "ICD10PCS",
         "CONCEPT_CLASS_ID": "ICD10PCS"
@@ -410,676 +155,13 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 2758465,
-        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Synthetic Substitute, Open Approach",
+        "CONCEPT_ID": 2754697,
+        "CONCEPT_NAME": "Division of Left Shoulder Tendon, Open Approach",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR10JZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2759445,
-        "CONCEPT_NAME": "Resection of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LT14ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2754421,
-        "CONCEPT_NAME": "Destruction of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0L524ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2761658,
-        "CONCEPT_NAME": "Release Left Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LN20ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758472,
-        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Nonautologous Tissue Substitute, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR20KZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2761406,
-        "CONCEPT_NAME": "Reattachment of Left Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LM20ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2761404,
-        "CONCEPT_NAME": "Reattachment of Right Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LM10ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758188,
-        "CONCEPT_NAME": "Repair Left Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LQ20ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758471,
-        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Synthetic Substitute, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR20JZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760393,
-        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Endoscopic Approach, Diagnostic",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LB14ZX",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2754699,
-        "CONCEPT_NAME": "Division of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0L824ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758469,
-        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR14KZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758473,
-        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR247Z",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760936,
-        "CONCEPT_NAME": "Extirpation of Matter from Left Shoulder Tendon, Percutaneous Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LC23ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758190,
-        "CONCEPT_NAME": "Repair Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LQ24ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760391,
-        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Approach, Diagnostic",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LB13ZX",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758468,
-        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Synthetic Substitute, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR14JZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760398,
-        "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Percutaneous Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LB23ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760937,
-        "CONCEPT_NAME": "Extirpation of Matter from Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LC24ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760933,
-        "CONCEPT_NAME": "Extirpation of Matter from Right Shoulder Tendon, Percutaneous Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LC13ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 4129863,
-        "CONCEPT_NAME": "Repair of complete shoulder cuff avulsion, chronic",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "12660003",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Procedure"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758189,
-        "CONCEPT_NAME": "Repair Left Shoulder Tendon, Percutaneous Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LQ23ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2761407,
-        "CONCEPT_NAME": "Reattachment of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LM24ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2761661,
-        "CONCEPT_NAME": "Release Left Shoulder Tendon, External Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LN2XZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760935,
-        "CONCEPT_NAME": "Extirpation of Matter from Left Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LC20ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2761654,
-        "CONCEPT_NAME": "Release Right Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LN10ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758464,
-        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Autologous Tissue Substitute, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR107Z",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2102895,
-        "CONCEPT_NAME": "Injection(s); single tendon sheath, or ligament, aponeurosis (eg, plantar \"fascia\")",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "20550",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "CPT4",
-        "CONCEPT_CLASS_ID": "CPT4"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758466,
-        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Nonautologous Tissue Substitute, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR10KZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758185,
-        "CONCEPT_NAME": "Repair Right Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LQ10ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760394,
-        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LB14ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 4259564,
-        "CONCEPT_NAME": "Arthroscopy of shoulder with biceps tenodesis",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "439861005",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Procedure"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2754695,
-        "CONCEPT_NAME": "Division of Right Shoulder Tendon, Percutaneous Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0L813ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2761656,
-        "CONCEPT_NAME": "Release Right Shoulder Tendon, Percutaneous Endoscopic Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LN14ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2761655,
-        "CONCEPT_NAME": "Release Right Shoulder Tendon, Percutaneous Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LN13ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2759444,
-        "CONCEPT_NAME": "Resection of Right Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LT10ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760392,
-        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LB13ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2758470,
-        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Autologous Tissue Substitute, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR207Z",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2760932,
-        "CONCEPT_NAME": "Extirpation of Matter from Right Shoulder Tendon, Open Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LC10ZZ",
-        "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "ICD10PCS",
-        "CONCEPT_CLASS_ID": "ICD10PCS"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 2761657,
-        "CONCEPT_NAME": "Release Right Shoulder Tendon, External Approach",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LN1XZZ",
+        "CONCEPT_CODE": "0L820ZZ",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "ICD10PCS",
         "CONCEPT_CLASS_ID": "ICD10PCS"
@@ -1107,13 +189,98 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 2758475,
-        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+        "CONCEPT_ID": 2754699,
+        "CONCEPT_NAME": "Division of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "0LR24KZ",
+        "CONCEPT_CODE": "0L824ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2754694,
+        "CONCEPT_NAME": "Division of Right Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0L810ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2754695,
+        "CONCEPT_NAME": "Division of Right Shoulder Tendon, Percutaneous Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0L813ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2754696,
+        "CONCEPT_NAME": "Division of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0L814ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760395,
+        "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Open Approach, Diagnostic",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LB20ZX",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760398,
+        "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Percutaneous Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LB23ZZ",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "ICD10PCS",
         "CONCEPT_CLASS_ID": "ICD10PCS"
@@ -1141,16 +308,288 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 4211092,
-        "CONCEPT_NAME": "Arthroscopy of shoulder with lysis and resection of adhesions with manipulation",
+        "CONCEPT_ID": 2760400,
+        "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "56442009",
+        "CONCEPT_CODE": "0LB24ZZ",
         "DOMAIN_ID": "Procedure",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Procedure"
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760399,
+        "CONCEPT_NAME": "Excision of Left Shoulder Tendon, Percutaneous Endoscopic Approach, Diagnostic",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LB24ZX",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760390,
+        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LB10ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760389,
+        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Open Approach, Diagnostic",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LB10ZX",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760392,
+        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LB13ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760391,
+        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Approach, Diagnostic",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LB13ZX",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760394,
+        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LB14ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760393,
+        "CONCEPT_NAME": "Excision of Right Shoulder Tendon, Percutaneous Endoscopic Approach, Diagnostic",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LB14ZX",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760935,
+        "CONCEPT_NAME": "Extirpation of Matter from Left Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LC20ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760936,
+        "CONCEPT_NAME": "Extirpation of Matter from Left Shoulder Tendon, Percutaneous Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LC23ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760937,
+        "CONCEPT_NAME": "Extirpation of Matter from Left Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LC24ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760932,
+        "CONCEPT_NAME": "Extirpation of Matter from Right Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LC10ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2760933,
+        "CONCEPT_NAME": "Extirpation of Matter from Right Shoulder Tendon, Percutaneous Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LC13ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2102895,
+        "CONCEPT_NAME": "Injection(s); single tendon sheath, or ligament, aponeurosis (eg, plantar \"fascia\")",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "20550",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761406,
+        "CONCEPT_NAME": "Reattachment of Left Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LM20ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761407,
+        "CONCEPT_NAME": "Reattachment of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LM24ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761404,
+        "CONCEPT_NAME": "Reattachment of Right Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LM10ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -1168,6 +607,618 @@
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "ICD10PCS",
         "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761661,
+        "CONCEPT_NAME": "Release Left Shoulder Tendon, External Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LN2XZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761658,
+        "CONCEPT_NAME": "Release Left Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LN20ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761659,
+        "CONCEPT_NAME": "Release Left Shoulder Tendon, Percutaneous Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LN23ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761660,
+        "CONCEPT_NAME": "Release Left Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LN24ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761657,
+        "CONCEPT_NAME": "Release Right Shoulder Tendon, External Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LN1XZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761654,
+        "CONCEPT_NAME": "Release Right Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LN10ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761655,
+        "CONCEPT_NAME": "Release Right Shoulder Tendon, Percutaneous Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LN13ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2761656,
+        "CONCEPT_NAME": "Release Right Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LN14ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758188,
+        "CONCEPT_NAME": "Repair Left Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LQ20ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758189,
+        "CONCEPT_NAME": "Repair Left Shoulder Tendon, Percutaneous Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LQ23ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758190,
+        "CONCEPT_NAME": "Repair Left Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LQ24ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4129863,
+        "CONCEPT_NAME": "Repair of complete shoulder cuff avulsion, chronic",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "12660003",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758185,
+        "CONCEPT_NAME": "Repair Right Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LQ10ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758186,
+        "CONCEPT_NAME": "Repair Right Shoulder Tendon, Percutaneous Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LQ13ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758187,
+        "CONCEPT_NAME": "Repair Right Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LQ14ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758470,
+        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Autologous Tissue Substitute, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR207Z",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758473,
+        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR247Z",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758472,
+        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Nonautologous Tissue Substitute, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR20KZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758475,
+        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR24KZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758471,
+        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Synthetic Substitute, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR20JZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758474,
+        "CONCEPT_NAME": "Replacement of Left Shoulder Tendon with Synthetic Substitute, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR24JZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758464,
+        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Autologous Tissue Substitute, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR107Z",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758467,
+        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR147Z",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758466,
+        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Nonautologous Tissue Substitute, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR10KZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758469,
+        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR14KZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758465,
+        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Synthetic Substitute, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR10JZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2758468,
+        "CONCEPT_NAME": "Replacement of Right Shoulder Tendon with Synthetic Substitute, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LR14JZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2759446,
+        "CONCEPT_NAME": "Resection of Left Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LT20ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2759447,
+        "CONCEPT_NAME": "Resection of Left Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LT24ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2759444,
+        "CONCEPT_NAME": "Resection of Right Shoulder Tendon, Open Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LT10ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2759445,
+        "CONCEPT_NAME": "Resection of Right Shoulder Tendon, Percutaneous Endoscopic Approach",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0LT14ZZ",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "ICD10PCS",
+        "CONCEPT_CLASS_ID": "ICD10PCS"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2103888,
+        "CONCEPT_NAME": "Tenotomy, open, elbow to shoulder, each tendon",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "24310",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45888308,
+        "CONCEPT_NAME": "Tenotomy, shoulder area",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1004206",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4001864,
+        "CONCEPT_NAME": "Shoulder injection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "119629003",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4204150,
+        "CONCEPT_NAME": "Injection of subacromial bursa using ultrasound guidance",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "433774003",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36716648,
+        "CONCEPT_NAME": "Subacromial steroid injection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "722757009",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure"
       },
       "isExcluded": false,
       "includeDescendants": true,
