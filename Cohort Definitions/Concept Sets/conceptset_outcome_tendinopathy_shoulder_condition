@@ -2,47 +2,13 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_ID": 762210,
-        "CONCEPT_NAME": "Tendonitis of long head of biceps brachii of left shoulder",
+        "CONCEPT_ID": 4000968,
+        "CONCEPT_NAME": "Biceps tendinitis",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "302981000119100",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 79116,
-        "CONCEPT_NAME": "Disorder of tendon of shoulder region",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "76318008",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 762211,
-        "CONCEPT_NAME": "Tendonitis of long head of biceps brachii of right shoulder",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "302991000119102",
+        "CONCEPT_CODE": "202856007",
         "DOMAIN_ID": "Condition",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Clinical Finding"
@@ -70,13 +36,30 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 437966,
-        "CONCEPT_NAME": "Calcium deposits in tendon",
+        "CONCEPT_ID": 4115237,
+        "CONCEPT_NAME": "Deltoid tendinitis",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "404224009",
+        "CONCEPT_CODE": "300947009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 79116,
+        "CONCEPT_NAME": "Disorder of tendon of shoulder region",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "76318008",
         "DOMAIN_ID": "Condition",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Clinical Finding"
@@ -94,6 +77,23 @@
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "CONCEPT_CODE": "415746003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 437966,
+        "CONCEPT_NAME": "Calcium deposits in tendon",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "404224009",
         "DOMAIN_ID": "Condition",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Clinical Finding"
