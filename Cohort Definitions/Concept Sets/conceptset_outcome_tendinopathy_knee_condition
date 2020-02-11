@@ -2,23 +2,6 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_ID": 193293,
-        "CONCEPT_NAME": "Pes anserinus tendinitis",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "45861001",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 4002147,
         "CONCEPT_NAME": "Pes anserinus tendinitis and bursitis",
         "STANDARD_CONCEPT": "S",
@@ -32,6 +15,108 @@
       },
       "isExcluded": false,
       "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36683409,
+        "CONCEPT_NAME": "Tendinitis of right pes anserinus tendon",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "781240002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42535182,
+        "CONCEPT_NAME": "Tendinitis of right quadriceps tendon",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "16052191000119109",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4002148,
+        "CONCEPT_NAME": "Biceps femoris tendinitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "202872004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 438843,
+        "CONCEPT_NAME": "Non-traumatic rupture of patellar tendon",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "202963006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4001467,
+        "CONCEPT_NAME": "Semimembranosus tendinitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "202873009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4149245,
+        "CONCEPT_NAME": "Rupture of patellar tendon",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "30832001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -70,40 +155,6 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 4001467,
-        "CONCEPT_NAME": "Semimembranosus tendinitis",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "202873009",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 36683409,
-        "CONCEPT_NAME": "Tendinitis of right pes anserinus tendon",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "781240002",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 36683408,
         "CONCEPT_NAME": "Tendinitis of left pes anserinus tendon",
         "STANDARD_CONCEPT": "S",
@@ -121,64 +172,30 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 4002148,
-        "CONCEPT_NAME": "Biceps femoris tendinitis",
+        "CONCEPT_ID": 36686994,
+        "CONCEPT_NAME": "Bilateral patellar bursitis",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "202872004",
+        "CONCEPT_CODE": "15683281000119109",
         "DOMAIN_ID": "Condition",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Clinical Finding"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
       "concept": {
-        "CONCEPT_ID": 42535182,
-        "CONCEPT_NAME": "Tendinitis of right quadriceps tendon",
+        "CONCEPT_ID": 193293,
+        "CONCEPT_NAME": "Pes anserinus tendinitis",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "16052191000119109",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 761299,
-        "CONCEPT_NAME": "Tendinitis of right pes anserinus",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "15676081000119102",
-        "DOMAIN_ID": "Condition",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Clinical Finding"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 761300,
-        "CONCEPT_NAME": "Tendinitis of left pes anserinus",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "15676121000119100",
+        "CONCEPT_CODE": "45861001",
         "DOMAIN_ID": "Condition",
         "VOCABULARY_ID": "SNOMED",
         "CONCEPT_CLASS_ID": "Clinical Finding"
