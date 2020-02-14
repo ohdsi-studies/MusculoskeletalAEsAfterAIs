@@ -1,0 +1,169 @@
+db_id,targetId,outcomeId,total,timeAtRisk,cases
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Shoulder,224,559,6
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome OA Knee,573,1835,0
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Foot and Ankle,233,592,0
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy - All Subgroups,553,1718,18
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hand,573,1837,0
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - CTS,227,581,2
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Knee,574,1838,0
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome OA Knee,232,592,0
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Shoulder,562,1780,9
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] OA - All and General Terms Only,512,1558,48
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hip,226,559,5
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Elbow,232,580,2
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Knee,234,593,0
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy - All Subgroups,224,559,6
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Shoulder,553,1718,18
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Foot and Ankle,571,1815,5
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - CTS,569,1806,10
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hip,556,1758,13
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hand,234,590,1
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Hand and Wrist,574,1838,0
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Shoulder,228,574,4
+AU201909,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Elbow,568,1802,7
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] OA - All and General Terms Only,195,456,21
+AU201909,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Hand and Wrist,233,592,0
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy - All Subgroups,19550,74615,1022
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome OA Knee,20797,82022,461
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Shoulder,12262,71201,909
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Foot and Ankle,13222,80501,109
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome OA Knee,12914,77371,447
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hand,21553,86025,76
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - CTS,13011,78550,315
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Knee,21642,86651,2
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Hand and Wrist,21256,83500,447
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hip,20637,81513,510
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Foot and Ankle,21440,85519,101
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hand,13256,80954,54
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - CTS,21006,82839,392
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] OA - All and General Terms Only,10526,56313,1945
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Hand and Wrist,13105,79368,233
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Shoulder,12889,77584,375
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Elbow,21043,83549,182
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Shoulder,20776,81981,386
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] OA - All and General Terms Only,16297,59695,1927
+THIN201809,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Shoulder,19550,74615,1022
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Knee,13300,81413,3
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hip,12838,76735,523
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy - All Subgroups,12262,71201,909
+THIN201809,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Elbow,12996,78473,224
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - CTS,183,503,1
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Foot and Ankle,187,507,1
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Shoulder,176,460,10
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hand,1270,3431,0
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome OA Knee,1270,3431,0
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Knee,1270,3424,3
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome OA Knee,188,512,0
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] OA - All and General Terms Only,989,2436,114
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Shoulder,1229,3262,31
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy - All Subgroups,1173,3069,60
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hip,182,503,1
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Foot and Ankle,1254,3370,15
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hip,1229,3286,25
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Shoulder,1173,3069,60
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Hand and Wrist,1270,3431,0
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Hand and Wrist,188,512,0
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hand,188,512,0
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Elbow,1248,3359,12
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Shoulder,183,482,9
+FR2019Q3,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - CTS,1239,3282,19
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Knee,188,512,0
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Elbow,181,484,2
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] OA - All and General Terms Only,157,393,17
+FR2019Q3,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy - All Subgroups,176,460,10
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hip,13574,29186,285
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Foot and Ankle,14024,30547,7
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Hand and Wrist,13900,30065,85
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - CTS,13710,29416,150
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hand,2766,6648,31
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome OA Knee,13239,27631,138
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Shoulder,2656,6204,97
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy - All Subgroups,13319,28132,410
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Foot and Ankle,2780,6743,4
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Elbow,14017,30523,11
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Shoulder,2736,6533,37
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] OA - All and General Terms Only,1622,2993,394
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Hand and Wrist,2763,6689,10
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hand,13923,30200,127
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - CTS,2740,6568,27
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome OA Knee,2619,6063,41
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Knee,14023,30508,8
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Shoulder,13749,29555,190
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] OA - All and General Terms Only,8077,13296,1997
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Knee,2779,6745,1
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hip,2693,6435,64
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Elbow,2779,6735,5
+HOSPITAL201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Shoulder,13319,28132,410
+HOSPITAL201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy - All Subgroups,2656,6204,97
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Shoulder,8968,43338,132
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hand,11991,50715,0
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome OA Knee,11991,50715,0
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome OA Knee,9172,44997,0
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Knee,11989,50708,3
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Foot and Ankle,9131,44701,20
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - CTS,8979,43440,135
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy - All Subgroups,8968,43338,132
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - CTS,11739,49077,145
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Elbow,9094,44287,54
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Knee,9167,44972,4
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] OA - All and General Terms Only,7897,35685,530
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Shoulder,9079,44269,71
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Elbow,11909,50187,31
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Hand and Wrist,9172,44997,0
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hand,9172,44997,0
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hip,11474,48148,226
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Foot and Ankle,11945,50408,24
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Shoulder,11765,49409,103
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Hand and Wrist,11991,50715,0
+GER2019Q1,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hip,8763,41732,279
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy - All Subgroups,11765,49409,103
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Shoulder,11876,50166,58
+GER2019Q1,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] OA - All and General Terms Only,10440,43585,486
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Elbow,314183,1529579,2965
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Shoulder,252452,1112055,40426
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Foot and Ankle,1197026,5515162,10815
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy - All Subgroups,953206,3953401,143929
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hip,312551,1502180,17171
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Shoulder,1107973,4914686,69604
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] OA - All and General Terms Only,196886,775543,64187
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome OA Knee,304201,1454678,11118
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy - All Subgroups,252452,1112055,40426
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Shoulder,293531,1383136,19370
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Hand and Wrist,1168339,5272240,36294
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Shoulder,953206,3953401,143929
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Knee,1192284,5489844,4405
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hand,311010,1500746,10111
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Foot and Ankle,318178,1553368,3376
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Hand and Wrist,309902,1497821,7241
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - CTS,1137920,5113057,44047
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome OA Knee,1142337,5162945,36821
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hand,1171998,5332375,35311
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Knee,316816,1546391,1374
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hip,1175068,5334280,60981
+OPEN201907,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - CTS,302506,1450034,10685
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] OA - All and General Terms Only,737659,2737159,231646
+OPEN201907,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Elbow,1184312,5447146,7996
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hip,22162,83849,478
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Elbow,22438,85608,165
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy - All Subgroups,21265,78055,1447
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Shoulder,77635,262812,5286
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Knee,22553,86267,45
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] OA - All and General Terms Only,17381,58059,2808
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - Tendinopathy Hand and Wrist,22307,84536,370
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Shoulder,22169,83561,600
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Elbow,82300,289928,446
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - CTS,21780,81995,531
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hand,82406,289789,423
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Knee,82714,291833,143
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome OA Knee,21773,82087,637
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Foot and Ankle,82577,290901,443
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - CTS,79668,275320,2196
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Hand,22479,85698,142
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - OA Hip,81155,283252,1620
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome - Tendinopathy Hand and Wrist,81787,284664,1823
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy Shoulder,81160,282886,1990
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] OA - All and General Terms Only,63157,196236,9583
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome OA Knee,79305,275755,2363
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome - OA Shoulder,21265,78055,1447
+AMBEMR201908,[MSK-AI] Target - Tamoxifen CFS,[MSK-AI] Outcome -Tendinopathy Foot and Ankle,22518,86017,143
+AMBEMR201908,[MSK-AI] Comparator - aromatase inhibitor (AI),[MSK-AI] Outcome -Tendinopathy - All Subgroups,77635,262812,5286
