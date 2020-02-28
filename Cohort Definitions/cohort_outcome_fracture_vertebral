@@ -1,0 +1,101 @@
+{
+  "ConceptSets": [
+    {
+      "id": 0,
+      "name": "[PR] Vertebral fracture",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "PT",
+              "CONCEPT_CODE": "10049947",
+              "CONCEPT_ID": 36211121,
+              "CONCEPT_NAME": "Lumbar vertebral fracture",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "MedDRA"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "PT",
+              "CONCEPT_CODE": "10049948",
+              "CONCEPT_ID": 36211124,
+              "CONCEPT_NAME": "Thoracic vertebral fracture",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "MedDRA"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {
+        "ConditionOccurrence": {
+          "CodesetId": 0
+        }
+      }
+    ],
+    "ObservationWindow": {
+      "PriorDays": 0,
+      "PostDays": 0
+    },
+    "PrimaryCriteriaLimit": {
+      "Type": "All"
+    }
+  },
+  "AdditionalCriteria": {
+    "Type": "ALL",
+    "CriteriaList": [
+      {
+        "Criteria": {
+          "ConditionOccurrence": {
+            "CodesetId": 0
+          }
+        },
+        "StartWindow": {
+          "Start": {
+            "Days": 180,
+            "Coeff": -1
+          },
+          "End": {
+            "Days": 1,
+            "Coeff": -1
+          },
+          "UseEventEnd": false
+        },
+        "Occurrence": {
+          "Type": 1,
+          "Count": 0
+        }
+      }
+    ],
+    "DemographicCriteriaList": [],
+    "Groups": []
+  },
+  "QualifiedLimit": {
+    "Type": "First"
+  },
+  "ExpressionLimit": {
+    "Type": "First"
+  },
+  "InclusionRules": [],
+  "CensoringCriteria": [],
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "cdmVersionRange": ">=5.0.0"
+}
