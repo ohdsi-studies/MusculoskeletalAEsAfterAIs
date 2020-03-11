@@ -1,0 +1,438 @@
+db_id,target_id,outcome_id,dist_type,total,avg_value,std_dev,min_value,p10_value,p25_value,median_value,p75_value,p90_value,max_value
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TAR,312550,1755.4,1045.855467,1,359,848,1703,2595,3363,3818
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TAR,1107965,1620.1,1058.706997,1,296,696,1467,2457,3308,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,309901,1765.3,1051.134426,1,359,852,1715,2617,3379,3811
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TAR,302505,1750.7,1049.353573,1,354,838,1695,2593,3368,3818
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TAR,1137911,1641.2,1062.814785,1,302,713,1495,2487,3335,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TAR,737654,1355.3,996.5984757,1,212,515,1133,2046,2905,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TAR,314750,1776.8,1050.745035,1,365,865,1730,2633,3386,3818
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,1142190,1631.3,1054.778902,1,304,716,1485,2462,3311,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TAR,314182,1778.2,1051.29886,1,366,865,1732,2637,3388,3818
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TAR,196886,1438.7,1001.557389,1,231,577,1275,2173,2967,3797
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TAR,1192275,1681.7,1064.198171,1,324,754,1553,2547,3367,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TAR,1171989,1661.8,1061.286204,1,316,736,1526,2514,3345,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TAR,1184303,1679.9,1064.318193,1,323,752,1551,2545,3365,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TAR,314814,1776.1,1050.302294,1,365,864,1729,2631,3385,3818
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TAR,1168370,1659.3,1058.190216,1,315,738,1526,2505,3334,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TAR,1175060,1658,1055.902274,1,316,739,1526,2498,3329,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TAR,310529,1756.6,1046.998764,1,358,847,1705,2597,3367,3818
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TAR,293530,1721,1046.981215,1,340,809,1655,2546,3343,3811
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TAR,304200,1746.6,1049.482976,1,353,834,1687,2587,3368,3818
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,953200,1514.8,1043.507059,1,260,609,1323,2331,3183,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TAR,316815,1782.8,1051.693152,1,368,869,1738,2643,3392,3818
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,1168331,1648.2,1067.342277,1,304,711,1504,2506,3348,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TAR,311009,1762.4,1047.776526,1,361,853,1711,2608,3372,3811
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TAR,1187716,1673.6,1062.762781,1,320,748,1542,2532,3359,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,1197017,1682.8,1063.922945,1,325,755,1555,2548,3366,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TAR,1186514,1671.7,1062.365677,1,320,746,1540,2529,3357,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,318177,1783.1,1051.056591,1,369,870,1739,2643,3390,3818
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,252452,1608.9,1035.732894,1,290,707,1504,2404,3219,3797
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,302257,1743,1047.226997,1,350,833,1685,2578,3359,3818
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TAR,1142328,1650.8,1060.079424,1,313,728,1508,2496,3340,3837
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,3376,1407.4,875.355069,1,286,683,1331,2080,2650,3473
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TTO,6834,1325.7,882.8262627,1,221,578,1218,1961,2625,3470
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TTO,231646,1013,792.1632084,1,146,366,818,1504,2205,3483
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TTO,11118,1137.7,807.8394435,1,193,469,992,1675,2317,3465
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TTO,64187,1052.6,794.0053011,1,150,395,886,1558,2224,3478
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,10815,1337,881.1566434,1,246,587,1211,2028,2618,3481
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,19364,1262,867.4067055,1,192,525,1142,1879,2534,3471
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TTO,2965,1155.7,812.8261573,1,203,481,994,1704,2360,3460
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TTO,1374,1034.2,753.3133373,1,164,403,901,1496,2045,3366
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TTO,36821,1084.6,785.6097983,1,198,454,913,1576,2246,3476
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TTO,44047,973.1,800.9811045,1,153,333,731,1435,2216,3477
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TTO,7996,1064.2,835.1331924,1,166,384,844,1580,2335,3474
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TTO,69604,1058.3,831.4010992,1,178,381,819,1587,2339,3476
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TTO,49987,1377.5,915.7141839,1,234,579,1260,2111,2702,3486
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TTO,14328,1410,895.342448,1,250,642,1341,2103,2676,3480
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TTO,19370,1188.7,840.1357116,1,179,487,1043,1771,2413,3480
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,76180,1221.1,855.6986485,1,197,507,1077,1812,2498,3482
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TTO,25902,1285.1,883.6526884,1,200,539,1153,1918,2601,3469
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TTO,4405,992,740.2550694,1,164,403,828,1455,2025,3461
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,143929,1007,801.2731181,1,160,363,784,1487,2235,3482
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,40426,1105.8,817.2061608,1,161,427,941,1647,2313,3478
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TTO,17171,1441,892.7963376,1,274,687,1375,2135,2705,3479
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TTO,35311,1223,885.0713114,1,218,468,1027,1866,2575,3481
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TTO,20362,1228.8,854.9883272,1,195,515,1103,1813,2502,3482
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TTO,10111,1365.2,886.9094598,1,237,611,1267,2049,2646,3473
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TTO,36294,802.7,712.0773677,1,172,306,548,1071,1879,3464
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TTO,7241,1172.2,866.7738116,1,126,439,1017,1777,2470,3462
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TTO,10685,1167.7,839.9358368,1,166,468,1015,1750,2399,3480
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TTO,60981,1441.4,904.7698169,1,267,657,1369,2162,2721,3482
+IQVIA US LRxDx Open Claims 201907,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TTO,5489,1253.5,863.6227917,1,184,513,1143,1840,2526,3463
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,2722,904.8,856.061903,1,31,194,628,1458,2210,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TAR,2709,896.3,849.6469223,1,31,194,625,1443,2184,3883
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TAR,13553,807.9,816.1733724,1,20,139,518,1298,2063,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TAR,13715,812.8,816.7160579,1,21,144,530,1300,2071,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TAR,13494,804.8,813.5934126,1,20,141,518,1288,2057,3885
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TAR,13287,802.3,809.1796426,1,20,140,522,1277,2050,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,13026,788.8,801.3345704,1,20,138,509,1257,2019,3885
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TAR,13721,812.1,815.9751881,1,21,144,530,1299,2066,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TAR,2688,899.7,854.575594,1,30,193,625,1452,2210,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TAR,2721,904,856.2262322,1,31,194,626,1459,2210,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,2604,870.3,835.5631767,1,27,181,598,1397,2148,3835
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TAR,13450,802.6,810.2337427,1,21,142,519,1279,2045,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TAR,13409,801.2,811.7358771,1,20,141,513,1275,2051,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TAR,1584,690.3,746.5919267,1,6,95,401,1066,1844,3598
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,2559,893.8,852.8309503,1,27,187,610,1448,2185,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TAR,2721,905.4,856.8795568,1,31,194,628,1459,2211,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TAR,2653,899.6,855.8957344,1,31,191,617,1454,2210,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TAR,2682,894.5,851.341041,1,31,190,617,1448,2184,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TAR,13623,809.7,813.994261,1,21,143,525,1297,2059,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,13601,807.3,813.9795493,1,21,143,521,1293,2059,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TAR,2637,891.4,843.4255004,1,31,194,623,1437,2175,3835
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TAR,7903,614.5,712.6603223,1,6,66,326,938,1692,3820
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TAR,2562,864.3,831.3218603,1,27,180,584,1391,2136,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,13102,788.3,806.2338878,1,19,133,499,1260,2025,3885
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TAR,12946,779.5,797.644229,1,20,135,497,1231,2010,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,13722,813.1,816.737102,1,21,144,530,1300,2071,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TAR,13553,805.6,810.5541092,1,21,143,524,1287,2051,3921
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TAR,2674,906.6,855.2408247,1,30,196,629,1469,2210,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,2706,902.9,854.6766989,1,31,194,628,1456,2205,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TAR,2678,891,852.0149226,1,29,188,613,1440,2185,3994
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TTO,138,581,470.452515,1,69,235,471,804,1276,2266
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TTO,10,1177.7,548.7818935,187,187,736,986,1602,1860,1871
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TTO,85,810.6,745.2702403,13,94,225,500,1332,1954,2746
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TTO,27,621.4,538.2275941,4,104,183,386,1074,1462,1783
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TTO,150,686.5,668.4516251,1,9,161,466,1073,1704,2700
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TTO,41,667.3,552.4988434,1,19,349,523,943,1460,2209
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TTO,64,1112.8,860.9445072,1,120,378,822,1769,2512,3053
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TTO,190,818,690.0447497,1,51,245,614,1298,1834,3775
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TTO,37,830.5,758.2214005,1,13,212,623,1382,1993,2603
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TTO,285,852.7,714.8480207,1,26,226,693,1377,1891,3053
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TTO,8,762.7,581.4250351,9,9,139,643,1005,1879,1879
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TTO,1,458,0,458,458,458,458,458,458,458
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TTO,28,629.8,859.4650668,1,1,5,201,845,2100,2947
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TTO,212,473.4,612.000269,1,2,19,184,656,1548,2537
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TTO,5,990.8,1067.592713,45,45,182,527,1691,2509,2509
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TTO,11,743,693.7882962,8,74,285,442,1166,1580,2250
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,7,742.4,516.2715232,119,119,377,534,1222,1538,1538
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TTO,46,592.7,680.3092406,3,13,88,338,779,1715,2430
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TTO,241,998,819.1746955,1,73,266,844,1603,2130,3513
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TTO,47,1084.6,927.5502395,1,96,271,847,1558,2748,3136
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TTO,222,582.1,620.6342887,1,6,107,379,859,1419,3404
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,4,1624.2,554.1193464,1204,1204,1204,1228,1676,2389,2389
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TTO,31,996,787.0198369,4,150,267,853,1589,1857,2699
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TTO,127,930.2,783.738246,1,23,289,736,1552,1906,3513
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,105,624.3,721.6527727,1,4,57,338,994,1848,2947
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,410,866.9,740.1173988,1,96,262,643,1360,1878,3879
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TTO,1997,487.6,606.9641168,1,2,20,247,737,1366,3598
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,97,897.1,705.8146041,1,47,275,752,1415,1860,2807
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TTO,394,496.6,599.2080332,1,2,20,280,773,1391,3598
+IQVIA Hospital Charge Datamaster 2019-07,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,620,590.3,651.302731,1,4,61,357,942,1599,3404
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,998,1261,940.056858,26,176,463,1040,1933,2672,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TAR,959,1345,969.242861,50,202,555,1123,2038,2823,3858
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,984,1248.5,936.9294546,26,175,451,1033,1927,2649,3714
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TAR,960,1344.8,966.1042853,51,202,556,1128,2019,2771,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TAR,998,1261,940.056858,26,176,463,1040,1933,2672,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TAR,989,1369.8,977.7781396,54,210,570,1157,2055,2861,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TAR,983,1361,974.8865209,54,208,562,1153,2049,2849,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,982,1357.7,973.1943354,54,213,563,1140,2042,2830,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,979,1250.9,934.5275804,26,166,456,1036,1931,2671,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TAR,993,1263.9,941.1212913,26,176,470,1043,1936,2672,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TAR,979,1251.2,934.7564185,26,176,456,1035,1931,2656,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TAR,973,1242,936.1137898,26,166,445,1022,1919,2624,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TAR,967,1346.8,970.9700527,34,198,556,1134,2038,2811,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TAR,998,1261,940.056858,26,176,463,1040,1933,2672,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TAR,967,1247.4,938.8913763,26,176,454,1032,1921,2672,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TAR,996,1261.4,940.9032596,26,176,456,1040,1933,2672,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TAR,992,1259.8,941.1181166,26,176,454,1039,1933,2672,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TAR,741,1204.3,924.7278064,3,168,461,982,1728,2632,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TAR,960,1229.3,927.0715943,14,166,432,999,1860,2569,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TAR,985,1369.7,975.9106858,54,210,570,1163,2050,2857,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TAR,989,1367.7,977.9852497,54,208,567,1156,2050,2861,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TAR,990,1368.8,977.8001503,54,210,567,1156,2055,2857,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,918,1307.2,947.9297354,50,198,550,1090,1956,2721,3858
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TAR,995,1260.3,936.3843285,26,176,470,1043,1932,2671,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TAR,949,1365.7,979.9446517,26,207,562,1150,2050,2900,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,932,1232.9,933.186014,26,175,445,993,1916,2624,3714
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,976,1358.7,974.2887546,54,202,562,1153,2042,2849,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TAR,753,1137.3,915.1203809,11,132,341,914,1774,2469,3733
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,990,1368.8,977.8001503,54,210,567,1156,2055,2857,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TAR,990,1368.8,977.8001503,54,210,567,1156,2055,2857,3985
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TTO,27,896.7,799.4480218,14,37,213,832,1441,1831,3324
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TTO,10,892.7,840.2112234,54,54,299,535,1350,1939,2681
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,52,1019.6,729.6837894,50,235,517,835,1301,2167,3030
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TTO,3,1148,1528.44627,134,134,134,404,2906,2906,2906
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TTO,16,843.3,684.5105033,77,103,413,544,1041,2317,2392
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TTO,5,1146.2,855.2617728,94,94,478,1287,1707,2165,2165
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,8,818.8,908.6488301,53,53,134,611,661,2906,2906
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,30,916.6,738.2967631,54,103,485,637,1216,2239,2681
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,9,1194.6,881.1186072,94,94,478,1287,1926,2340,2340
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,12,1083.2,659.161468,235,265,653,827,1301,2137,2296
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TTO,13,995.7,631.3006618,34,62,700,1021,1471,1749,1813
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TTO,15,1011.5,696.7350251,51,115,546,974,1331,1956,2751
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TTO,1,1983,0,1983,1983,1983,1983,1983,1983,1983
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TTO,26,973.3,687.4657194,50,219,328,824,1503,2167,2454
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TTO,25,1081.1,883.4055165,26,142,507,1056,1631,2146,3562
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TTO,117,913.7,779.3730298,3,104,276,727,1320,1929,3562
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TTO,93,678.8,631.9391284,11,93,195,514,979,1421,3181
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TTO,14,423.8,399.2540847,66,83,119,278,630,1002,1399
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TTO,2,1045,1245.922148,164,164,164,164,1926,1926,1926
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TTO,2,1545,4.242640687,1542,1542,1542,1542,1548,1548,1548
+IQVIA Belgium Longitudinal Patient Data 2019-09,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,8,651.2,483.3297455,54,54,162,634,895,1354,1354
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TAR,9723,1823.2,1510.126546,3,254,665,1488,2533,3944,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TAR,12948,1589.6,1244.869025,4,210,577,1301,2332,3454,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TAR,12952,1589.4,1244.902411,4,210,577,1301,2332,3453,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TAR,9389,1779.8,1480.304139,1,238,637,1456,2469,3838,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,12704,1577.2,1237.83699,4,207,570,1292,2310,3437,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,9643,1813,1500.563199,2,252,661,1482,2515,3919,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TAR,12877,1589.1,1245.027417,1,207,576,1301,2332,3453,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TAR,9740,1821.2,1513.065456,3,255,661,1484,2522,3936,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TAR,12861,1583.7,1241.824019,4,209,575,1296,2323,3444,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TAR,9769,1829.5,1515.837343,2,254,667,1496,2541,3951,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TAR,9819,1835.6,1520.653847,3,258,670,1499,2551,3960,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,9819,1835.6,1520.653847,3,258,670,1499,2551,3960,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,12952,1589.4,1244.902411,4,210,577,1301,2332,3453,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TAR,12825,1586.8,1243.072986,4,208,575,1301,2330,3450,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TAR,9819,1835.6,1520.653847,3,258,670,1499,2551,3960,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TAR,9814,1835.4,1520.488062,3,258,670,1499,2551,3960,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TAR,12952,1589.4,1244.902411,4,210,577,1301,2332,3453,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,9609,1805.9,1498.653693,3,248,651,1471,2505,3921,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TAR,9771,1832.2,1520.558944,3,258,666,1495,2543,3958,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TAR,8492,1683.9,1407.047205,1,215,588,1371,2352,3652,9211
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TAR,9621,1807.2,1501.414089,3,253,654,1469,2499,3912,9522
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TAR,12404,1572.7,1235.002624,4,205,567,1288,2307,3424,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TAR,11303,1555.7,1230.928153,1,199,553,1267,2280,3412,6326
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TAR,12952,1589.4,1244.902411,4,210,577,1301,2332,3453,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TAR,9819,1835.6,1520.653847,3,258,670,1499,2551,3960,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TAR,12890,1586,1242.723789,1,208,576,1298,2329,3447,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,12714,1579.8,1236.531035,1,206,572,1296,2317,3431,6326
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,12904,1585.5,1242.761712,4,209,576,1298,2327,3448,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,9776,1831.3,1517.274684,3,258,666,1495,2547,3954,9649
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TAR,12673,1570.5,1236.802745,4,206,563,1285,2302,3426,9523
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TTO,62,1279.3,1177.913538,5,124,336,804,1931,3060,4714
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,199,1747.2,1504.267792,2,152,595,1228,2579,3943,7637
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TTO,138,1542,1444.003212,32,253,496,1090,1972,3251,7233
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TTO,511,978.8,907.9105794,1,92,290,715,1379,2202,4831
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,25,992.6,876.0850758,144,210,448,894,1160,1985,4150
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TTO,3,1058.3,52.2047252,1017,1017,1017,1041,1117,1117,1117
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TTO,74,1467.5,1213.698129,27,156,392,1147,2258,3158,4693
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TTO,55,1275.2,1384.74878,38,133,368,808,1807,2543,7286
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TTO,237,1198.7,1053.833324,13,77,361,894,1791,2722,4976
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TTO,149,969.3,1057.872442,8,118,229,551,1404,2774,4420
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TTO,43,1399,1410.22472,4,243,552,874,2106,2636,7637
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TTO,65,1279.7,1098.422327,1,161,361,1084,1762,2454,4700
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TTO,284,1518,1402.134146,1,125,385,1091,2254,3590,6677
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TTO,75,1858.6,1740.518936,2,57,320,1227,3095,4100,7069
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TTO,84,1179.3,1080.978584,1,122,294,876,1781,2667,4155
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,234,1192.2,1036.663681,1,132,354,880,1846,2642,4631
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TTO,32,899.5,723.8781246,5,155,411,632,1240,2001,3121
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TTO,4,1505.7,1417.424748,48,48,48,629,2221,3125,3125
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,135,1324.7,1244.871979,27,104,336,1056,1973,3125,5900
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TTO,548,1193.7,1189.201142,1,113,329,809,1645,2880,7327
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,20,1185.3,1188.832692,27,41,299,588,1935,2448,4536
+IQVIA Disease Analyser Germany 2019Q3,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,109,1106,996.7085951,5,161,413,835,1629,2400,4714
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TAR,234,927,819.4251878,8,99,286,657,1406,2061,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TAR,228,919.7,807.7185634,8,97,286,655,1402,2061,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TAR,234,927,819.4251878,8,99,286,657,1406,2061,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TAR,234,927,819.4251878,8,99,286,657,1406,2061,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TAR,234,921.1,817.1002189,8,99,286,655,1402,2061,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TAR,227,935.3,825.3340222,8,97,286,668,1426,2094,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,572,1174,953.7436933,4,172,409,892,1709,2722,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,551,1139.3,949.9096002,1,161,390,852,1689,2643,3625
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,224,912.6,803.035546,8,101,286,657,1340,1975,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TAR,232,913.2,815.7690565,8,99,284,654,1364,2018,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TAR,572,1167.7,952.6888034,4,172,399,886,1702,2705,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TAR,560,1160.9,954.2945975,1,161,398,874,1693,2722,3625
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TAR,567,1163.9,954.4684318,4,161,392,890,1709,2705,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TAR,571,1173.9,954.5764112,4,172,409,892,1709,2722,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TAR,572,1172.9,954.3857699,4,172,406,890,1709,2722,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TAR,566,1162.9,946.2685315,4,174,406,886,1693,2643,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TAR,232,932.8,820.453968,8,99,286,668,1406,2061,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,572,1160.6,948.3685663,4,172,398,880,1697,2643,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,233,928.7,820.8024231,8,99,286,668,1406,2061,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,569,1165.6,956.6559318,4,165,399,882,1702,2745,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TAR,234,927,819.4251878,8,99,286,657,1406,2061,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TAR,572,1174,953.7436933,4,172,409,892,1709,2722,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,233,929.3,820.456748,8,99,286,668,1406,2061,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TAR,572,1174,953.7436933,4,172,409,892,1709,2722,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TAR,226,904,804.5873475,8,84,284,654,1406,2039,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TAR,554,1159,941.6509869,4,172,398,890,1709,2632,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TAR,571,1175.5,953.9301112,4,172,411,892,1709,2722,3661
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TAR,510,1116.3,932.7106819,4,144,367,827,1689,2631,3604
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,232,921.6,817.4235649,8,99,286,657,1402,2039,3537
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TAR,195,855.9,771.10008,8,77,284,615,1245,1973,3312
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TTO,21,639.6,623.0884635,22,70,163,457,1046,1516,2397
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,6,1097.1,908.093479,247,247,249,695,1486,2625,2625
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,7,1071,845.4754087,308,308,332,727,1721,2356,2356
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TTO,13,1295.3,800.9115,227,297,551,1350,1821,1959,2908
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TTO,4,1232,1066.481755,249,249,249,568,1486,2625,2625
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TTO,1,548,0,548,548,548,548,548,548,548
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TTO,7,929.2,507.4254344,251,251,326,1012,1379,1605,1605
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,1,1096,0,1096,1096,1096,1096,1096,1096,1096
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TTO,2,332,0,332,332,332,332,332,332,332
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TTO,10,861.4,950.9610577,125,125,199,271,1049,2548,2548
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,18,750.1,704.7764977,1,20,251,491,1095,1496,2856
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,5,495,422.3452379,20,20,189,491,680,1095,1095
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TTO,5,475,682.1183915,22,22,22,163,531,1637,1637
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TTO,2,471,316.783838,247,247,247,247,695,695,695
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TTO,1,308,0,308,308,308,308,308,308,308
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TTO,2,553,456.7909806,230,230,230,230,876,876,876
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TTO,48,983.8,1017.989341,16,43,199,670,1197,2939,3585
+IQVIA Australia Longitudinal Patient Data 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TTO,9,855.1,933.9102532,1,1,131,466,1351,2856,2856
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TAR,21731,1473.8,1197.956874,1,208,527,1160,2142,3242,7581
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TAR,21736,1475.6,1201.717181,1,206,522,1163,2149,3252,7474
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,13405,2247.9,1642.737907,2,334,873,1944,3372,4679,7857
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TAR,21568,1475,1198.816816,1,207,521,1165,2153,3244,7474
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TAR,22002,1483.5,1208.239659,1,207,526,1169,2166,3269,7581
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TAR,13291,2240.7,1638.417392,2,333,870,1939,3361,4652,7857
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TAR,13124,2217.8,1630.508059,1,323,850,1901,3326,4622,7816
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,20456,1426.7,1184.880481,1,199,492,1103,2071,3186,7474
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TAR,13557,2267,1646.157536,2,338,885,1973,3406,4697,7857
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TAR,22622,1495.9,1211.426721,1,211,532,1183,2186,3289,7581
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,22415,1490.9,1208.970581,1,210,530,1177,2175,3280,7581
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TAR,17046,1368,1148.435919,1,187,469,1049,1982,3068,7474
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TAR,22532,1491.3,1209.956247,1,210,529,1177,2178,3285,7581
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,21725,1473.4,1198.553352,1,206,522,1163,2147,3248,7581
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TAR,13201,2223.5,1630.641088,2,332,856,1910,3326,4632,7816
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TAR,13311,2240.4,1637.901267,2,332,870,1938,3358,4662,7857
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TAR,10765,1984.4,1548.93878,2,270,708,1615,2958,4275,7807
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,13523,2260,1643.642231,2,337,880,1964,3393,4686,7857
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,13195,2230.1,1633.636992,1,326,858,1925,3348,4632,7857
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TAR,22347,1490,1208.533689,1,208,528,1177,2175,3281,7581
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,22233,1467.1,1202.956585,1,206,509,1152,2142,3242,7581
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TAR,22339,1490.4,1208.409799,1,210,530,1178,2175,3281,7581
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TAR,13591,2271.3,1647.912489,2,338,887,1978,3414,4710,7857
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TAR,13473,2262.4,1646.020408,2,334,880,1967,3395,4691,7857
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TAR,13199,2234.1,1638.997759,2,323,862,1929,3351,4651,7857
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,12555,2153,1614.398819,2,298,808,1820,3223,4536,7816
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TAR,22581,1495.5,1210.848332,1,210,533,1183,2185,3288,7581
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TAR,13600,2272.2,1647.047462,2,340,888,1978,3413,4710,7816
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TAR,13474,2264.6,1644.411414,1,337,886,1967,3403,4692,7857
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TAR,21963,1473.6,1204.920916,1,204,516,1159,2150,3259,7581
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TTO,376,1361,1102.268063,3,209,475,1126,1918,2990,5258
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TTO,232,1534.6,1172.281833,13,251,590,1225,2093,3199,6386
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TTO,192,1094.8,1017.586557,3,168,337,778,1573,2680,4849
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TTO,274,1910.5,1471.204045,1,183,780,1637,2875,4053,6550
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TTO,141,1920.1,1516.877875,26,182,628,1650,2699,3978,6650
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,112,1681.1,1332.94187,26,282,569,1325,2457,3823,6029
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,104,920.6,770.460524,5,182,394,757,1208,1819,4179
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TTO,54,1277,985.4929901,13,191,285,1141,1741,2432,4277
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TTO,45,1948.1,1381.818586,62,422,877,1714,2785,4366,5135
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TTO,158,1166.5,987.1295112,21,189,425,824,1700,2876,3860
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TTO,83,963.6,929.6028208,36,207,344,639,1262,2054,4408
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TTO,57,1819.9,1317.800837,10,200,747,1834,2510,3544,5928
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TTO,325,1693.8,1303.88964,2,273,706,1377,2344,3649,6742
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TTO,416,925.6,944.1741426,7,153,278,584,1249,2051,5236
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TTO,495,1249.1,1006.739422,10,200,527,1014,1686,2572,5668
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TTO,465,747.6,745.3384073,19,198,307,488,846,1734,5020
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TTO,471,1682.3,1280.158994,2,301,619,1393,2393,3508,6367
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TTO,238,1642.5,1294.729759,12,261,721,1269,2231,3526,7290
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TTO,375,1735.7,1396.204206,6,180,584,1444,2567,3672,6447
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TTO,547,1346.2,1097.066354,7,210,440,1099,1967,3049,5320
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TTO,553,1670.2,1313.686956,1,240,627,1365,2333,3814,7049
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TTO,4,2571.2,2608.9545,744,744,744,1343,1764,6434,6434
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TTO,3,1204.6,933.0735948,342,342,342,1077,2195,2195,2195
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TTO,401,1205.6,1003.913607,12,178,425,940,1713,2690,6102
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TTO,2000,1499.2,1214.614123,5,220,539,1225,2142,3205,6650
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,788,1259.4,1051.50475,3,202,453,995,1771,2756,5466
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,619,1828.1,1421.141158,1,187,638,1544,2785,3909,6550
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,1083,945.4,889.4605505,3,181,335,627,1270,2188,6102
+UKIMRD201903,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,934,1611.3,1309.822327,6,230,579,1282,2231,3474,7290
+UKIMRD201903,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TTO,2048,1092.3,940.0500236,1,177,393,819,1523,2400,5822
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,1327,1003.7,733.1515709,26,166,400,845,1479,2114,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TAR,187,1071.4,761.997374,28,174,423,901,1631,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TAR,1327,1001.5,731.7250332,26,166,400,840,1476,2110,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TAR,187,1071.4,761.997374,28,174,423,901,1631,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TAR,1302,1001.8,732.8620149,26,166,393,845,1476,2114,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TAR,187,1071.4,761.997374,28,174,423,901,1631,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TAR,187,1071.4,761.997374,28,174,423,901,1631,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TAR,182,1078.8,767.9726407,28,174,439,901,1661,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,1227,970.7,726.9978482,8,154,361,813,1443,2077,3075
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,187,1071.4,761.997374,28,174,423,901,1631,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TAR,187,1071.4,761.997374,28,174,423,901,1631,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TAR,1283,985.2,731.0248521,8,158,376,828,1458,2098,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TAR,1284,994.4,730.6080245,26,166,393,829,1461,2107,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TAR,1048,909.3,709.4252516,26,138,320,740,1355,2013,3041
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TAR,180,1051.8,757.3902105,28,166,421,858,1569,2168,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TAR,1327,1003.7,733.1515709,26,166,400,845,1479,2114,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,187,1071.4,761.997374,28,174,423,901,1631,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TAR,155,981.1,729.5201586,8,166,383,815,1503,2062,3014
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TAR,1324,1003.7,733.511641,26,166,400,845,1476,2114,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TAR,1327,1003.7,733.1515709,26,166,400,845,1479,2114,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TAR,1296,981.8,727.5659018,5,162,383,818,1451,2093,3075
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TAR,187,1071.4,761.997374,28,174,423,901,1631,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,1316,1000.8,733.0450566,26,166,400,837,1472,2114,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,1312,997.8,730.4260244,26,166,399,837,1476,2109,3075
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,185,1081,760.372762,28,175,442,941,1631,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,174,1039.1,758.6548745,9,166,385,858,1569,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TAR,181,1040.6,751.4467123,9,174,405,891,1547,2168,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TAR,1327,1003.7,733.1515709,26,166,400,845,1479,2114,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TAR,1326,1003.1,733.1226195,26,166,400,845,1476,2114,3086
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TAR,181,1084.7,768.4333113,28,174,439,962,1661,2187,3047
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,4,719.2,156.2441999,545,545,545,662,755,915,915
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,9,919.5,927.483438,9,9,219,448,1235,2395,2395
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TTO,3,890.3,640.821608,419,419,419,632,1620,1620,1620
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,60,653.2,625.5050739,8,84,206,418,903,1551,2617
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TTO,1,545,0,545,545,545,545,545,545,545
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TTO,20,431.1,414.9464487,5,65,166,315,538,666,1786
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TTO,22,875.3,546.7520014,62,191,471,623,1308,1643,1915
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TTO,2,858.5,385.3731957,586,586,586,586,1131,1131,1131
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TTO,1,454,0,454,454,454,454,454,454,454
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TTO,17,498.8,427.864645,8,21,222,405,663,920,1809
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TTO,110,720.3,547.4414232,41,146,261,600,1061,1423,2597
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TTO,11,634.5,691.876053,84,92,122,306,1179,1239,2307
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TTO,30,607.4,692.5241487,8,34,115,325,895,1551,2617
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TTO,8,893.1,987.8914685,9,9,184,292,1235,2395,2395
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,15,846.9,447.0700595,314,391,418,840,1094,1566,1902
+IQVIA Disease Analyser France 2019Q4,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TTO,1,663,0,663,663,663,663,663,663,663
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TAR,81159,1273.1,968.696827,1,189,496,1061,1831,2675,5039
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TAR,22438,1393.5,998.9457348,2,226,593,1210,1973,2846,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TAR,82299,1286.7,974.9873426,2,193,504,1076,1848,2700,5065
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TAR,22553,1397.1,1000.808192,6,228,595,1215,1977,2851,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TAR,82739,1287.4,974.6563737,2,193,505,1077,1850,2699,5065
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,82576,1286.7,974.0746267,2,193,505,1077,1847,2697,5065
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TAR,82587,1287.6,974.6596723,2,194,506,1077,1850,2698,5065
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,22272,1382.5,996.0847567,1,222,582,1197,1955,2835,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,81786,1271.2,974.6463815,1,187,487,1055,1832,2686,5065
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TAR,81154,1274.8,969.0719662,1,189,497,1064,1834,2677,5065
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TAR,22529,1395,998.9242978,14,227,594,1213,1973,2848,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TAR,17381,1220,944.6232795,1,151,463,1022,1755,2592,4976
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,21265,1340.6,979.4398239,1,210,559,1149,1904,2764,5039
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TAR,82466,1283,973.0914728,2,192,502,1072,1843,2693,5065
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TAR,82713,1288.7,975.3095647,1,194,506,1078,1851,2700,5065
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TAR,22307,1384.1,995.5284046,1,224,586,1199,1959,2834,5039
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TAR,63156,1134.8,924.5940281,1,140,399,909,1653,2481,5019
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TAR,22479,1392.4,998.5841338,7,227,591,1210,1970,2844,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TAR,79667,1262.2,969.1747835,1,183,483,1047,1820,2669,5039
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TAR,22169,1376.7,992.4840904,1,222,580,1190,1945,2823,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TAR,81847,1273,969.3134245,2,189,496,1061,1829,2679,5065
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TAR,22433,1392.4,999.5928162,1,225,591,1209,1968,2845,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TAR,79304,1270,968.9547754,1,188,492,1058,1827,2674,5019
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TAR,77634,1236.4,961.7544311,1,179,464,1017,1790,2631,5039
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TAR,22162,1381.9,993.9617099,1,222,586,1197,1956,2829,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TAR,82405,1284.4,972.9420059,1,193,503,1075,1845,2693,5065
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TAR,22518,1395.2,998.6753296,9,228,594,1213,1976,2846,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TAR,22551,1395.2,999.2201336,1,227,594,1212,1976,2847,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TAR,21773,1377,995.0468816,1,219,577,1193,1951,2831,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TAR,21780,1375,996.8846022,1,217,574,1188,1947,2828,5236
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder OA,TTO,97,1107.1,917.3923033,14,134,435,804,1553,2622,4516
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,143,1115.1,892.9965419,9,153,371,880,1781,2433,3992
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder OA,TTO,327,1049.9,882.0403926,8,138,344,801,1496,2391,4038
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Vertebral,TTO,203,1070.1,941.7297554,1,119,361,779,1600,2521,4351
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Vertebral,TTO,668,978.2,833.4550615,3,97,340,768,1415,2185,4632
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy foot and ankle,TTO,443,981,787.4740873,3,152,383,777,1420,1977,4076
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome hand OA,TTO,423,889.3,777.6601972,1,165,296,628,1323,2141,3864
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand OA,TTO,142,961.2,828.0563515,7,114,323,734,1408,2008,4034
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture Hip,TTO,229,1005,817.5989971,24,144,359,792,1492,2260,4297
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture Hip,TTO,77,998.7,861.7205912,1,109,303,804,1300,2273,4318
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome elbow tendinopathy,TTO,446,914.4,812.5947972,3,115,327,642,1275,2097,3725
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome elbow tendinopathy,TTO,165,1065.4,916.3207608,2,161,402,856,1429,2191,4158
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome hip OA,TTO,1620,994.5,842.4984001,1,109,339,781,1470,2187,4853
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome shoulder tendinopathy,TTO,600,1042.4,840.4694583,1,108,394,886,1477,2189,4824
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome shoulder tendinopathy,TTO,1990,995.8,839.0687488,1,132,337,755,1452,2188,4792
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome knee tendinopathy,TTO,143,762.8,624.335345,1,144,300,622,1111,1556,3382
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hip OA,TTO,478,1044.5,845.6502487,1,103,338,899,1534,2202,3987
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee tendinopathy,TTO,45,922.6,859.6297829,6,124,288,701,1484,1866,4023
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome knee OA,TTO,637,1007.7,904.4832247,1,99,338,744,1433,2312,4751
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome hand and wrist tendinopathy,TTO,370,1063.7,864.4825073,1,104,412,848,1550,2231,4730
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome CTS,TTO,531,874.5,769.5688933,1,69,265,660,1307,2076,3864
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome CTS,TTO,2196,715.5,712.2125026,1,77,202,484,989,1693,4570
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome knee OA,TTO,2363,960.2,844.7698289,1,111,311,714,1377,2196,4597
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome hand and wrist tendinopathy,TTO,1823,644.9,638.9328866,1,117,234,424,821,1490,4416
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome OA,TTO,9583,776.7,741.6395508,1,69,221,552,1107,1837,4416
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome OA,TTO,2808,817.6,756.5542575,1,56,213,617,1210,1902,4631
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,1588,992.9,831.9683729,2,111,359,780,1427,2194,4632
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,1447,997.2,832.3924503,1,110,345,799,1456,2170,4824
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Target AI,[MSK-AI] Outcome tendinopathy (all subgroups),TTO,5286,816,751.1609473,1,113,268,573,1150,1905,4792
+IQVIA US Ambulatory EMR 2019-08,[MSK-AI] Comparator - Tamoxifen CFS,[MSK-AI] Outcome Fracture All Osteoporotic,TTO,448,1028,895.5386603,1,110,344,776,1503,2418,4351
