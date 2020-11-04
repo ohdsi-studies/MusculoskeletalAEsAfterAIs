@@ -1,0 +1,1186 @@
+{
+  "ConceptSets": [
+    {
+      "id": 6,
+      "name": "[LEGEND HTN] Malignant neoplasms of breast",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "254837009",
+              "CONCEPT_ID": 4112853,
+              "CONCEPT_NAME": "Malignant tumor of breast",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "128462008",
+              "CONCEPT_ID": 432851,
+              "CONCEPT_NAME": "Secondary malignant neoplastic disease",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "[MSK-AI] aromatase inhibitors drug",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "f7074834-ce60-4ae5-b368-0c338b5cbb54",
+              "CONCEPT_ID": 45803469,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "b55863f0-5f4d-4e5f-b394-473bdfcf079b",
+              "CONCEPT_ID": 45629142,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "95eb0931-d177-40f6-9bf4-6ba20c9cbf43",
+              "CONCEPT_ID": 45633960,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "064876a8-97d8-495e-8240-0df8ed2a97d1",
+              "CONCEPT_ID": 45636441,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "4bd1c013-75b6-4b68-a356-65d5bbc141e5",
+              "CONCEPT_ID": 45671055,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "9cd2b991-c3fa-4c04-99db-c4b64c6396cf",
+              "CONCEPT_ID": 45678497,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "0952644e-ef42-4dcb-b07f-6901cda78ec0",
+              "CONCEPT_ID": 45703064,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "29d3764c-c67b-4505-8f2d-c4949427d1f3",
+              "CONCEPT_ID": 45782425,
+              "CONCEPT_NAME": "anastrozole 1mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ATC 4th",
+              "CONCEPT_CODE": "L02BG",
+              "CONCEPT_ID": 21603838,
+              "CONCEPT_NAME": "Aromatase inhibitors",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "ATC"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "name": "[MSK-AI] tamoxifen drug",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "063FA789-4570-4715-C3BD-1BAD0449FB26",
+              "CONCEPT_ID": 45697402,
+              "CONCEPT_NAME": "NOLVADEX - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "8e4710a7-8757-49be-8bec-a1dc39e6c695",
+              "CONCEPT_ID": 45672512,
+              "CONCEPT_NAME": "SOLTAMOX - tamoxifen citrate liquid",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "bd72fd53-ae0c-4080-9b7f-2d294b14cc86",
+              "CONCEPT_ID": 42804940,
+              "CONCEPT_NAME": "SOLTAMOX - tamoxifen citrate liquid",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "393383c9-32b2-446c-b324-7e7c1dc7ba33",
+              "CONCEPT_ID": 36159385,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "b02f410e-ba92-4853-9b67-2afbde9866be",
+              "CONCEPT_ID": 36155001,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "fea92349-6e44-429c-9d8c-38b9a49a8ad5",
+              "CONCEPT_ID": 42694028,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "8d731e7e-3b04-49a2-a0f6-3779422174cc",
+              "CONCEPT_ID": 44339136,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "716657e8-d809-4671-87bc-8d10ef69a071",
+              "CONCEPT_ID": 42801939,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "dc7bcc53-b69d-48dc-aa5e-b0454d6aa210",
+              "CONCEPT_ID": 44356917,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "bb53eeb7-83fc-469e-b9e3-df5f27bfec7b",
+              "CONCEPT_ID": 42806296,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "9b8a4211-120f-4981-ad69-928accb97637",
+              "CONCEPT_ID": 45650672,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "8f642753-9e12-433c-a0bc-ab33dac41ddf",
+              "CONCEPT_ID": 45628249,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+              "CONCEPT_ID": 45661189,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "2720c127-ec86-42ea-97e7-88dd6a195cdb",
+              "CONCEPT_ID": 45698114,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "f5ffe9dd-f76d-4aab-9473-81e33b26710b",
+              "CONCEPT_ID": 46244741,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "fa87c1c2-f58b-4a12-a658-a957ae7e522d",
+              "CONCEPT_ID": 42807178,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "7424b623-4f1a-4c45-b30a-140b708750b2",
+              "CONCEPT_ID": 35902966,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "8e02d45c-2b87-4c2f-8d75-b848172fafde",
+              "CONCEPT_ID": 44337470,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "70052366-80f3-41bc-b2dd-c1efe9317243",
+              "CONCEPT_ID": 42801523,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "cfd2e863-544d-4f32-b53d-dda6ef26522f",
+              "CONCEPT_ID": 44337587,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "1bb81dd5-8d4e-4d6d-b030-a8ff2a3d4f55",
+              "CONCEPT_ID": 42805848,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "e0da3b80-835f-4c4e-ab37-81095e96e881",
+              "CONCEPT_ID": 44361432,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "151ce76c-2d44-4c82-850d-ab213bea4d6b",
+              "CONCEPT_ID": 45631182,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "407a372d-4448-4d53-afd4-eb0e74bbc336",
+              "CONCEPT_ID": 45665346,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "86dcde0e-347c-49e1-8b38-ad106a25c9af",
+              "CONCEPT_ID": 45683541,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "61c988cc-a5bf-4cd2-81fd-4442a940622f",
+              "CONCEPT_ID": 46301876,
+              "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ATC 5th",
+              "CONCEPT_CODE": "L02BA01",
+              "CONCEPT_ID": 21603831,
+              "CONCEPT_NAME": "tamoxifen; oral",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "ATC"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "dae37822-4738-4918-8370-aa01a776ec03",
+              "CONCEPT_ID": 45690920,
+              "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "2378410a-1b92-4e4c-af3f-f8f75fa70aaf",
+              "CONCEPT_ID": 45781760,
+              "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "6630c8a2-8c01-4ae7-a48d-0bf6ffd5b22a",
+              "CONCEPT_ID": 45666144,
+              "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET, FILM COATED",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "e3503377-5756-46f4-9465-14f9fb786826",
+              "CONCEPT_ID": 45624491,
+              "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET, FILM COATED",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "03aa160e-65cb-4bc7-afd8-157666e39b8c",
+              "CONCEPT_ID": 45777985,
+              "CONCEPT_NAME": "tamoxifen citrate 10mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "089a379c-072b-49a6-af3f-15ff33b3188c",
+              "CONCEPT_ID": 45778750,
+              "CONCEPT_NAME": "tamoxifen citrate 10mg/1 ORAL TABLET, FILM COATED",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "653917f0-f878-11e1-a21f-0800200c9a66",
+              "CONCEPT_ID": 45688368,
+              "CONCEPT_NAME": "tamoxifen citrate 10mg/5mL ORAL LIQUID [soltamox]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Prescription Drug",
+              "CONCEPT_CODE": "9116209f-df47-45cd-9147-acd2e3eb0b5d",
+              "CONCEPT_ID": 45661594,
+              "CONCEPT_NAME": "tamoxifen citrate 20mg/1 ORAL TABLET",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "SPL"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "name": "[MSK_AI]breastsurgery_forcancer",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "6189002",
+              "CONCEPT_ID": 4267138,
+              "CONCEPT_NAME": "Excision of aberrant tissue of breast",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "12708000",
+              "CONCEPT_ID": 4130203,
+              "CONCEPT_NAME": "Excision of accessory nipple",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "237394008",
+              "CONCEPT_ID": 4129855,
+              "CONCEPT_NAME": "Excision of areola",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "63348002",
+              "CONCEPT_ID": 4271995,
+              "CONCEPT_NAME": "Excision of benign tumor of breast",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "69031006",
+              "CONCEPT_ID": 4286804,
+              "CONCEPT_NAME": "Excision of breast tissue",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "69990006",
+              "CONCEPT_ID": 4289738,
+              "CONCEPT_NAME": "Excision of fibroadenoma of breast",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "CPT4",
+              "CONCEPT_CODE": "19112",
+              "CONCEPT_ID": 2102678,
+              "CONCEPT_NAME": "Excision of lactiferous duct fistula",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "CPT4"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "853071000000107",
+              "CONCEPT_ID": 44809343,
+              "CONCEPT_NAME": "Liposuction and excision of gynaecomastia",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "59620004",
+              "CONCEPT_ID": 4242107,
+              "CONCEPT_NAME": "Mastectomy for gynecomastia",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "62347003",
+              "CONCEPT_ID": 4266051,
+              "CONCEPT_NAME": "Nipple exploration with excision of lactiferous duct",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "90991008",
+              "CONCEPT_ID": 4237682,
+              "CONCEPT_NAME": "Periprosthetic capsulectomy of breast",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "447421006",
+              "CONCEPT_ID": 40492422,
+              "CONCEPT_NAME": "Prophylactic mastectomy",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "851181000000109",
+              "CONCEPT_ID": 44808932,
+              "CONCEPT_NAME": "Re-excision of local recurrence of breast tumour",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "62725000",
+              "CONCEPT_ID": 4267577,
+              "CONCEPT_NAME": "Removal of intact mammary implant plus capsulectomy",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "852951000000106",
+              "CONCEPT_ID": 44809333,
+              "CONCEPT_NAME": "Total excision of lactiferous duct",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "736751004",
+              "CONCEPT_ID": 42537383,
+              "CONCEPT_NAME": "Total excision of lactiferous duct of left breast",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "736752006",
+              "CONCEPT_ID": 42537384,
+              "CONCEPT_NAME": "Total excision of lactiferous duct of right breast",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "851221000000104",
+              "CONCEPT_ID": 44808935,
+              "CONCEPT_NAME": "Wide re-excision of local recurrence of breast tumour",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
+            "includeDescendants": true
+          }
+        ]
+      }
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {
+        "DrugExposure": {
+          "CodesetId": 8,
+          "First": true
+        }
+      }
+    ],
+    "ObservationWindow": {
+      "PriorDays": 365,
+      "PostDays": 0
+    },
+    "PrimaryCriteriaLimit": {
+      "Type": "First"
+    }
+  },
+  "AdditionalCriteria": {
+    "Type": "ALL",
+    "CriteriaList": [],
+    "DemographicCriteriaList": [],
+    "Groups": []
+  },
+  "QualifiedLimit": {
+    "Type": "First"
+  },
+  "ExpressionLimit": {
+    "Type": "First"
+  },
+  "InclusionRules": [
+    {
+      "name": "breast cancer",
+      "description": "must have breast cancer diagnosis within 1y prior to AI use",
+      "expression": {
+        "Type": "ALL",
+        "CriteriaList": [
+          {
+            "Criteria": {
+              "ConditionOccurrence": {
+                "CodesetId": 6
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 0,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          }
+        ],
+        "DemographicCriteriaList": [],
+        "Groups": []
+      }
+    },
+    {
+      "name": "Age=>55",
+      "expression": {
+        "Type": "ALL",
+        "CriteriaList": [],
+        "DemographicCriteriaList": [
+          {
+            "Age": {
+              "Value": 55,
+              "Op": "gte"
+            }
+          }
+        ],
+        "Groups": []
+      }
+    },
+    {
+      "name": "excluding prior tamoxifen use",
+      "expression": {
+        "Type": "ALL",
+        "CriteriaList": [
+          {
+            "Criteria": {
+              "DrugExposure": {
+                "CodesetId": 10
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 0,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 0,
+              "Count": 0
+            }
+          }
+        ],
+        "DemographicCriteriaList": [],
+        "Groups": []
+      }
+    },
+    {
+      "name": "Female sex",
+      "expression": {
+        "Type": "ALL",
+        "CriteriaList": [],
+        "DemographicCriteriaList": [
+          {
+            "Gender": [
+              {
+                "CONCEPT_CODE": "F",
+                "CONCEPT_ID": 8532,
+                "CONCEPT_NAME": "FEMALE",
+                "DOMAIN_ID": "Gender",
+                "INVALID_REASON_CAPTION": "Unknown",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "VOCABULARY_ID": "Gender"
+              }
+            ]
+          }
+        ],
+        "Groups": []
+      }
+    },
+    {
+      "name": "surgery for breast cancer",
+      "description": "must have surgery for breast cancer prior to AI use",
+      "expression": {
+        "Type": "ALL",
+        "CriteriaList": [
+          {
+            "Criteria": {
+              "ProcedureOccurrence": {
+                "CodesetId": 11
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Coeff": -1
+              },
+              "End": {
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          }
+        ],
+        "DemographicCriteriaList": [],
+        "Groups": []
+      }
+    }
+  ],
+  "CensoringCriteria": [],
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 30
+  },
+  "CensorWindow": {},
+  "cdmVersionRange": ">=5.0.0"
+}
