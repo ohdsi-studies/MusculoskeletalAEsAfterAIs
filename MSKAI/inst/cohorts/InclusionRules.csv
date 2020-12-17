@@ -1,0 +1,17 @@
+cohortName,ruleSequence,ruleName,cohortId
+[MSK_AI] target_ai_nonsteroidal,0,breast cancer,36
+[MSK_AI] target_ai_nonsteroidal,1,Age=>55,36
+[MSK_AI] target_ai_nonsteroidal,2,excluding prior tamoxifen use,36
+[MSK_AI] target_ai_nonsteroidal,3,Female sex,36
+[MSK_AI] target_ai_steroidal,0,breast cancer,37
+[MSK_AI] target_ai_steroidal,1,Age=>55,37
+[MSK_AI] target_ai_steroidal,2,excluding prior tamoxifen use,37
+[MSK_AI] target_ai_steroidal,3,Female sex,37
+[MSK_AI] target_ai,0,breast cancer,35
+[MSK_AI] target_ai,1,Age=>55,35
+[MSK_AI] target_ai,2,excluding prior tamoxifen use,35
+[MSK_AI] target_ai,3,Female sex,35
+[MSK_AI]comparator_tamoxifen,0,breast cancer,102
+[MSK_AI]comparator_tamoxifen,1,Age >=55,102
+[MSK_AI]comparator_tamoxifen,2,No prior AI use,102
+[MSK_AI]comparator_tamoxifen,3,female sex,102

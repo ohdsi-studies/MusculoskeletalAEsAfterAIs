@@ -1,18 +1,38 @@
-Musculoskeletal adverse outcomes after treatment with aromatase inhibitors for breast cancer: an OHDSI based population level estimate cohort study
-=============
+# A Cohort Diagnostics package to establish the feasibility of investigating musculoskeletal adverse events following hormonal treatment for breast cancer
 
-<img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started"> 
+<img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
-- Analytics use case(s): **Population-Level Estimation**
+- Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**
-- Tags: **PLE**
-- Study lead: **Dr. Jenny Lane**
-- Study lead forums tag: **[jenniferlane](https://forums.ohdsi.org/u/jenniferlane)**
-- Study start date: **January 20, 2020**
-- Study end date: **July 31, 2020**
-- Protocol: **-**
-- Publications: **-**
-- Results explorer: **-**
+- Tags: **OHDSI**
+- Study lead: **Jenny Lane**
+- Study lead forums tag: **jenniferlane**
+- Study start date: **1st December 2020**
+- Study end date: **1st March 2021**
+- Protocol: **[EU PAS 38362](http://www.encepp.eu/encepp/viewResource.htm?id=38363)**
+- Publications: ** **
+- Results explorer: **[Shiny app](https://jenniferlane.shinyapps.io/CohortDiagnostics_MSK_AI/)**
 
-To investigate if there is an association between aromatase inhibitor (AI) use compared to tamoxifen and the incidence of carpal tunnel syndrome (CTS), tendinopathy of the wrist, shoulder, Achilles tendon and osteoarthritis (OA) of the hand, shoulder, hip and knee in post- menopausal women treated for breast cancer.
+If you are undertaking cohort diagnostics for the first time, you may need set up your environment using the instructions given in the [HADES installation guide](https://ohdsi.github.io/Hades/rSetup.html). To run the study you will need to load the package, enter the RProj, and build it. Once built, you will need to open the extras/CodeToRun.R file and enter your database connection details, where you want to save your results locally, and so on (see instructions in the file). In this same file you can then run the study, view the results locally in a shiny application, and share your results.
 
+Please note prior to running (and as detailed in the file Extas/CodetoRun.R), you may also need to install packages in order for packages to run including. 
+
+From CRAN:  
+- devtools
+- dplyr
+- ggplot2
+- SqlRender
+- DatabaseConnector
+- parallel
+- rJava  
+
+From github:  
+- OHDSI/FeatureExtraction@v3.1.0
+- OHDSI/Andromeda@v0.4.0
+- OHDSI/OhdsiSharing@v0.2.2
+- edward-burn/CohortDiagnostics; branch = DiagAi  
+*Note, we suggest using the branch of cohort diagnostics from the edward-burn account rather than the OHDSI one so as to ensure consistency in results set (the OHDSI cohort diagnostics package continues to be developed - the version on Ed´s github is just a recent fork from the main OHDSI repo).*   
+
+We recommend centres review the results in their personal shiny app prior to sharing within OHDSI, and then invite centres to share the results with us via the SFTP server. To share these via the OHDSI SFTP you will need a key file which you will need to be sent separately. To get this please contact jennifer.lane@ndorms.ox.ac.uk.
+
+We look forward to working with you!
