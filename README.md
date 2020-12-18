@@ -11,7 +11,7 @@
 - Study end date: **1st March 2021**
 - Protocol: **[EU PAS 38362](http://www.encepp.eu/encepp/viewResource.htm?id=38363)**
 - Publications: ** **
-- Results explorer: **[Shiny app](https://data.ohdsi.org/CohortDiagnosticsMSKAI/)**
+- Results explorer: **[Data.OHDSI](https://data.ohdsi.org/CohortDiagnosticsMSKAI/)**
 
 If you are undertaking cohort diagnostics for the first time, you may need set up your environment using the instructions given in the [HADES installation guide](https://ohdsi.github.io/Hades/rSetup.html). To run the study you will need to load the package, enter the RProj, and build it. Once built, you will need to open the extras/CodeToRun.R file and enter your database connection details, where you want to save your results locally, and so on (see instructions in the file). In this same file you can then run the study, view the results locally in a shiny application, and share your results.
 
