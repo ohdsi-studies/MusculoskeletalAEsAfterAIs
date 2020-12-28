@@ -5,18 +5,6 @@ CREATE TABLE #Codesets (
 ;
 
 INSERT INTO #Codesets (codeset_id, concept_id)
-SELECT 23 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
-( 
-  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (4301750,4259564,4211092,45763950,44789352,4101039,2102895,4275569,4129863,4001864,44793145,2103888,45888308)
-UNION  select c.concept_id
-  from @vocabulary_database_schema.CONCEPT c
-  join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
-  and ca.ancestor_concept_id in (4301750,4259564,4211092,45763950,44789352,4101039,2102895,4275569,4129863,4001864,44793145,2103888,45888308)
-  and c.invalid_reason is null
-
-) I
-) C;
-INSERT INTO #Codesets (codeset_id, concept_id)
 SELECT 24 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
 ( 
   select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (4000968,37108980,437966,4118007,4215217)
@@ -30,6 +18,24 @@ UNION  select c.concept_id
 LEFT JOIN
 (
   select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (37209298,45763853,36686985,37309752,37309751,4317278,4142286,37209314,37209313,36686986,37108637,36684518,36684519,37208270,37207756,37207757,36684520,36684521,37207793,37108636,36684522,36684523,35609017,37207758,37207794,36684524,36684525,37207795,45773211,4010535,4015877,45766788,760453,760455,45766789,760458,760457,37309612,37309611,760454,45766841,760456,765344,4001481,4003135,4003136,40493264,37110617,42536800,765120,762281,4016831,4050234,4014519,4050235,76202,76201,761389,438843,761390,761398,764592,765915,761397,761399,761392,761395,761394,439907,37018928,4160271,4015492,4012302,45772709,37310232,37310211,45766961,37310246,45771416,37310231,37310235,45766917,37310230,37310238,44784271,77718,4230600,4002796,4019249,4016830,4014520,4019250,4323887,4327108,4016829,4347164,4347165,80811,4344025,4014522,4344505,81943,4136553,4016832,36712793,4149245,4134165,4016834,44783249,4161507,195632,36712792,4212711,4347070,4019248,197645,4347177,4083493,4344029,4344033,4019245,4083494,4344504,4019244,4014521,4016828,4014518,4173671,37207824,37207825,37207826,37207827,4121416,4121593,4121933,4121931,4145024,44784059,44784058,4176021,42535079,4215218,4326495,42535078)
+
+) E ON I.concept_id = E.concept_id
+WHERE E.concept_id is null
+) C;
+INSERT INTO #Codesets (codeset_id, concept_id)
+SELECT 25 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
+( 
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (4301750,4259564,4211092,2005656,45763950,44789352,4101039,2006202,2102895,2006196,2006180,2006204,2006122,4275569,4129863,4001864,44793145,2005727,2103888,45888308,44811493)
+UNION  select c.concept_id
+  from @vocabulary_database_schema.CONCEPT c
+  join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
+  and ca.ancestor_concept_id in (4301750,4259564,4211092,2005656,45763950,44789352,4101039,2006202,2102895,2006196,2006180,2006204,2006122,4275569,4129863,4001864,44793145,2005727,2103888,45888308,44811493)
+  and c.invalid_reason is null
+
+) I
+LEFT JOIN
+(
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (44789602,44789354,44789601,44789353,44789600,4290622,4238974,4144675,44813855)
 
 ) E ON I.concept_id = E.concept_id
 WHERE E.concept_id is null
@@ -56,7 +62,7 @@ from
 (
   select po.* 
   FROM @cdm_database_schema.PROCEDURE_OCCURRENCE po
-JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 23))
+JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 25))
 ) C
 JOIN @cdm_database_schema.PERSON P on C.person_id = P.person_id
 WHERE YEAR(C.procedure_date) - P.year_of_birth >= 55
@@ -79,7 +85,7 @@ from
 (
   select po.* 
   FROM @cdm_database_schema.PROCEDURE_OCCURRENCE po
-JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 23))
+JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 25))
 ) C
 JOIN @cdm_database_schema.PERSON P on C.person_id = P.person_id
 WHERE YEAR(C.procedure_date) - P.year_of_birth >= 55
@@ -102,7 +108,7 @@ from
 (
   select po.* 
   FROM @cdm_database_schema.PROCEDURE_OCCURRENCE po
-JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 23))
+JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 25))
 ) C
 JOIN @cdm_database_schema.PERSON P on C.person_id = P.person_id
 WHERE YEAR(C.procedure_date) - P.year_of_birth >= 55
