@@ -1,4 +1,5 @@
-# A Cohort Diagnostics package to establish the feasibility of investigating musculoskeletal adverse events following hormonal treatment for breast cancer
+A Cohort Diagnostics package to establish the feasibility of investigating musculoskeletal adverse events following hormonal treatment for breast cancer
+========================================================================================================================================================
 
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
