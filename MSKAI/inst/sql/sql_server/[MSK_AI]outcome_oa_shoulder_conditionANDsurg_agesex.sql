@@ -5,24 +5,6 @@ CREATE TABLE #Codesets (
 ;
 
 INSERT INTO #Codesets (codeset_id, concept_id)
-SELECT 28 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
-( 
-  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (73840,4035440,759880,4160051,36713099,36713103,759882,759879)
-UNION  select c.concept_id
-  from @vocabulary_database_schema.CONCEPT c
-  join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
-  and ca.ancestor_concept_id in (73840,4035440,759880,4160051,36713099,36713103,759882,759879)
-  and c.invalid_reason is null
-
-) I
-LEFT JOIN
-(
-  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (36687024,42539212,42534844,40479244,36687192,36687193,35615133,35615134,77631)
-
-) E ON I.concept_id = E.concept_id
-WHERE E.concept_id is null
-) C;
-INSERT INTO #Codesets (codeset_id, concept_id)
 SELECT 29 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
 ( 
   select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (2005853,2005943,4034665,45888310,2005656,4128362,2005962,2005944,2005945,37118674,37116646,40756803)
@@ -36,6 +18,24 @@ UNION  select c.concept_id
 LEFT JOIN
 (
   select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (2105940,4321248,2103700,2103714,4075211,4102746,4078083,4138884,2103758,40479209,40480032,40479976,44808903,44809090,35610630,40489969,40489899)
+
+) E ON I.concept_id = E.concept_id
+WHERE E.concept_id is null
+) C;
+INSERT INTO #Codesets (codeset_id, concept_id)
+SELECT 30 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
+( 
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (73840,4035440,759880,4160051,36713099,36713103,759882,759879,44825677)
+UNION  select c.concept_id
+  from @vocabulary_database_schema.CONCEPT c
+  join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
+  and ca.ancestor_concept_id in (73840,4035440,759880,4160051,36713099,36713103,759882,759879,44825677)
+  and c.invalid_reason is null
+
+) I
+LEFT JOIN
+(
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (36687024,42539212,42534844,40479244,36687192,36687193,35615133,35615134,77631)
 
 ) E ON I.concept_id = E.concept_id
 WHERE E.concept_id is null
@@ -128,7 +128,7 @@ FROM
 (
   SELECT co.* 
   FROM @cdm_database_schema.CONDITION_OCCURRENCE co
-  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 28))
+  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 30))
 ) C
 
 

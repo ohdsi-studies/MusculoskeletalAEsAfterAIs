@@ -4,7 +4,7 @@
 		"CriteriaList" : [
 			{
 				"ConditionOccurrence" : {
-					"CodesetId" : 21,
+					"CodesetId" : 22,
 					"ConditionTypeExclude" : false,
 					"Age" : {
 						"Value" : 55,
@@ -43,7 +43,7 @@
 	},
 	"ConceptSets" : [
 		{
-			"id" : 21,
+			"id" : 22,
 			"name" : "[MSK-AI] shoulder tendinopathy condition",
 			"expression" : {
 				"items" : [
@@ -147,23 +147,6 @@
 						},
 						"isExcluded" : true,
 						"includeDescendants" : false,
-						"includeMapped" : false
-					},
-					{
-						"concept" : {
-							"CONCEPT_ID" : 37108980,
-							"CONCEPT_NAME" : "Bilateral rotator cuff arthropathy of shoulder",
-							"STANDARD_CONCEPT" : "S",
-							"STANDARD_CONCEPT_CAPTION" : "Standard",
-							"INVALID_REASON" : "V",
-							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "16003871000119102",
-							"DOMAIN_ID" : "Condition",
-							"VOCABULARY_ID" : "SNOMED",
-							"CONCEPT_CLASS_ID" : "Clinical Finding"
-						},
-						"isExcluded" : false,
-						"includeDescendants" : true,
 						"includeMapped" : false
 					},
 					{
@@ -831,6 +814,108 @@
 					},
 					{
 						"concept" : {
+							"CONCEPT_ID" : 45601534,
+							"CONCEPT_NAME" : "Complete rotator cuff tear or rupture not specified as traumatic",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "M75.12",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD10CM",
+							"CONCEPT_CLASS_ID" : "5-char nonbill code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45533934,
+							"CONCEPT_NAME" : "Complete rotator cuff tear or rupture of left shoulder, not specified as traumatic",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "M75.122",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD10CM",
+							"CONCEPT_CLASS_ID" : "6-char billing code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45533933,
+							"CONCEPT_NAME" : "Complete rotator cuff tear or rupture of right shoulder, not specified as traumatic",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "M75.121",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD10CM",
+							"CONCEPT_CLASS_ID" : "6-char billing code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45591931,
+							"CONCEPT_NAME" : "Complete rotator cuff tear or rupture of unspecified shoulder, not specified as traumatic",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "M75.120",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD10CM",
+							"CONCEPT_CLASS_ID" : "6-char billing code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 44828064,
+							"CONCEPT_NAME" : "Complete rupture of rotator cuff",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "727.61",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD9CM",
+							"CONCEPT_CLASS_ID" : "5-dig billing code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 4212887,
+							"CONCEPT_NAME" : "Disorder of rotator cuff",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "414033006",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
 							"CONCEPT_ID" : 4001481,
 							"CONCEPT_NAME" : "Flexor pollicis longus tendon rupture",
 							"STANDARD_CONCEPT" : "S",
@@ -844,6 +929,23 @@
 						},
 						"isExcluded" : true,
 						"includeDescendants" : false,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45443681,
+							"CONCEPT_NAME" : "Full thickness rotator cuff tear",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "N211500",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "Read",
+							"CONCEPT_CLASS_ID" : "Read"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
 						"includeMapped" : false
 					},
 					{
@@ -899,6 +1001,108 @@
 					},
 					{
 						"concept" : {
+							"CONCEPT_ID" : 45582243,
+							"CONCEPT_NAME" : "Incomplete rotator cuff tear or rupture not specified as traumatic",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "M75.11",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD10CM",
+							"CONCEPT_CLASS_ID" : "5-char nonbill code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45572542,
+							"CONCEPT_NAME" : "Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "M75.112",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD10CM",
+							"CONCEPT_CLASS_ID" : "6-char billing code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45562827,
+							"CONCEPT_NAME" : "Incomplete rotator cuff tear or rupture of right shoulder, not specified as traumatic",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "M75.111",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD10CM",
+							"CONCEPT_CLASS_ID" : "6-char billing code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45606320,
+							"CONCEPT_NAME" : "Incomplete rotator cuff tear or rupture of unspecified shoulder, not specified as traumatic",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "M75.110",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD10CM",
+							"CONCEPT_CLASS_ID" : "6-char billing code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45460779,
+							"CONCEPT_NAME" : "Injury of muscle of rotator cuff of shoulder",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "SK12500",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "Read",
+							"CONCEPT_CLASS_ID" : "Read"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 1573031,
+							"CONCEPT_NAME" : "Injury of muscle(s) and tendon(s) of the rotator cuff of shoulder",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "S46.0",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD10CM",
+							"CONCEPT_CLASS_ID" : "4-char nonbill code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
 							"CONCEPT_ID" : 37110617,
 							"CONCEPT_NAME" : "Injury of tendon at shoulder level",
 							"STANDARD_CONCEPT" : "S",
@@ -916,19 +1120,19 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 42536800,
-							"CONCEPT_NAME" : "Laceration of tendon of rotator cuff",
-							"STANDARD_CONCEPT" : "S",
-							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"CONCEPT_ID" : 45443983,
+							"CONCEPT_NAME" : "Injury of tendon of the rotator cuff of shoulder",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
 							"INVALID_REASON" : "V",
 							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "735804004",
+							"CONCEPT_CODE" : "S5Q6.00",
 							"DOMAIN_ID" : "Condition",
-							"VOCABULARY_ID" : "SNOMED",
-							"CONCEPT_CLASS_ID" : "Clinical Finding"
+							"VOCABULARY_ID" : "Read",
+							"CONCEPT_CLASS_ID" : "Read"
 						},
-						"isExcluded" : true,
-						"includeDescendants" : false,
+						"isExcluded" : false,
+						"includeDescendants" : true,
 						"includeMapped" : false
 					},
 					{
@@ -1579,6 +1783,40 @@
 					},
 					{
 						"concept" : {
+							"CONCEPT_ID" : 44821152,
+							"CONCEPT_NAME" : "Partial tear of rotator cuff",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "726.13",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD9CM",
+							"CONCEPT_CLASS_ID" : "5-dig billing code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45437108,
+							"CONCEPT_NAME" : "Partial thickness rotator cuff tear",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "N211400",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "Read",
+							"CONCEPT_CLASS_ID" : "Read"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
 							"CONCEPT_ID" : 4002796,
 							"CONCEPT_NAME" : "Peroneus longus rupture",
 							"STANDARD_CONCEPT" : "S",
@@ -1592,6 +1830,210 @@
 						},
 						"isExcluded" : true,
 						"includeDescendants" : false,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 44835175,
+							"CONCEPT_NAME" : "Rotator cuff (capsule) sprain",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "840.4",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD9CM",
+							"CONCEPT_CLASS_ID" : "4-dig billing code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 37108979,
+							"CONCEPT_NAME" : "Rotator cuff arthropathy of left shoulder",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "16003831000119100",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 37108978,
+							"CONCEPT_NAME" : "Rotator cuff arthropathy of right shoulder",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "16003791000119106",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45513801,
+							"CONCEPT_NAME" : "Rotator cuff complete rupture",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "N226100",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "Read",
+							"CONCEPT_CLASS_ID" : "Read"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 4234123,
+							"CONCEPT_NAME" : "Rotator cuff impingement syndrome",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "359532006",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45480621,
+							"CONCEPT_NAME" : "Rotator cuff shoulder syndrome and allied disorders",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "N211.00",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "Read",
+							"CONCEPT_CLASS_ID" : "Read"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45500707,
+							"CONCEPT_NAME" : "Rotator cuff sprain",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "S504.00",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "Read",
+							"CONCEPT_CLASS_ID" : "Read"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45503757,
+							"CONCEPT_NAME" : "Rotator cuff syndrome NOS",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "N211z00",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "Read",
+							"CONCEPT_CLASS_ID" : "Read"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 44829220,
+							"CONCEPT_NAME" : "Rotator cuff syndrome of shoulder and allied disorders",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "726.1",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD9CM",
+							"CONCEPT_CLASS_ID" : "4-dig nonbill code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 45437107,
+							"CONCEPT_NAME" : "Rotator cuff syndrome, unspecified",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "N211000",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "Read",
+							"CONCEPT_CLASS_ID" : "Read"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 4217388,
+							"CONCEPT_NAME" : "Rotator cuff tear arthropathy",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "415352004",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 1571031,
+							"CONCEPT_NAME" : "Rotator cuff tear or rupture, not specified as traumatic",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "M75.1",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD10CM",
+							"CONCEPT_CLASS_ID" : "4-char nonbill code"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
 						"includeMapped" : false
 					},
 					{
@@ -2276,6 +2718,23 @@
 					},
 					{
 						"concept" : {
+							"CONCEPT_ID" : 45528211,
+							"CONCEPT_NAME" : "SYNDROME ROTATOR CUFF",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "7171RC",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "OXMIS",
+							"CONCEPT_CLASS_ID" : "OXMIS"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
 							"CONCEPT_ID" : 37207824,
 							"CONCEPT_NAME" : "Spontaneous rupture of extensor tendon of left hand",
 							"STANDARD_CONCEPT" : "S",
@@ -2340,6 +2799,57 @@
 						},
 						"isExcluded" : true,
 						"includeDescendants" : false,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 760795,
+							"CONCEPT_NAME" : "Sprain of left rotator cuff capsule",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "11819131000119105",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 765368,
+							"CONCEPT_NAME" : "Sprain of right rotator cuff capsule",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "11819091000119108",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 4193907,
+							"CONCEPT_NAME" : "Structure of rotator cuff including muscles and tendons",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "7885001",
+							"DOMAIN_ID" : "Spec Anatomic Site",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Body Structure"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
 						"includeMapped" : false
 					},
 					{

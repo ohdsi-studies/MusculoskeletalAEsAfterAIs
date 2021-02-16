@@ -4,7 +4,7 @@
 		"CriteriaList" : [
 			{
 				"ConditionOccurrence" : {
-					"CodesetId" : 28,
+					"CodesetId" : 29,
 					"ConditionTypeExclude" : false,
 					"Age" : {
 						"Value" : 55,
@@ -43,7 +43,7 @@
 	},
 	"ConceptSets" : [
 		{
-			"id" : 28,
+			"id" : 29,
 			"name" : "[MSK-AI] hand oa condition_updated",
 			"expression" : {
 				"items" : [
@@ -212,6 +212,23 @@
 							"DOMAIN_ID" : "Condition",
 							"VOCABULARY_ID" : "SNOMED",
 							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 44825680,
+							"CONCEPT_NAME" : "Osteoarthrosis, localized, not specified whether primary or secondary, hand",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "715.34",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD9CM",
+							"CONCEPT_CLASS_ID" : "5-dig billing code"
 						},
 						"isExcluded" : false,
 						"includeDescendants" : true,

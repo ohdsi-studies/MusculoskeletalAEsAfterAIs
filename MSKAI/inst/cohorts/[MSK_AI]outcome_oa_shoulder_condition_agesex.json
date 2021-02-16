@@ -4,7 +4,7 @@
 		"CriteriaList" : [
 			{
 				"ConditionOccurrence" : {
-					"CodesetId" : 26,
+					"CodesetId" : 27,
 					"ConditionTypeExclude" : false,
 					"Age" : {
 						"Value" : 55,
@@ -43,7 +43,7 @@
 	},
 	"ConceptSets" : [
 		{
-			"id" : 26,
+			"id" : 27,
 			"name" : "[MSK-AI] shoulder oa_updated",
 			"expression" : {
 				"items" : [
@@ -331,6 +331,23 @@
 							"DOMAIN_ID" : "Condition",
 							"VOCABULARY_ID" : "SNOMED",
 							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 44825677,
+							"CONCEPT_NAME" : "Osteoarthrosis, localized, primary, shoulder region",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "715.11",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD9CM",
+							"CONCEPT_CLASS_ID" : "5-dig billing code"
 						},
 						"isExcluded" : false,
 						"includeDescendants" : true,

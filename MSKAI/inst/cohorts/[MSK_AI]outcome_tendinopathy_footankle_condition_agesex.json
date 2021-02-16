@@ -4,7 +4,7 @@
 		"CriteriaList" : [
 			{
 				"ConditionOccurrence" : {
-					"CodesetId" : 29,
+					"CodesetId" : 30,
 					"ConditionTypeExclude" : false,
 					"Age" : {
 						"Value" : 55,
@@ -43,10 +43,27 @@
 	},
 	"ConceptSets" : [
 		{
-			"id" : 29,
+			"id" : 30,
 			"name" : "[MSK-AI] foot and ankle tendinopathy condition - OPTIMIZED",
 			"expression" : {
 				"items" : [
+					{
+						"concept" : {
+							"CONCEPT_ID" : 439524,
+							"CONCEPT_NAME" : "Achilles bursitis",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "221695002",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
 					{
 						"concept" : {
 							"CONCEPT_ID" : 77963,
@@ -73,6 +90,23 @@
 							"INVALID_REASON" : "V",
 							"INVALID_REASON_CAPTION" : "Valid",
 							"CONCEPT_CODE" : "202917000",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 81942,
+							"CONCEPT_NAME" : "Enthesopathy of ankle AND/OR tarsus",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "21409006",
 							"DOMAIN_ID" : "Condition",
 							"VOCABULARY_ID" : "SNOMED",
 							"CONCEPT_CLASS_ID" : "Clinical Finding"

@@ -4,7 +4,7 @@
 		"CriteriaList" : [
 			{
 				"ConditionOccurrence" : {
-					"CodesetId" : 32,
+					"CodesetId" : 33,
 					"ConditionTypeExclude" : false,
 					"Age" : {
 						"Value" : 55,
@@ -43,7 +43,7 @@
 	},
 	"ConceptSets" : [
 		{
-			"id" : 32,
+			"id" : 33,
 			"name" : "[MSK-AI] hip osteoarthritis_updated",
 			"expression" : {
 				"items" : [
@@ -725,6 +725,23 @@
 						},
 						"isExcluded" : true,
 						"includeDescendants" : false,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 434123,
+							"CONCEPT_NAME" : "Primary localized osteoarthrosis of pelvic region",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "77994009",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
 						"includeMapped" : false
 					},
 					{

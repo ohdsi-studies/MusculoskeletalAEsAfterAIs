@@ -5,13 +5,13 @@ CREATE TABLE #Codesets (
 ;
 
 INSERT INTO #Codesets (codeset_id, concept_id)
-SELECT 34 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
+SELECT 37 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
 ( 
-  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (35208766,45437062,45453633,45490472,45527231,45450329,80180,45443649,45470615,1570329,35208771,35208769,35208770,1570330,45577164,45586889,45577163)
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (35208766,45437062,45453633,45490472,45527231,45450329,80180,45443649,45470615,1570329,35208771,44825680,35208769,35208770,434123,1570330,45577164,45586889,45577163)
 UNION  select c.concept_id
   from @vocabulary_database_schema.CONCEPT c
   join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
-  and ca.ancestor_concept_id in (35208766,45437062,45453633,45490472,45527231,45450329,80180,45443649,45470615,1570329,35208771,35208769,35208770,1570330,45577164,45586889,45577163)
+  and ca.ancestor_concept_id in (35208766,45437062,45453633,45490472,45527231,45450329,80180,45443649,45470615,1570329,35208771,44825680,35208769,35208770,434123,1570330,45577164,45586889,45577163)
   and c.invalid_reason is null
 
 ) I
@@ -23,13 +23,13 @@ LEFT JOIN
 WHERE E.concept_id is null
 ) C;
 INSERT INTO #Codesets (codeset_id, concept_id)
-SELECT 35 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
+SELECT 38 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
 ( 
-  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (2102901,2102912,2102900,2005841,2005852,2005839,2005859,2005853,2005840,40481840,2005926,2005943,2005930,2005931,2005927,2005928,2005654,4028987,4085220,4329662,2005659,2005660,2005661,2721113,2617368,42739911,42739910,2005674,2005656,2105941,2005655,2005658,46271492,4010250,4165243,45888005,4335030,4031174,4144525,4337874,4335029,2005962,2005944,2005945,40756803,2005904,2005929)
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (4077286,2102901,2102912,2102900,2005841,2005852,2005839,2005859,2005853,2005840,40481840,2005926,2005943,4228671,2005930,2005931,4051417,4028125,4227277,4204385,2005927,2005928,2104232,2103716,2104179,2005654,4028987,4085220,2005659,2005660,2005661,2721113,2617368,42739911,42739910,2005674,2005656,2105941,2005655,2005658,46271492,4010250,4165243,45888005,4311039,4094382,4137457,4284994,4234417,4335030,4031174,4144525,4337874,4335029,2005962,4134857,2005890,2005944,2005945,42872791,4205526,40756803,37204190,35610632,2005904,44798420,4172500,2005929,42872786)
 UNION  select c.concept_id
   from @vocabulary_database_schema.CONCEPT c
   join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
-  and ca.ancestor_concept_id in (2102901,2102912,2102900,2005841,2005852,2005839,2005859,2005853,2005840,40481840,2005926,2005943,2005930,2005931,2005927,2005928,2005654,4028987,4085220,4329662,2005659,2005660,2005661,2721113,2617368,42739911,42739910,2005674,2005656,2105941,2005655,2005658,46271492,4010250,4165243,45888005,4335030,4031174,4144525,4337874,4335029,2005962,2005944,2005945,40756803,2005904,2005929)
+  and ca.ancestor_concept_id in (4077286,2102901,2102912,2102900,2005841,2005852,2005839,2005859,2005853,2005840,40481840,2005926,2005943,4228671,2005930,2005931,4051417,4028125,4227277,4204385,2005927,2005928,2104232,2103716,2104179,2005654,4028987,4085220,2005659,2005660,2005661,2721113,2617368,42739911,42739910,2005674,2005656,2105941,2005655,2005658,46271492,4010250,4165243,45888005,4311039,4094382,4137457,4284994,4234417,4335030,4031174,4144525,4337874,4335029,2005962,4134857,2005890,2005944,2005945,42872791,4205526,40756803,37204190,35610632,2005904,44798420,4172500,2005929,42872786)
   and c.invalid_reason is null
 
 ) I
@@ -56,7 +56,7 @@ from
 (
   select po.* 
   FROM @cdm_database_schema.PROCEDURE_OCCURRENCE po
-JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 35))
+JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 38))
 ) C
 JOIN @cdm_database_schema.PERSON P on C.person_id = P.person_id
 WHERE YEAR(C.procedure_date) - P.year_of_birth >= 55
@@ -79,7 +79,7 @@ from
 (
   select po.* 
   FROM @cdm_database_schema.PROCEDURE_OCCURRENCE po
-JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 35))
+JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 38))
 ) C
 JOIN @cdm_database_schema.PERSON P on C.person_id = P.person_id
 WHERE YEAR(C.procedure_date) - P.year_of_birth >= 55
@@ -102,7 +102,7 @@ from
 (
   select po.* 
   FROM @cdm_database_schema.PROCEDURE_OCCURRENCE po
-JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 35))
+JOIN #Codesets codesets on ((po.procedure_concept_id = codesets.concept_id and codesets.codeset_id = 38))
 ) C
 JOIN @cdm_database_schema.PERSON P on C.person_id = P.person_id
 WHERE YEAR(C.procedure_date) - P.year_of_birth >= 55
@@ -122,7 +122,7 @@ FROM
 (
   SELECT co.* 
   FROM @cdm_database_schema.CONDITION_OCCURRENCE co
-  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 34))
+  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 37))
 ) C
 
 
@@ -155,32 +155,8 @@ FROM
   select pe.event_id, pe.person_id, pe.start_date, pe.end_date, pe.op_start_date, pe.op_end_date, row_number() over (partition by pe.person_id order by pe.start_date ASC) as ordinal, cast(pe.visit_occurrence_id as bigint) as visit_occurrence_id
   FROM primary_events pe
   
-JOIN (
--- Begin Criteria Group
-select 0 as index_id, person_id, event_id
-FROM
-(
-  select E.person_id, E.event_id 
-  FROM primary_events E
-  INNER JOIN
-  (
-    -- Begin Demographic Criteria
-SELECT 0 as index_id, e.person_id, e.event_id
-FROM primary_events E
-JOIN @cdm_database_schema.PERSON P ON P.PERSON_ID = E.PERSON_ID
-
-GROUP BY e.person_id, e.event_id
--- End Demographic Criteria
-
-  ) CQ on E.person_id = CQ.person_id and E.event_id = CQ.event_id
-  GROUP BY E.person_id, E.event_id
-  HAVING COUNT(index_id) = 1
-) G
--- End Criteria Group
-) AC on AC.person_id = pe.person_id and AC.event_id = pe.event_id
-
 ) QE
-WHERE QE.ordinal = 1
+
 ;
 
 --- Inclusion Rule Inserts

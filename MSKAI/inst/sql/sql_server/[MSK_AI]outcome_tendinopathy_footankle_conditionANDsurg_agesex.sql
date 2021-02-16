@@ -5,18 +5,6 @@ CREATE TABLE #Codesets (
 ;
 
 INSERT INTO #Codesets (codeset_id, concept_id)
-SELECT 31 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
-( 
-  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (77963,4001475,4000980,45763856,45763857,4180849,37017560,4001477,36684347,4137530,36685042,761381,761382,433572,443111,4000979,4001476)
-UNION  select c.concept_id
-  from @vocabulary_database_schema.CONCEPT c
-  join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
-  and ca.ancestor_concept_id in (77963,4001475,4000980,45763856,45763857,4180849,37017560,4001477,36684347,4137530,36685042,761381,761382,433572,443111,4000979,4001476)
-  and c.invalid_reason is null
-
-) I
-) C;
-INSERT INTO #Codesets (codeset_id, concept_id)
 SELECT 32 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
 ( 
   select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (2005672,2005673,4346304,4114321,4101039,2006202,2006196,2006180,2006204,2006122,4275569,4072039,45890228,44793145,2005743)
@@ -33,6 +21,18 @@ LEFT JOIN
 
 ) E ON I.concept_id = E.concept_id
 WHERE E.concept_id is null
+) C;
+INSERT INTO #Codesets (codeset_id, concept_id)
+SELECT 33 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
+( 
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (439524,77963,4001475,81942,4000980,45763856,45763857,4180849,37017560,4001477,36684347,4137530,36685042,761381,761382,433572,443111,4000979,4001476)
+UNION  select c.concept_id
+  from @vocabulary_database_schema.CONCEPT c
+  join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
+  and ca.ancestor_concept_id in (439524,77963,4001475,81942,4000980,45763856,45763857,4180849,37017560,4001477,36684347,4137530,36685042,761381,761382,433572,443111,4000979,4001476)
+  and c.invalid_reason is null
+
+) I
 ) C;
 
 
@@ -122,7 +122,7 @@ FROM
 (
   SELECT co.* 
   FROM @cdm_database_schema.CONDITION_OCCURRENCE co
-  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 31))
+  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 33))
 ) C
 
 

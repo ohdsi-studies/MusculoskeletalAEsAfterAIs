@@ -4,7 +4,7 @@
 		"CriteriaList" : [
 			{
 				"ConditionOccurrence" : {
-					"CodesetId" : 30,
+					"CodesetId" : 31,
 					"ConditionTypeExclude" : false,
 					"Age" : {
 						"Value" : 55,
@@ -43,7 +43,7 @@
 	},
 	"ConceptSets" : [
 		{
-			"id" : 30,
+			"id" : 31,
 			"name" : "[MSK-AI] knee oa_updated",
 			"expression" : {
 				"items" : [
@@ -280,6 +280,23 @@
 							"DOMAIN_ID" : "Condition",
 							"VOCABULARY_ID" : "SNOMED",
 							"CONCEPT_CLASS_ID" : "Clinical Finding"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 44836174,
+							"CONCEPT_NAME" : "Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",
+							"STANDARD_CONCEPT" : "N",
+							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "715.36",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "ICD9CM",
+							"CONCEPT_CLASS_ID" : "5-dig billing code"
 						},
 						"isExcluded" : false,
 						"includeDescendants" : true,

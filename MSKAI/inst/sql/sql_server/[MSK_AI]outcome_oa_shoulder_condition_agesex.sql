@@ -5,13 +5,13 @@ CREATE TABLE #Codesets (
 ;
 
 INSERT INTO #Codesets (codeset_id, concept_id)
-SELECT 26 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
+SELECT 27 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
 ( 
-  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (73840,4035440,759880,4160051,36713099,36713103,759882,759879)
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (73840,4035440,759880,4160051,36713099,36713103,759882,759879,44825677)
 UNION  select c.concept_id
   from @vocabulary_database_schema.CONCEPT c
   join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
-  and ca.ancestor_concept_id in (73840,4035440,759880,4160051,36713099,36713103,759882,759879)
+  and ca.ancestor_concept_id in (73840,4035440,759880,4160051,36713099,36713103,759882,759879,44825677)
   and c.invalid_reason is null
 
 ) I
@@ -43,7 +43,7 @@ FROM
 (
   SELECT co.* 
   FROM @cdm_database_schema.CONDITION_OCCURRENCE co
-  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 26))
+  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 27))
 ) C
 JOIN @cdm_database_schema.PERSON P on C.person_id = P.person_id
 WHERE YEAR(C.condition_start_date) - P.year_of_birth >= 55
