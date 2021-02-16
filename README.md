@@ -1,4 +1,5 @@
-# A Cohort Diagnostics package to establish the feasibility of investigating musculoskeletal adverse events following hormonal treatment for breast cancer
+MSKAI- Musculoskeletal adverse events following hormonal treatment for breast cancer: Cohort Diagnostics to establish feasibility
+========================================================================================================================================================
 
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
@@ -8,12 +9,15 @@
 - Study lead: **Jenny Lane**
 - Study lead forums tag: **jenniferlane**
 - Study start date: **1st December 2020**
-- Study end date: **1st March 2021**
+- Study end date: **1st April 2021**
 - Protocol: **[EU PAS 38362](http://www.encepp.eu/encepp/viewResource.htm?id=38363)**
 - Publications: ** **
 - Results explorer: **[Data.OHDSI](https://data.ohdsi.org/CohortDiagnosticsMSKAI/)**
 
+A study to evaluate the risk of adverse musculoskeletal events in post-menopausal women taking Aromatase Inhibitors compared to Tamoxifen to treat breast cancer.
 If you are undertaking cohort diagnostics for the first time, you may need set up your environment using the instructions given in the [HADES installation guide](https://ohdsi.github.io/Hades/rSetup.html). To run the study you will need to load the package, enter the RProj, and build it. Once built, you will need to open the extras/CodeToRun.R file and enter your database connection details, where you want to save your results locally, and so on (see instructions in the file). In this same file you can then run the study, view the results locally in a shiny application, and share your results.
+
+# Requirements
 
 Please note prior to running (and as detailed in the file Extas/CodetoRun.R), you may also need to install packages in order for packages to run including. 
 
