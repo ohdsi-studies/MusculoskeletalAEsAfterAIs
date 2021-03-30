@@ -1,6 +1,6 @@
-MSKAI- Musculoskeletal adverse events following hormonal treatment for breast cancer: 
-Cohort Diagnostics & Final Population Level Estimation Package
+MSKAI- Musculoskeletal adverse events following hormonal treatment for breast cancer:
 ========================================================================================================================================================
+# Cohort Diagnostics & Final Population Level Estimation Package
 
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
@@ -41,10 +41,11 @@ From github:
 *Note, we suggest using the branch of cohort diagnostics from the edward-burn account rather than the OHDSI one so as to ensure consistency in results set (the OHDSI cohort diagnostics package continues to be developed - the version on Ed´s github is just a recent fork from the main OHDSI repo).*   
 
 # PLE package
-
+This package should run through the regeneration of the appropriate dependencies in using the `renv.lock` file. To install these dependencies, run
+`renv::restore` after uploading the package. The file given here requires `R4.0` minimum- contact us if you require a `renv.lock` file that runs with `R3.5.0` or above. You can execute the study using the `CodeToRun` file in the package. 
 
 # Sharing Results
-Please keep results blinded. 
+Please keep results blinded prior to sending. 
 We recommend centres review the results in their personal shiny app prior to sharing within OHDSI, and then invite centres to share the results with us via the SFTP server. To share these via the OHDSI SFTP you will need a key file which you will need to be sent separately. To get this please contact jennifer.lane@ndorms.ox.ac.uk.
 
 We look forward to working with you!
