@@ -16,7 +16,7 @@ MSKAI- Musculoskeletal adverse events following hormonal treatment for breast ca
 - Cohort Diagnostics explorer: **[ShinyApp](https://jenniferlane.shinyapps.io/CohortDiagnosticsMSKAI_FinalDesign/)**
 - PLE Results explorer: **[EvidenceExplorer](https://jenniferlane.shinyapps.io/EvidenceExplorerMSKAI/)**
 
-A study to evaluate the risk of adverse musculoskeletal events in post-menopausal women taking Aromatase Inhibitors compared to Tamoxifen to treat breast cancer.
+*A study to evaluate the risk of adverse musculoskeletal events in post-menopausal women taking Aromatase Inhibitors compared to Tamoxifen to treat breast cancer.*
 
 # Cohort Diagnostics
 If you are undertaking cohort diagnostics for the first time, you may need set up your environment using the instructions given in the [HADES installation guide](https://ohdsi.github.io/Hades/rSetup.html). To run the study you will need to load the package, enter the RProj, and build it. Once built, you will need to open the extras/CodeToRun.R file and enter your database connection details, where you want to save your results locally, and so on (see instructions in the file). In this same file you can then run the study, view the results locally in a shiny application, and share your results.
@@ -41,6 +41,8 @@ From github:
 *Note, we suggest using the branch of cohort diagnostics from the edward-burn account rather than the OHDSI one so as to ensure consistency in results set (the OHDSI cohort diagnostics package continues to be developed - the version on Ed´s github is just a recent fork from the main OHDSI repo).*   
 
 # PLE package
+
+## Requirements
 This package should run through the regeneration of the appropriate dependencies in using the `renv.lock` file. To install these dependencies, run
 `renv::restore` after uploading the package. The file given here requires `R4.0` minimum- contact us if you require a `renv.lock` file that runs with `R3.5.0` or above. You can execute the study using the `CodeToRun` file in the package. 
 
