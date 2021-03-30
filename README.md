@@ -20,7 +20,7 @@ A study to evaluate the risk of adverse musculoskeletal events in post-menopausa
 # Cohort Diagnostics
 If you are undertaking cohort diagnostics for the first time, you may need set up your environment using the instructions given in the [HADES installation guide](https://ohdsi.github.io/Hades/rSetup.html). To run the study you will need to load the package, enter the RProj, and build it. Once built, you will need to open the extras/CodeToRun.R file and enter your database connection details, where you want to save your results locally, and so on (see instructions in the file). In this same file you can then run the study, view the results locally in a shiny application, and share your results.
 
-# Requirements
+## Requirements
 Please note prior to running (and as detailed in the file Extas/CodetoRun.R), you may also need to install packages in order for packages to run including. 
 
 From CRAN:  
@@ -38,6 +38,10 @@ From github:
 - OHDSI/OhdsiSharing@v0.2.2
 - edward-burn/CohortDiagnostics; branch = DiagAi  
 *Note, we suggest using the branch of cohort diagnostics from the edward-burn account rather than the OHDSI one so as to ensure consistency in results set (the OHDSI cohort diagnostics package continues to be developed - the version on Ed´s github is just a recent fork from the main OHDSI repo).*   
+
+# PLE package
+
+# Sharing Results
 
 We recommend centres review the results in their personal shiny app prior to sharing within OHDSI, and then invite centres to share the results with us via the SFTP server. To share these via the OHDSI SFTP you will need a key file which you will need to be sent separately. To get this please contact jennifer.lane@ndorms.ox.ac.uk.
 
