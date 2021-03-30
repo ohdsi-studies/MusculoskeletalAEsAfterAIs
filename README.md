@@ -4,7 +4,7 @@ MSKAI- Musculoskeletal adverse events following hormonal treatment for breast ca
 
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
-- Analytics use case(s): **Characterization**
+- Analytics use case(s): **Characterization & Population Level Estimation**
 - Study type: **Clinical Application**
 - Tags: **OHDSI**
 - Study lead: **Jenny Lane**
