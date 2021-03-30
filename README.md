@@ -1,4 +1,5 @@
-MSKAI- Musculoskeletal adverse events following hormonal treatment for breast cancer: Cohort Diagnostics & Final Population Level Estimation Package
+MSKAI- Musculoskeletal adverse events following hormonal treatment for breast cancer: 
+Cohort Diagnostics & Final Population Level Estimation Package
 ========================================================================================================================================================
 
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
@@ -41,8 +42,9 @@ From github:
 
 # PLE package
 
-# Sharing Results
 
+# Sharing Results
+Please keep results blinded. 
 We recommend centres review the results in their personal shiny app prior to sharing within OHDSI, and then invite centres to share the results with us via the SFTP server. To share these via the OHDSI SFTP you will need a key file which you will need to be sent separately. To get this please contact jennifer.lane@ndorms.ox.ac.uk.
 
 We look forward to working with you!
