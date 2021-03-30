@@ -44,7 +44,7 @@ From github:
 
 ## Requirements
 This package should run through the regeneration of the appropriate dependencies in using the `renv.lock` file. To install these dependencies, run
-`renv::restore` after uploading the package. The file given here requires `R4.0` minimum- contact us if you require a `renv.lock` file that runs with `R3.5.0` or above. You can execute the study using the `CodeToRun` file in the package. 
+`renv::restore` after opening the project. The file given here requires `R4.0` minimum- contact us if you require a `renv.lock` file that runs with `R3.5.0` or above. You can execute the study using the `CodeToRun` file in the package. 
 
 # Sharing Results
 The output is contained in a .ZIP file within the `Output`folder, in the `Export` directory.
