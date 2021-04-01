@@ -10,7 +10,7 @@ MSKAI- Musculoskeletal adverse events following hormonal treatment for breast ca
 - Study lead: **Jenny Lane**
 - Study lead forums tag: **jenniferlane** 
 - Study start date: **1st December 2020**
-- Study end date: **1st April 2021**
+- Study end date: **1st May 2021**
 - Protocol: **[EU PAS 38362](http://www.encepp.eu/encepp/viewResource.htm?id=38363)**
 - Publications: ** **
 - Cohort Diagnostics explorer: **[ShinyApp](https://jenniferlane.shinyapps.io/CohortDiagnosticsMSKAI_FinalDesign/)**
