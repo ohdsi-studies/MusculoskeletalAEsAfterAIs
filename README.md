@@ -43,10 +43,10 @@ From github:
 # PLE package
 
 ## Requirements
-This package should run through the regeneration of the appropriate dependencies in using the `renv.lock` file. To install these dependencies, run
+This package should run through the regeneration of the appropriate dependencies by using the `renv.lock` file. To install these dependencies, run
 `renv::restore` after opening the project. The file given here requires `R4.0` minimum- contact us if you require a `renv.lock` file that runs with `R3.5.0` or above. You can execute the study using the `CodeToRun` file in the package. 
 
-# Sharing Results
+## Sharing Results
 The output is contained in a .ZIP file within the `Output`folder, in the `Export` directory.
 We recommend centres review the blinded results in their personal shiny app prior to sharing within OHDSI. We then invite centres to share the results with us via the SFTP server. To share these via the OHDSI SFTP you will need a key file which you will need to be sent separately. To get this please contact jennifer.lane@ndorms.ox.ac.uk.
 
