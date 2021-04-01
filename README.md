@@ -24,7 +24,7 @@ If you are undertaking cohort diagnostics for the first time, you may need set u
 ## Requirements
 Please note prior to running (and as detailed in the file Extas/CodetoRun.R), you may also need to install packages in order for packages to run including. 
 
-From CRAN:  
+`From CRAN:  
 - devtools
 - dplyr
 - ggplot2
@@ -32,12 +32,11 @@ From CRAN:
 - DatabaseConnector
 - parallel
 - rJava  
-
 From github:  
 - OHDSI/FeatureExtraction@v3.1.0
 - OHDSI/Andromeda@v0.4.0
 - OHDSI/OhdsiSharing@v0.2.2
-- edward-burn/CohortDiagnostics; branch = DiagAi  
+- edward-burn/CohortDiagnostics; branch = DiagAi` 
 *Note, we suggest using the branch of cohort diagnostics from the edward-burn account rather than the OHDSI one so as to ensure consistency in results set (the OHDSI cohort diagnostics package continues to be developed - the version on Ed´s github is just a recent fork from the main OHDSI repo).*   
 
 # PLE package
