@@ -1,0 +1,389 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36713091,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "303041000119104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bilateral osteoarthritis of first carpometacarpal joint",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 762329,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "323251000119103",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoarthritis of first carpometacarpal joint of left hand",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 762330,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "323261000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoarthritis of first carpometacarpal joint of right hand",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4242103,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "37895003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoarthrosis of the carpometacarpal joint of the thumb",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[MSK_AI]outcome_oa_thumb",
+      "id": 33
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4169228,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "48909003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthrodesis of carpometacarpal joint of thumb",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005926,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.7",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty and repair of hand, fingers, and wrist",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005930,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.74",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty of carpocarpal or carpometacarpal joint with implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005931,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.75",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty of carpocarpal or carpometacarpal joint without implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4034398,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239477000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of the carpometacarpal joint of the thumb",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005659,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.24",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, hand and finger",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4182095,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "429518005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of steroid into carpometacarpal joint of thumb",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005962,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.92",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Injection of therapeutic substance into joint or ligament",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[MSK-AI] thumb oa surgery (arthrodesis,arthroscopy, arthroplasty, injection)_updated",
+      "id": 34
+    }
+  ],
+  "EndStrategy": null,
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "Title": null,
+  "AdditionalCriteria": null,
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 33,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
+        "CodesetId": 34,
+        "ProcedureSourceConcept": null,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": [{
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }],
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 55
+        }
+      }},
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 33,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
+        "CodesetId": null,
+        "ProcedureSourceConcept": 34,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": [{
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }],
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 55
+        }
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36687024,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15705241000119106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Bilateral chondrocalcinosis of shoulders",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42539212,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1074071000119102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondrocalcinosis of left shoulder",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42534844,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1074061000119108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondrocalcinosis of right shoulder",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 40479244,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "442928001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondrocalcinosis of shoulder region",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36687192,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16039191000119102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondromalacia of left shoulder",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36687193,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16039391000119100",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondromalacia of right shoulder",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35615133,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16046631000119100",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hydroxyapatite deposition disease of left shoulder",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35615134,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16046951000119104",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hydroxyapatite deposition disease of right shoulder",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 73840,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "201831003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Localized, primary osteoarthritis of the shoulder region",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 77631,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "201849003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Localized, secondary osteoarthritis of the shoulder region",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4035440,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "239865003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of acromioclavicular joint",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 759880,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1074421000119105",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of bilateral glenohumeral joints",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4160051,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "373623009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of glenohumeral joint",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36713099,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "318671000119108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of joint of left shoulder region",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36713103,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "318721000119100",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of joint of right shoulder region",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 759882,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1074441000119104",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of left glenohumeral joint",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 759879,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1074381000119101",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of right glenohumeral joint",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44825677,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "715.11",
+          "VOCABULARY_ID": "ICD9CM",
+          "CONCEPT_NAME": "Osteoarthrosis, localized, primary, shoulder region",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "5-dig billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }
+    ]},
+    "name": "[MSK-AI] shoulder oa_updated",
+    "id": 27
+  }],
+  "EndStrategy": null,
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "Title": null,
+  "AdditionalCriteria": {
+    "CriteriaList": [],
+    "Type": "ALL",
+    "DemographicCriteriaList": [],
+    "Groups": [],
+    "Count": null
+  },
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ConditionOccurrence": {
+      "OccurrenceEndDate": null,
+      "CorrelatedCriteria": null,
+      "ConditionTypeExclude": false,
+      "CodesetId": 27,
+      "ProviderSpecialty": null,
+      "Gender": [{
+        "INVALID_REASON_CAPTION": "Unknown",
+        "CONCEPT_ID": 8532,
+        "STANDARD_CONCEPT": null,
+        "CONCEPT_CODE": "F",
+        "VOCABULARY_ID": "Gender",
+        "CONCEPT_NAME": "FEMALE",
+        "DOMAIN_ID": "Gender",
+        "STANDARD_CONCEPT_CAPTION": "Unknown",
+        "CONCEPT_CLASS_ID": null,
+        "INVALID_REASON": null
+      }],
+      "VisitType": null,
+      "First": null,
+      "OccurrenceStartDate": null,
+      "ConditionType": null,
+      "ConditionSourceConcept": null,
+      "StopReason": null,
+      "Age": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": 55
+      }
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

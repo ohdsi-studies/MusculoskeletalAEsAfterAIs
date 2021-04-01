@@ -1,0 +1,314 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45495534,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "7056011",
+          "VOCABULARY_ID": "Read",
+          "CONCEPT_NAME": "Carpal tunnel decompression",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Read",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45495533,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "7056000",
+          "VOCABULARY_ID": "Read",
+          "CONCEPT_NAME": "Carpal tunnel release",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Read",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4166080,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "47534009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Decompression of median nerve",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4066326,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "171850009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Decompression of median nerve at elbow",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4066890,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "171841007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Endoscopic carpal tunnel release",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4204075,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "53006003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Exploration of carpal tunnel",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4082236,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "182641004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Injection of carpal tunnel",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4041195,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16560008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Neurolysis of carpal tunnel",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4235010,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "359901001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Neuroplasty and transposition of median nerve at carpal tunnel",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4014640,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10431008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Neuroplasty of median nerve at carpal tunnel",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2000217,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "04.43",
+          "VOCABULARY_ID": "ICD9Proc",
+          "CONCEPT_NAME": "Release of carpal tunnel",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "4-dig billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4234291,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "359904009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Transposition of median nerve at carpal tunnel",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21494055,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "80880-8",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "US Guidance for injection of Carpal tunnel",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Observation",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }
+    ]},
+    "name": "[MSK-AI] CTS procedure_updated",
+    "id": 9
+  }],
+  "EndStrategy": null,
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "Title": null,
+  "AdditionalCriteria": null,
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": null,
+        "CodesetId": 9,
+        "ProcedureSourceConcept": null,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": [{
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }],
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 55
+        }
+      }},
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": null,
+        "CodesetId": null,
+        "ProcedureSourceConcept": 9,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": [{
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }],
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 55
+        }
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

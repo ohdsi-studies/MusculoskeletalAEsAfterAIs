@@ -1,0 +1,968 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35208767,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.2",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Bilateral osteoarthritis resulting from hip dysplasia",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "4-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35208766,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.0",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Bilateral primary osteoarthritis of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "4-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36687025,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15705361000119101",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondrocalcinosis of bilateral hips",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 40479662,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "443002008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondrocalcinosis of hip joint",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37016155,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "122691000119106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondrocalcinosis of hip joint due to disorder of calcium metabolism",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42534850,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1074151000119105",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondrocalcinosis of left hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42534849,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1074141000119108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondrocalcinosis of right hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42535174,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16039431000119105",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondromalacia of left hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42535175,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16039631000119108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chondromalacia of right hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 77953,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "428027008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Crystal arthropathy of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_ID": 40400724,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "201892008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hip osteoarthritis NOS",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "U"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45437062,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "N05z511",
+          "VOCABULARY_ID": "Read",
+          "CONCEPT_NAME": "Hip osteoarthritis NOS",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Read",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4009091,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10196009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Juvenile osteochondrosis of acetabulum",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_ID": 4149045,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "267891004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of the pelvic region and thigh",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "U"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_ID": 40400697,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "201868000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of the pelvic region and thigh",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "U"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45453633,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "N053500",
+          "VOCABULARY_ID": "Read",
+          "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of the pelvic region and thigh",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Read",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45490472,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "N051500",
+          "VOCABULARY_ID": "Read",
+          "CONCEPT_NAME": "Localised, primary osteoarthritis of the pelvic region and thigh",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Read",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45443644,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "N052500",
+          "VOCABULARY_ID": "Read",
+          "CONCEPT_NAME": "Localised, secondary osteoarthritis of the pelvic region and thigh",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Read",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4115379,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "201835007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Localized, primary osteoarthritis of the pelvic region and thigh",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45527231,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "7130DA",
+          "VOCABULARY_ID": "OXMIS",
+          "CONCEPT_NAME": "OSTEOARTHRITIS HIP",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "OXMIS",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_ID": 4114591,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "201880008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified, of the pelvic region and thigh",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "U"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45450329,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "N054500",
+          "VOCABULARY_ID": "Read",
+          "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified, of the pelvic region and thigh",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Read",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_ID": 4116588,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "201905004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis NOS, of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "U"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_ID": 40440091,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "239857001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis NOS, of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "U"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45443649,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "N05zJ00",
+          "VOCABULARY_ID": "Read",
+          "CONCEPT_NAME": "Osteoarthritis NOS, of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Read",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45470615,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "N05z500",
+          "VOCABULARY_ID": "Read",
+          "CONCEPT_NAME": "Osteoarthritis NOS, pelvic region/thigh",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Read",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_ID": 4149048,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "267897000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis NOS, pelvic region/thigh",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "U"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36684455,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "112991000119105",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of bilateral hip joints",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4079749,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "239872002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 1570329,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Osteoarthritis of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "3-char nonbill code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_ID": 40320325,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "156492009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "U"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37395586,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "303001000119101",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of hip co-occurrent and due to dysplasia",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37311900,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "789000004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of hip due to and following trauma",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46273178,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "712504007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of hip due to dysplasia",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35208771,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.9",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Osteoarthritis of hip, unspecified",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "4-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36713109,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "323291000119108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of left hip joint",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36713110,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "323311000119107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteoarthritis of right hip joint",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35208769,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.6",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Other bilateral secondary osteoarthritis of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "4-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35208770,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.7",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Other unilateral secondary osteoarthritis of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "4-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4344156,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "239881008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Otto's pelvis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 434123,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "77994009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Primary localized osteoarthrosis of pelvic region",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 1570331,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.3",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral osteoarthritis resulting from hip dysplasia",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "4-char nonbill code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45572372,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.32",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral osteoarthritis resulting from hip dysplasia, left hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "5-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45553095,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.31",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral osteoarthritis resulting from hip dysplasia, right hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "5-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45606126,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.30",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral osteoarthritis resulting from hip dysplasia, unspecified hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "5-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 1570332,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.5",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral post-traumatic osteoarthritis of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "4-char nonbill code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45572373,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.52",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral post-traumatic osteoarthritis, left hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "5-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45601349,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.50",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral post-traumatic osteoarthritis, unspecified hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "5-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 1570330,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.1",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral primary osteoarthritis of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "4-char nonbill code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45577164,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.12",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral primary osteoarthritis, left hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "5-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45586889,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.11",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral primary osteoarthritis, right hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "5-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45577163,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "M16.10",
+          "VOCABULARY_ID": "ICD10CM",
+          "CONCEPT_NAME": "Unilateral primary osteoarthritis, unspecified hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "5-char billing code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42536659,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "735602002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Wear of articular bearing surface of joint prosthesis of hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      }
+    ]},
+    "name": "[MSK-AI] hip osteoarthritis_updated",
+    "id": 33
+  }],
+  "EndStrategy": null,
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "Title": null,
+  "AdditionalCriteria": {
+    "CriteriaList": [],
+    "Type": "ALL",
+    "DemographicCriteriaList": [],
+    "Groups": [],
+    "Count": null
+  },
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ConditionOccurrence": {
+      "OccurrenceEndDate": null,
+      "CorrelatedCriteria": null,
+      "ConditionTypeExclude": false,
+      "CodesetId": 33,
+      "ProviderSpecialty": null,
+      "Gender": [{
+        "INVALID_REASON_CAPTION": "Unknown",
+        "CONCEPT_ID": 8532,
+        "STANDARD_CONCEPT": null,
+        "CONCEPT_CODE": "F",
+        "VOCABULARY_ID": "Gender",
+        "CONCEPT_NAME": "FEMALE",
+        "DOMAIN_ID": "Gender",
+        "STANDARD_CONCEPT_CAPTION": "Unknown",
+        "CONCEPT_CLASS_ID": null,
+        "INVALID_REASON": null
+      }],
+      "VisitType": null,
+      "First": null,
+      "OccurrenceStartDate": null,
+      "ConditionType": null,
+      "ConditionSourceConcept": null,
+      "StopReason": null,
+      "Age": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": 55
+      }
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

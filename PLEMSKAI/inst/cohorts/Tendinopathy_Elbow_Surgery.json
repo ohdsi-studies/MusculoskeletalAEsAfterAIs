@@ -1,0 +1,712 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 761175,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15636041000119105",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bilateral medial epicondylitis of elbows",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 81379,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "202855006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Lateral epicondylitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80187,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "53286005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Medial epicondylitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 762282,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "313541000119107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Medial epicondylitis of left humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 762283,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "313551000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Medial epicondylitis of right humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4115164,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "287018001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Synovitis/tenosynovitis - elbow",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42872415,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "331000119106",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Tendinitis of elbow or forearm",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[MSK-AI] elbow tendinopathy condition - OPTIMIZED",
+      "id": 27
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005657,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.22",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, elbow",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4196903,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "432638006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Barbotage of tendon using ultrasound guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4346304,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239231007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Debridement of tendon",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42735672,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "24350",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Fasciotomy, lateral or medial (eg, tennis elbow or epicondylitis) (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42735674,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "24352",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Fasciotomy, lateral or medial (eg, tennis elbow or epicondylitis); with annular ligament resection (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42735673,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "24351",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Fasciotomy, lateral or medial (eg, tennis elbow or epicondylitis); with extensor origin detachment (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42735676,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "24356",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Fasciotomy, lateral or medial (eg, tennis elbow or epicondylitis); with partial ostectomy (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42735675,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "24354",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Fasciotomy, lateral or medial (eg, tennis elbow or epicondylitis); with stripping (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44789602,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "205411000000109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection for de Quervain's tenosynovitis of thumb",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4101039,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "300034002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection for tenosynovitis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44789354,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "198231000000109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection for tenosynovitis of ankle",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44789601,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "205401000000107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection for tenosynovitis of finger",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44789353,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "198221000000107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection for tenosynovitis of foot",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44789600,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "205391000000109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection for tenosynovitis of wrist",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2006202,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "83.97",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Injection of therapeutic substance into tendon",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2006196,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "83.91",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Lysis of adhesions of muscle, tendon, fascia, and bursa",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2006180,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "83.85",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other change in muscle or tendon length",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2006204,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "83.99",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other operations on muscle, tendon, fascia, and bursa",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2006122,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "83.13",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other tenotomy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4290622,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "3713005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Release for de Quervain's tenosynovitis of hand",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4275569,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "64926009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Release of tenosynovitis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44793145,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "378521000000107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Steroid injection for tenosynovitis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005728,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.72",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Synovectomy, elbow",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45888216,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1018544",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Tenotomy, elbow, lateral or medial (eg, epicondylitis, tennis elbow, golfer's elbow)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[MSK-AI] elbow tendinopathy surgery - OPTIMIZED",
+      "id": 28
+    }
+  ],
+  "EndStrategy": null,
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "Title": null,
+  "AdditionalCriteria": null,
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 27,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
+        "CodesetId": 28,
+        "ProcedureSourceConcept": null,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": [{
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }],
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 55
+        }
+      }},
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 27,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
+        "CodesetId": null,
+        "ProcedureSourceConcept": 28,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": [{
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }],
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 55
+        }
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

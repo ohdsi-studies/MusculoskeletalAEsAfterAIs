@@ -1,0 +1,3971 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4077286,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "18816008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acromioplasty with synthetic joint prosthesis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2102901,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20605",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthrocentesis, aspiration and/or injection, intermediate joint or bursa (eg, temporomandibular, acromioclavicular, wrist, elbow or ankle, olecranon bursa); without ultrasound guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2102912,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20610",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthrocentesis, aspiration and/or injection, major joint or bursa (eg, shoulder, hip, knee, subacromial bursa); without ultrasound guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2102900,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20600",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthrocentesis, aspiration and/or injection, small joint or bursa (eg, fingers, toes); without ultrasound guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005841,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.21",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of hip",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005852,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.22",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005839,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.2",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of other joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005859,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.29",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of other specified joints",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005853,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.23",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of shoulder",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005840,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.20",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of unspecified joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40481840,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "442095009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005926,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.7",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty and repair of hand, fingers, and wrist",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005943,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.8",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty and repair of shoulder and elbow",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4228671,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "88549004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of carpocarpal joint with implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005930,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.74",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty of carpocarpal or carpometacarpal joint with implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005931,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.75",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty of carpocarpal or carpometacarpal joint without implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4051417,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "16008005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of carpometacarpal joint with implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028125,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10715004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of distal radius with prosthetic replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4227277,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "87647009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of finger with synthetic joint prosthesis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4204385,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "54938002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of hand with synthetic joint prosthesis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005927,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.71",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty of metacarpophalangeal and interphalangeal joint with implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005928,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.72",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty of metacarpophalangeal and interphalangeal joint without implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2104232,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "25441",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroplasty with prosthetic replacement; distal radius",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2103716,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "23472",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroplasty, glenohumeral joint; total shoulder (glenoid and proximal humeral replacement (eg, total shoulder))",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2104179,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "25332",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroplasty, wrist, with or without interposition, with or without external or internal fixation",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005654,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.2",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028987,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "13714004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4085220,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "281812007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopy of shoulder",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005659,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.24",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, hand and finger",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005660,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.25",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, hip",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005661,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.26",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2721113,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "S2112",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical for harvesting of cartilage (chondrocyte cells)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617368,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G0289",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical, for removal of loose body, foreign body, debridement/shaving of articular cartilage (chondroplasty) at the time of other surgical knee arthroscopy in a different compartment of the same knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42739911,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "0013T",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical, implantation of osteochondral graft(s) for treatment of articular surface defect; allografts (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42739910,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "0012T",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical, implantation of osteochondral graft(s) for treatment of articular surface defect; autografts (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005674,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "80.29",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, other specified sites",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005656,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "80.21",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, shoulder",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105941,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "29815",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopy, shoulder, diagnostic, with or without synovial biopsy (separate procedure) (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005655,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.20",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, unspecified site",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005658,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.23",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, wrist",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46271492,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "709623003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "CT guided injection of joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4010250,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "112767006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Diagnostic arthroscopy of knee with synovial biopsy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4165243,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "41041000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Diagnostic arthroscopy of wrist with synovial biopsy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45888005,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1005610",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Endoscopy/Arthroscopy Procedures on the Musculoskeletal System",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4311039,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "392238003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Implantation of joint prosthesis into knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4094382,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "2613006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Implantation of joint prosthesis of hand",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4137457,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31884000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Implantation of joint prosthesis of shoulder joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4284994,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "68442002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Implantation of joint prosthesis of wrist",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4234417,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "359933005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Implantation of prosthesis or prosthetic device of joint of finger",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4335030,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "231276005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of facet joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4031174,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "14381006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of hip joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4144525,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "34333007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of joint of ankle",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4337874,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "231281001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of sacroiliac joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4335029,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "231274008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of steroid into joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005962,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.92",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Injection of therapeutic substance into joint or ligament",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4134857,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "398010007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Insertion of hip prosthesis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005890,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.5",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Joint replacement of lower extremity",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005944,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.80",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other total shoulder replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005945,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.81",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Partial shoulder replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42872791,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "450784006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary hybrid total replacement of joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4205526,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "308681004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Prosthetic arthroplasty of shoulder",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40756803,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.88",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Reverse total shoulder replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37204190,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "782700009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Total distal radioulnar joint replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35610632,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1095211000000100",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Total distal radioulnar joint replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005904,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.54",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Total knee replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44798420,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "335641000000108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Total prosthetic replacement of joint of finger",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4172500,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "42262007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Total shoulder replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005929,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.73",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Total wrist replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42872786,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "450779000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Uncemented total replacement of joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[MSK-AI] arthroplasty, arthroscopy and intraarticular injections",
+      "id": 37
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4002683,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "11023001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute calcific periarthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35208766,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.0",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Bilateral primary osteoarthritis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36687025,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15705361000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondrocalcinosis of bilateral hips",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40479260,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "442942009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondrocalcinosis of knee joint",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36717013,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15749161000119108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondromalacia of right patella",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 762219,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "304261000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic tophaceous gout of right wrist due to renal impairment",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4003507,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "109668000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Degenerative arthritis of temporomandibular joint",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37111597,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "726628003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Familial chondromalacia patellae",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45437062,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N05z511",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Hip osteoarthritis NOS",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 762775,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "431731000124106",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intervertebral disc desiccation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4344390,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "240211000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intervertebral disk calcification",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4083689,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239849004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intra-articular steroid-induced arthritis and periarthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45453633,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N053500",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of the pelvic region and thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45490472,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N051500",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Localised, primary osteoarthritis of the pelvic region and thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45443644,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N052500",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Localised, secondary osteoarthritis of the pelvic region and thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80802,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "201847001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Localized, secondary osteoarthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80183,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "201855008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Localized, secondary osteoarthritis of the ankle and/or foot",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 79904,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "201852006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Localized, secondary osteoarthritis of the hand",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4150309,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "267890003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Localized, secondary osteoarthritis of the pelvic region and thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 77631,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "201849003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Localized, secondary osteoarthritis of the shoulder region",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4178758,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "52334005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Miner's knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45527231,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "7130DA",
+            "VOCABULARY_ID": "OXMIS",
+            "CONCEPT_NAME": "OSTEOARTHRITIS HIP",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "OXMIS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45450329,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N054500",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified, of the pelvic region and thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80180,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "396275006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoarthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45443649,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N05zJ00",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Osteoarthritis NOS, of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45470615,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N05z500",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Osteoarthritis NOS, pelvic region/thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1570329,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Osteoarthritis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "3-char nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35208771,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.9",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Osteoarthritis of hip, unspecified",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44825680,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "715.34",
+            "VOCABULARY_ID": "ICD9CM",
+            "CONCEPT_NAME": "Osteoarthrosis, localized, not specified whether primary or secondary, hand",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "5-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35208769,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.6",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Other bilateral secondary osteoarthritis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35208770,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.7",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Other unilateral secondary osteoarthritis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4264472,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "60644007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pellegrini-Stieda syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4029605,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "237898004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Periarticular calcification",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434123,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "77994009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary localized osteoarthrosis of pelvic region",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4216873,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "72275000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Relapsing polychondritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4215655,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4168008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Tibial plateau chondromalacia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1570330,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.1",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Unilateral primary osteoarthritis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-char nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45577164,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.12",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Unilateral primary osteoarthritis, left hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "5-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45586889,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.11",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Unilateral primary osteoarthritis, right hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "5-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45577163,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.10",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Unilateral primary osteoarthritis, unspecified hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "5-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42536659,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "735602002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Wear of articular bearing surface of joint prosthesis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42539034,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "735603007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Wear of articular bearing surface of joint prosthesis of knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[MSK_AI]outcome_oa_all_combined - OPTIMIZED",
+      "id": 38
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4077286,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "18816008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acromioplasty with synthetic joint prosthesis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2102901,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20605",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthrocentesis, aspiration and/or injection, intermediate joint or bursa (eg, temporomandibular, acromioclavicular, wrist, elbow or ankle, olecranon bursa); without ultrasound guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2102912,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20610",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthrocentesis, aspiration and/or injection, major joint or bursa (eg, shoulder, hip, knee, subacromial bursa); without ultrasound guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2102900,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20600",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthrocentesis, aspiration and/or injection, small joint or bursa (eg, fingers, toes); without ultrasound guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005841,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.21",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of hip",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005852,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.22",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005839,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.2",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of other joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005859,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.29",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of other specified joints",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005853,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.23",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of shoulder",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005840,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.20",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of unspecified joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40481840,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "442095009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005926,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.7",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty and repair of hand, fingers, and wrist",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005943,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.8",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty and repair of shoulder and elbow",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4228671,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "88549004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of carpocarpal joint with implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005930,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.74",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty of carpocarpal or carpometacarpal joint with implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005931,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.75",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty of carpocarpal or carpometacarpal joint without implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4051417,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "16008005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of carpometacarpal joint with implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028125,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10715004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of distal radius with prosthetic replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4227277,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "87647009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of finger with synthetic joint prosthesis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4204385,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "54938002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of hand with synthetic joint prosthesis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005927,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.71",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty of metacarpophalangeal and interphalangeal joint with implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005928,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.72",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroplasty of metacarpophalangeal and interphalangeal joint without implant",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2104232,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "25441",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroplasty with prosthetic replacement; distal radius",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2103716,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "23472",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroplasty, glenohumeral joint; total shoulder (glenoid and proximal humeral replacement (eg, total shoulder))",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2104179,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "25332",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroplasty, wrist, with or without interposition, with or without external or internal fixation",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005654,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.2",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028987,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "13714004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4085220,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "281812007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopy of shoulder",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005659,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.24",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, hand and finger",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005660,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.25",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, hip",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005661,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.26",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2721113,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "S2112",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical for harvesting of cartilage (chondrocyte cells)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617368,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G0289",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical, for removal of loose body, foreign body, debridement/shaving of articular cartilage (chondroplasty) at the time of other surgical knee arthroscopy in a different compartment of the same knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42739911,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "0013T",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical, implantation of osteochondral graft(s) for treatment of articular surface defect; allografts (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42739910,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "0012T",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical, implantation of osteochondral graft(s) for treatment of articular surface defect; autografts (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005674,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "80.29",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, other specified sites",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005656,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "80.21",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, shoulder",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105941,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "29815",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopy, shoulder, diagnostic, with or without synovial biopsy (separate procedure) (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005655,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.20",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, unspecified site",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005658,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.23",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, wrist",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46271492,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "709623003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "CT guided injection of joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4010250,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "112767006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Diagnostic arthroscopy of knee with synovial biopsy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4165243,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "41041000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Diagnostic arthroscopy of wrist with synovial biopsy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45888005,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1005610",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Endoscopy/Arthroscopy Procedures on the Musculoskeletal System",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4311039,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "392238003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Implantation of joint prosthesis into knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4094382,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "2613006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Implantation of joint prosthesis of hand",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4137457,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31884000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Implantation of joint prosthesis of shoulder joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4284994,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "68442002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Implantation of joint prosthesis of wrist",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4234417,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "359933005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Implantation of prosthesis or prosthetic device of joint of finger",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4335030,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "231276005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of facet joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4031174,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "14381006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of hip joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4144525,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "34333007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of joint of ankle",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4337874,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "231281001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of sacroiliac joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4335029,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "231274008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of steroid into joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005962,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.92",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Injection of therapeutic substance into joint or ligament",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4134857,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "398010007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Insertion of hip prosthesis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005890,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.5",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Joint replacement of lower extremity",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005944,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.80",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other total shoulder replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005945,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.81",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Partial shoulder replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42872791,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "450784006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary hybrid total replacement of joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4205526,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "308681004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Prosthetic arthroplasty of shoulder",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40756803,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.88",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Reverse total shoulder replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37204190,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "782700009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Total distal radioulnar joint replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35610632,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1095211000000100",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Total distal radioulnar joint replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005904,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.54",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Total knee replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44798420,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "335641000000108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Total prosthetic replacement of joint of finger",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4172500,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "42262007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Total shoulder replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005929,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.73",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Total wrist replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42872786,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "450779000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Uncemented total replacement of joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[MSK-AI] arthroplasty, arthroscopy and intraarticular injections",
+      "id": 39
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4002683,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "11023001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute calcific periarthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35208766,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.0",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Bilateral primary osteoarthritis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36687025,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15705361000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondrocalcinosis of bilateral hips",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40479260,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "442942009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondrocalcinosis of knee joint",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36717013,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15749161000119108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondromalacia of right patella",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 762219,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "304261000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic tophaceous gout of right wrist due to renal impairment",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4003507,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "109668000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Degenerative arthritis of temporomandibular joint",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37111597,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "726628003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Familial chondromalacia patellae",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45437062,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N05z511",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Hip osteoarthritis NOS",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 762775,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "431731000124106",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intervertebral disc desiccation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4344390,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "240211000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intervertebral disk calcification",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4083689,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239849004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intra-articular steroid-induced arthritis and periarthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45453633,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N053500",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Localised osteoarthritis, unspecified, of the pelvic region and thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45490472,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N051500",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Localised, primary osteoarthritis of the pelvic region and thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45443644,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N052500",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Localised, secondary osteoarthritis of the pelvic region and thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80802,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "201847001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Localized, secondary osteoarthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80183,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "201855008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Localized, secondary osteoarthritis of the ankle and/or foot",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 79904,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "201852006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Localized, secondary osteoarthritis of the hand",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4150309,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "267890003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Localized, secondary osteoarthritis of the pelvic region and thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 77631,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "201849003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Localized, secondary osteoarthritis of the shoulder region",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4178758,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "52334005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Miner's knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45527231,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "7130DA",
+            "VOCABULARY_ID": "OXMIS",
+            "CONCEPT_NAME": "OSTEOARTHRITIS HIP",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "OXMIS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45450329,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N054500",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Oligoarticular osteoarthritis, unspecified, of the pelvic region and thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80180,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "396275006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoarthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45443649,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N05zJ00",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Osteoarthritis NOS, of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45470615,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N05z500",
+            "VOCABULARY_ID": "Read",
+            "CONCEPT_NAME": "Osteoarthritis NOS, pelvic region/thigh",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Read",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1570329,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Osteoarthritis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "3-char nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35208771,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.9",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Osteoarthritis of hip, unspecified",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44825680,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "715.34",
+            "VOCABULARY_ID": "ICD9CM",
+            "CONCEPT_NAME": "Osteoarthrosis, localized, not specified whether primary or secondary, hand",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "5-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35208769,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.6",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Other bilateral secondary osteoarthritis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35208770,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.7",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Other unilateral secondary osteoarthritis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4264472,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "60644007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pellegrini-Stieda syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4029605,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "237898004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Periarticular calcification",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434123,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "77994009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary localized osteoarthrosis of pelvic region",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4216873,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "72275000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Relapsing polychondritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4215655,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4168008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Tibial plateau chondromalacia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1570330,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.1",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Unilateral primary osteoarthritis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-char nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45577164,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.12",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Unilateral primary osteoarthritis, left hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "5-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45586889,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.11",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Unilateral primary osteoarthritis, right hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "5-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45577163,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "M16.10",
+            "VOCABULARY_ID": "ICD10CM",
+            "CONCEPT_NAME": "Unilateral primary osteoarthritis, unspecified hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "5-char billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42536659,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "735602002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Wear of articular bearing surface of joint prosthesis of hip",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42539034,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "735603007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Wear of articular bearing surface of joint prosthesis of knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[MSK_AI]outcome_oa_all_combined - OPTIMIZED",
+      "id": 40
+    }
+  ],
+  "EndStrategy": null,
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "Title": null,
+  "AdditionalCriteria": null,
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 38,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
+        "CodesetId": 37,
+        "ProcedureSourceConcept": null,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": [{
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }],
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 55
+        }
+      }},
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 40,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
+        "CodesetId": null,
+        "ProcedureSourceConcept": 39,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": [{
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }],
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 55
+        }
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

@@ -1,0 +1,41 @@
+Package: PLEFinal
+Type: Package
+Title: A Package Skeleton for Comparative Effectiveness Studies
+Version: 0.0.1
+Author: Martijn Schuemie [aut, cre]
+Maintainer: Martijn J. Schuemie <schuemie@ohdsi.org>
+Description: A skeleton package, to be used as a starting point when implementing comparative effect studies.
+Depends:
+    R(>= 3.5.0),
+    DatabaseConnector (>= 3.0.0)
+Imports:
+    SqlRender (>= 1.6.8),
+    EmpiricalCalibration (>= 2.0.2),
+    Cyclops (>= 3.0.0),
+    FeatureExtraction (>= 3.0.1),
+    CohortMethod (>= 4.0.0),
+    ggplot2,
+    Andromeda (>= 0.3.2),
+    dplyr,
+    tibble,
+    readr,
+    rlang,
+    MethodEvaluation (>= 2.0.0),
+    OhdsiSharing (>= 0.2.2),
+	ParallelLogger (>= 2.0.0),
+	survival,
+	plyr
+Suggests:
+    knitr,
+    rmarkdown,
+    DT,
+    shiny
+Remotes:
+    ohdsi/FeatureExtraction,
+    ohdsi/CohortMethod,
+    ohdsi/MethodEvaluation,
+    ohdsi/OhdsiSharing
+License: Apache License 2.0
+VignetteBuilder: knitr
+LazyData: TRUE
+RoxygenNote: 7.1.1

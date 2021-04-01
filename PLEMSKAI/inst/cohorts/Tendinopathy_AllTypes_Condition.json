@@ -1,0 +1,1478 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 439524,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "221695002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Achilles bursitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42535115,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16004071000119105",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Bilateral congenital trigger thumb of hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 761175,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15636041000119105",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Bilateral medial epicondylitis of elbows",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36686994,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15683281000119109",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Bilateral patellar bursitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37108980,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16003871000119102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Bilateral rotator cuff arthropathy of shoulder",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36686981,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15674881000119101",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Bilateral tendinitis of adductor tendon of hips",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36686980,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15674641000119105",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Bilateral tendinitis of psoas tendons",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 761187,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15637351000119106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Bilateral trigger thumbs",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36686986,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15675641000119109",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Calcific tendinitis of bilateral hips",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36684520,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "308961000119106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Calcific tendinitis of left hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36684524,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "309021000119108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Calcific tendinitis of right hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 437966,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "404224009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Calcium deposits in tendon",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4010535,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "208459000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed fracture finger distal phalanx, mallet",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4015877,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "208443000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed fracture thumb distal phalanx, mallet",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45766788,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "704028006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of index finger",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 760453,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10934561000119104",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of index finger of left hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 760452,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10934521000119109",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of index finger of right hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 760455,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10934641000119102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of left finger",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45766789,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "704030008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of little finger",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 760458,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10934801000119103",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of little finger of left hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 760457,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10934761000119106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of little finger of right hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 760454,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10934601000119104",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of right finger",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45766841,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "704093007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of ring finger",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 760456,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10934721000119101",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of ring finger of left hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 765344,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10934681000119107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Closed mallet fracture of distal phalanx of ring finger of right hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46270017,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "12121000119102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Congenital trigger finger and trigger thumb",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42535142,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16018671000119105",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Congenital trigger finger of left hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42535141,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16018591000119107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Congenital trigger finger of right hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4006758,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "205274004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Congenital trigger thumb",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 81942,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "21409006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Enthesopathy of ankle AND/OR tarsus",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4239487,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "58781003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Gluteal tendinitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 40493264,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "445947008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Heterotopic ossification of tendon",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45763856,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "700380004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Insertional Achilles tendinopathy",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 81379,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "202855006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Lateral epicondylitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4016831,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "209775008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Mallet finger with closed tendon injury",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4050234,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "210586009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Mallet finger with open tendon injury",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4050235,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "210590006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Mallet thumb with open tendon injury",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 80187,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "53286005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Medial epicondylitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 762282,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "313541000119107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Medial epicondylitis of left humerus",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 762283,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "313551000119109",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Medial epicondylitis of right humerus",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45763857,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "700381000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Non-insertional Achilles tendinopathy",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4015492,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "208492006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open fracture finger distal phalanx, mallet",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4012302,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "208476001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open fracture thumb distal phalanx, mallet",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45772709,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "704237001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of index finger",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37310232,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10823451000119107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of index finger of left hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37310211,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10834461000119108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of index finger of right hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45766961,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "704238006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of little finger",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37310246,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10816301000119102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of little finger of right hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45771416,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "704239003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of middle finger",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37310231,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10823531000119102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of middle finger of left hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37310235,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10818101000119104",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of middle finger of right hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45766917,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "704183003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of ring finger",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37310230,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10823571000119104",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of ring finger of left hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37310238,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10830741000119109",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Open mallet fracture of distal phalanx of ring finger of right hand",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4230600,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "404225005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Osteodesmosis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 193293,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "45861001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Pes anserinus tendinitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4192851,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "75680005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Psoas tendinitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4318395,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95410001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Retropharyngeal tendinitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4016832,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "209779002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Rupture of hamstring tendon",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4161507,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "431033003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Rupture of proximal quadriceps tendon",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4083493,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "281545002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Rupture of tendon of head and neck",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4083494,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "281546001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Rupture of tendon of trunk",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4118007,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "287017006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Synovitis/tenosynovitis - shoulder",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4147145,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "34840004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendinitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36685043,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1076691000119104",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendinitis of left flexor hallucis longus",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36684516,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "308761000119108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendinitis of left gluteal tendon",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42534890,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1076651000119109",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendinitis of left hip adductor muscle",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36684577,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "318771000119104",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendinitis of left psoas tendon",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36685042,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1076671000119100",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendinitis of right flexor hallucis longus",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36684517,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "308771000119102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendinitis of right gluteal tendon",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42534889,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1076631000119103",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendinitis of right hip adductor muscle",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36684578,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "318781000119101",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendinitis of right psoas tendon",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4121933,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "288218006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendon rupture - hip",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 761381,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15697601000119106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendonitis of left ankle",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 761382,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15697641000119108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tendonitis of right ankle",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4195698,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "67801009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tenosynovitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 433572,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "202907005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tenosynovitis of ankle",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 443111,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "202908000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Tenosynovitis of foot",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4215217,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "415746003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Traumatic or non-traumatic rupture of tendon",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4344264,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "239987006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Triggering of digit",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4104825,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "29210001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Trochanteric tendinitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 761290,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15674761000119101",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Trochanteric tendonitis of left lower limb",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 761289,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "15674721000119106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Trochanteric tendonitis of right lower limb",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      }
+    ]},
+    "name": "[MSK_AI]tendinopathy_condition_clean - OPTIMIZED",
+    "id": 31
+  }],
+  "EndStrategy": null,
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "Title": null,
+  "AdditionalCriteria": {
+    "CriteriaList": [],
+    "Type": "ALL",
+    "DemographicCriteriaList": [],
+    "Groups": [],
+    "Count": null
+  },
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ConditionOccurrence": {
+      "OccurrenceEndDate": null,
+      "CorrelatedCriteria": null,
+      "ConditionTypeExclude": false,
+      "CodesetId": 31,
+      "ProviderSpecialty": null,
+      "Gender": [{
+        "INVALID_REASON_CAPTION": "Unknown",
+        "CONCEPT_ID": 8532,
+        "STANDARD_CONCEPT": null,
+        "CONCEPT_CODE": "F",
+        "VOCABULARY_ID": "Gender",
+        "CONCEPT_NAME": "FEMALE",
+        "DOMAIN_ID": "Gender",
+        "STANDARD_CONCEPT_CAPTION": "Unknown",
+        "CONCEPT_CLASS_ID": null,
+        "INVALID_REASON": null
+      }],
+      "VisitType": null,
+      "First": null,
+      "OccurrenceStartDate": null,
+      "ConditionType": null,
+      "ConditionSourceConcept": null,
+      "StopReason": null,
+      "Age": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": 55
+      }
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

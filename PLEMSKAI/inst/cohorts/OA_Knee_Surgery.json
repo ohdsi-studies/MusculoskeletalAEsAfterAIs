@@ -1,0 +1,1647 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005852,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.22",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthrodesis of knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4078547,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "19063003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroplasty of knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45888673,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1014119",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroplasty, femoral condyles or tibial plateau(s), knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45890558,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1005073",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroplasty, knee, condyle and plateau",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45888521,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1014118",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroplasty, knee, tibial plateau",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45889826,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1005065",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroplasty, patella",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4083671,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "281813002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopic chondroplasty of knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4185047,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "54419004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopically aided anterior cruciate ligament augmentation",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4292075,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "37422000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopically aided anterior cruciate ligament reconstruction",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4208524,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "55244002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopically aided anterior cruciate ligament repair",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2106052,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "29888",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopically aided anterior cruciate ligament repair/augmentation or reconstruction",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4224970,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "84862003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopically aided posterior cruciate ligament augmentation",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4286791,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "6898002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopically aided posterior cruciate ligament reconstruction",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2106053,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "29889",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopically aided posterior cruciate ligament repair/augmentation or reconstruction",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105996,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "29851",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopically aided treatment of intercondylar spine(s) and/or tuberosity fracture(s) of the knee, with or without manipulation; with internal or external fixation (includes arthroscopy)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105995,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "29850",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopically aided treatment of intercondylar spine(s) and/or tuberosity fracture(s) of the knee, with or without manipulation; without internal or external fixation (includes arthroscopy)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105998,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "29856",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopically aided treatment of tibial fracture, proximal (plateau); bicondylar, includes internal fixation, when performed (includes arthroscopy)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105997,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "29855",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopically aided treatment of tibial fracture, proximal (plateau); unicondylar, includes internal fixation, when performed (includes arthroscopy)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4205229,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "309431009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthroscopy of knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005661,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "80.26",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Arthroscopy, knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45887571,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1005657",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2721113,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "S2112",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical for harvesting of cartilage (chondrocyte cells)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617368,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G0289",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical, for removal of loose body, foreign body, debridement/shaving of articular cartilage (chondroplasty) at the time of other surgical knee arthroscopy in a different compartment of the same knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42739911,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "0013T",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical, implantation of osteochondral graft(s) for treatment of articular surface defect; allografts (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42739910,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "0012T",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Arthroscopy, knee, surgical, implantation of osteochondral graft(s) for treatment of articular surface defect; autografts (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4200138,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "314284003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Campbell operation on anterior cruciate ligament",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4010250,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "112767006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Diagnostic arthroscopy of knee with synovial biopsy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005883,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.42",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Five-in-one repair of knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40481441,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "443387005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of both knee joints",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4103962,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "300024006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Injection of knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005962,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.92",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Injection of therapeutic substance into joint or ligament",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4157180,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "370614007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Lateral wire repair of ruptured anterior cruciate ligament",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105070,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27427",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Ligamentous reconstruction (augmentation), knee; extra-articular",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105071,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27428",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Ligamentous reconstruction (augmentation), knee; intra-articular (open)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105082,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27429",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Ligamentous reconstruction (augmentation), knee; intra-articular (open) and extra-articular",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4267115,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "61798009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ligamentous reconstruction of knee, extra-articular",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4244255,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "59175005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ligamentous reconstruction of knee, intra-articular",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4297300,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "76699006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ligamentous reconstruction of knee, intra-articular and extra-articular",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105202,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27557",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Open treatment of knee dislocation, includes internal fixation, when performed; with primary ligamentous repair",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105203,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27558",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Open treatment of knee dislocation, includes internal fixation, when performed; with primary ligamentous repair, with augmentation/reconstruction",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005888,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.47",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other repair of knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005887,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.46",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other repair of the collateral ligaments",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005886,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "81.45",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other repair of the cruciate ligaments",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4262815,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "46648008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary repair of torn ligament and capsule of knee, collateral",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4194654,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "79145004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary repair of torn ligament and capsule of knee, cruciate",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4174517,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "50432000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary repair of torn ligament of knee, collateral",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4300069,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "7823006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary repair of torn ligament of knee, cruciate",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4034299,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239501000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Prosthetic unicompartmental arthroplasty of knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4343674,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239431009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Reconstruction of anterior cruciate ligament of knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4310053,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "391101007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Reconstruction of anterior cruciate ligament using hamstring graft",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105067,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27422",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Reconstruction of dislocating patella; with extensor realignment and/or muscle advancement or release (eg, Campbell, Goldwaite type procedure)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105068,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27424",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Reconstruction of dislocating patella; with patellectomy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4343675,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239434001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Reconstruction of lateral collateral ligament of knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4343457,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239433007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Reconstruction of medial collateral ligament of knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4343907,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239426007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Repair of anterior cruciate ligament of knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4296743,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "76934002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Repair of knee collateral ligaments",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4343673,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239429000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Repair of lateral collateral ligament of knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4343455,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239425006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Repair of ligament of knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4343456,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239428008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Repair of medial collateral ligament of knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4343331,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239235003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Repair of patellar tendon by tendon lengthening procedure",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4343698,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239234004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Repair of patellar tendon by tendon transfer procedure",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4346963,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239427003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Repair of posterior cruciate ligament of knee joint",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105049,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27405",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Repair, primary, torn ligament and/or capsule, knee; collateral",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105051,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27409",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Repair, primary, torn ligament and/or capsule, knee; collateral and cruciate ligaments",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105050,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27407",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Repair, primary, torn ligament and/or capsule, knee; cruciate",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2105026,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "27381",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Suture of infrapatellar tendon; secondary reconstruction, including fascial or tendon graft",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4262687,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "46485008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Suture of ligament of knee",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2005904,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "81.54",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Total knee replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[MSK-AI] knee oa procedures_updated - OPTIMIZED",
+      "id": 33
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4035434,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239833001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondrocalcinosis due to pyrophosphate crystals of the knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 761407,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15705281000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondrocalcinosis of bilateral knee joints",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37108598,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1074171000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondrocalcinosis of joint of left knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37108597,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1074161000119107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondrocalcinosis of joint of right knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40479260,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "442942009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondrocalcinosis of knee joint",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 761176,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15636211000119100",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondromalacia of bilateral patellas",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 761485,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15720481000119102",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondromalacia of left knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42535491,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "303861000119106",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondromalacia of left patella",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 81378,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "36071006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondromalacia of patella",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36717013,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15749161000119108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chondromalacia of right patella",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 74444,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "429420005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Crystal arthropathy of knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37111597,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "726628003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Familial chondromalacia patellae",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4178758,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "52334005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Miner's knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4079750,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239873007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoarthritis of knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44836174,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "715.36",
+            "VOCABULARY_ID": "ICD9CM",
+            "CONCEPT_NAME": "Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "5-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4264472,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "60644007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pellegrini-Stieda syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4215655,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4168008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Tibial plateau chondromalacia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42539034,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "735603007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Wear of articular bearing surface of joint prosthesis of knee",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[MSK-AI] knee oa_updated",
+      "id": 34
+    }
+  ],
+  "EndStrategy": null,
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "Title": null,
+  "AdditionalCriteria": null,
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 34,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
+        "CodesetId": 33,
+        "ProcedureSourceConcept": null,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": [{
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }],
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 55
+        }
+      }},
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 34,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
+        "CodesetId": null,
+        "ProcedureSourceConcept": 33,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": [{
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }],
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 55
+        }
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

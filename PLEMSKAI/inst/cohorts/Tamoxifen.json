@@ -1,0 +1,3273 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 30
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35786208,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2787669",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "100 ML Tamoxifen 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 35786532,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP2787993",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "100 ML Tamoxifen 4 MG/ML Oral Solution by Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21137812,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP322036",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "100 ML Tamoxifen 4 MG/ML Oral Suspension",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 21127964,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP322037",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "100 ML Tamoxifen 4 MG/ML Oral Suspension by Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21079173,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325706",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40711382,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP4745813",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by A A H",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40711383,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP4745812",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Alliance",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21088883,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325711",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Colorama",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21157799,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325709",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Cubic",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21049672,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325712",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by DE",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21167591,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325707",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Ennogen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21059472,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325714",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Icarus",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21157800,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325710",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by J M McGill",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35788039,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789500",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Mawdsley-Brooks",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21118350,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325713",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Niche",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35788066,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789527",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Pharma-z",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40711381,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP4745814",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40711384,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP4745811",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Sigma",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21108599,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325708",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution by Sigma-Tau",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21128130,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325715",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution [Soltamox]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21157801,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325717",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Solution [Soltamox] by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21049673,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325718",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Suspension",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21157802,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325720",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Suspension by DE",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21098779,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325719",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Suspension by Mawdsley-Brooks",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21137966,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP325721",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 2 MG/ML Oral Suspension by Pharma-z",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41430157,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2628119",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 3.04 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41429147,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2627109",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 3.04 MG/ML Oral Solution Box of 1",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41428989,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2626951",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 3.04 MG/ML Oral Solution [Soltamox]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41429664,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2627626",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Tamoxifen 3.04 MG/ML Oral Solution [Soltamox] Box of 1",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21047809,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP292699",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 2 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 21116447,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP292700",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 2 MG/ML Oral Solution by Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21077343,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP292701",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 2 MG/ML Oral Suspension",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 21028175,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP292702",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 2 MG/ML Oral Suspension by Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21145936,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP292694",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 21145937,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP292696",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 4 MG/ML Oral Solution by Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21037972,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP292697",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 4 MG/ML Oral Suspension",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 21037973,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP292698",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 4 MG/ML Oral Suspension by Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21155894,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP292703",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 21175394,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP292704",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 8 MG/ML Oral Solution by Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21136057,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP292705",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 8 MG/ML Oral Suspension",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 21155895,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP292707",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Tamoxifen 8 MG/ML Oral Suspension by Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43758474,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP851569",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "250 ML Tamoxifen 3.04 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41437908,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2635870",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "250 ML Tamoxifen 3.04 MG/ML Oral Solution Box of 1",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41438089,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2636051",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "250 ML Tamoxifen 3.04 MG/ML Oral Solution Box of 4",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43632702,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP851570",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "250 ML Tamoxifen 3.04 MG/ML Oral Solution [Soltamox]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41436893,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2634855",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "250 ML Tamoxifen 3.04 MG/ML Oral Solution [Soltamox] Box of 1",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41437616,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2635578",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "250 ML Tamoxifen 3.04 MG/ML Oral Solution [Soltamox] Box of 4",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43722488,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP851571",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "250 ML Tamoxifen 3.04 MG/ML Oral Solution [Soltamox] by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43789159,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP768853",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "5 ML Tamoxifen 3.04 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43843456,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP768854",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "5 ML Tamoxifen 3.04 MG/ML Oral Solution [Soltamox]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43645496,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP768855",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "5 ML Tamoxifen 3.04 MG/ML Oral Solution [Soltamox] by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37117066,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "113481000119108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Long-term current use of tamoxifen",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 44531187,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP113065",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "MED TAMOXIFEN",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "D"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44143108,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "DPD125774",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "Mylan-Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 44016997,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP1011628",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Mylan-Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 44529928,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP114397",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "MYLAN-TAMOXIFEN",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "D"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44591621,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "2088428",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "Mylan-Tamoxifen [Drug]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Drug Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44654894,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "2089858",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "Mylan-Tamoxifen [Drug]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Drug Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45697402,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "063FA789-4570-4715-C3BD-1BAD0449FB26",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "NOLVADEX - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44149212,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "DPD127569",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "Penta-Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44021281,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP1015912",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Penta-Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 44536174,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP117499",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "PENTA-TAMOXIFEN",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "D"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44608420,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "2232552",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "Penta-Tamoxifen Tablets [Drug]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Drug Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44584334,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "2232551",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "Penta-Tamoxifen Tablets [Drug]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Drug Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44138588,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "DPD128278",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "Pms-Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44019702,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP1014333",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Pms-Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 44533918,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP118514",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "PMS-TAMOXIFEN",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "D"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44637587,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "2237459",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "Pms-Tamoxifen [Drug]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Drug Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44560068,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "2237460",
+            "VOCABULARY_ID": "DPD",
+            "CONCEPT_NAME": "Pms-Tamoxifen [Drug]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Drug Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45672512,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "8e4710a7-8757-49be-8bec-a1dc39e6c695",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "SOLTAMOX - tamoxifen citrate liquid",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42804940,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "bd72fd53-ae0c-4080-9b7f-2d294b14cc86",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "SOLTAMOX - tamoxifen citrate liquid",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43076669,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "1514",
+            "VOCABULARY_ID": "Multilex",
+            "CONCEPT_NAME": "tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21603831,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "L02BA01",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "tamoxifen; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1436678,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10324",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4190066,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "373345002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Substance",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4294265,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "75959001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Pharma/Biol Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4329214,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N0000007041",
+            "VOCABULARY_ID": "NDFRT",
+            "CONCEPT_NAME": "Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Chemical Structure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40782783,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "LP18484-3",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Tamoxifen",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "LOINC Component",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43243739,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "35166",
+            "VOCABULARY_ID": "BDPM",
+            "CONCEPT_NAME": "Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 43576781,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP896065",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "D"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45883505,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "LA14344-8",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Tamoxifen",
+            "DOMAIN_ID": "Meas Value",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Answer",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4293120,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "N0000148024",
+            "VOCABULARY_ID": "NDFRT",
+            "CONCEPT_NAME": "TAMOXIFEN",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Pharma Preparation",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 43576783,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "OMOP896067",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Tamoxifen 10 Heumann",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Brand Name",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19085481,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "330520",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 10 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43061252,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "1003865",
+            "VOCABULARY_ID": "Multilex",
+            "CONCEPT_NAME": "tamoxifen 10mg/5ml oral solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45412336,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "11191",
+            "VOCABULARY_ID": "Multum",
+            "CONCEPT_NAME": "tamoxifen 10 mg/5 mL oral solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Multum",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37756035,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "34518020",
+            "VOCABULARY_ID": "Gemscript",
+            "CONCEPT_NAME": "Tamoxifen 10mg/5ml oral solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Gemscript",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45965258,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "13301611000001107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Tamoxifen 10mg/5ml oral solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Pharma/Biol Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45734729,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "63522020",
+            "VOCABULARY_ID": "Gemscript",
+            "CONCEPT_NAME": "Tamoxifen 10mg/5ml oral solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Gemscript",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46087328,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "13284111000001107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Tamoxifen 10mg/5ml oral solution 1 ml",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Pharma/Biol Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37756037,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "34519020",
+            "VOCABULARY_ID": "Gemscript",
+            "CONCEPT_NAME": "Tamoxifen 10mg/5ml oral solution (Special Order)",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Gemscript",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19004029,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "564131",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 10 MG [Nolvadex]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19019851,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "198240",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 10 MG Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19007458,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "105630",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 10 MG Oral Tablet [Nolvadex]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19085691,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "330595",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 20 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19004030,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "572144",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 20 MG [Nolvadex]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1436683,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "313195",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 20 MG Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1436681,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "211811",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 20 MG Oral Tablet [Nolvadex]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1436688,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "393415",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 2 MG/ML",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19101773,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "389230",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 2 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19124445,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "644304",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 2 MG/ML Oral Solution [Soltamox]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19124444,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "644302",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen 2 MG/ML [Soltamox]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45690920,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "dae37822-4738-4918-8370-aa01a776ec03",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45781760,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "2378410a-1b92-4e4c-af3f-f8f75fa70aaf",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45624491,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "e3503377-5756-46f4-9465-14f9fb786826",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET, FILM COATED",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45666144,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "6630c8a2-8c01-4ae7-a48d-0bf6ffd5b22a",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET, FILM COATED",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45777985,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "03aa160e-65cb-4bc7-afd8-157666e39b8c",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 ORAL TABLET",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45778750,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "089a379c-072b-49a6-af3f-15ff33b3188c",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 ORAL TABLET, FILM COATED",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45688368,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "653917f0-f878-11e1-a21f-0800200c9a66",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/5mL ORAL LIQUID [soltamox]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45661594,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "9116209f-df47-45cd-9147-acd2e3eb0b5d",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 20mg/1 ORAL TABLET",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46244741,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "f5ffe9dd-f76d-4aab-9473-81e33b26710b",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36155001,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "b02f410e-ba92-4853-9b67-2afbde9866be",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36159385,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "393383c9-32b2-446c-b324-7e7c1dc7ba33",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42801939,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "716657e8-d809-4671-87bc-8d10ef69a071",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42694028,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "fea92349-6e44-429c-9d8c-38b9a49a8ad5",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42806296,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "bb53eeb7-83fc-469e-b9e3-df5f27bfec7b",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45628249,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "8f642753-9e12-433c-a0bc-ab33dac41ddf",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44339136,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "8d731e7e-3b04-49a2-a0f6-3779422174cc",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45661189,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45650672,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "9b8a4211-120f-4981-ad69-928accb97637",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44356917,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "dc7bcc53-b69d-48dc-aa5e-b0454d6aa210",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45698114,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "2720c127-ec86-42ea-97e7-88dd6a195cdb",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45665346,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "407a372d-4448-4d53-afd4-eb0e74bbc336",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44337587,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "cfd2e863-544d-4f32-b53d-dda6ef26522f",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44337470,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "8e02d45c-2b87-4c2f-8d75-b848172fafde",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35902966,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "7424b623-4f1a-4c45-b30a-140b708750b2",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45631182,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "151ce76c-2d44-4c82-850d-ab213bea4d6b",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44361432,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "e0da3b80-835f-4c4e-ab37-81095e96e881",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45683541,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "86dcde0e-347c-49e1-8b38-ad106a25c9af",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42807178,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "fa87c1c2-f58b-4a12-a658-a957ae7e522d",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46301876,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "61c988cc-a5bf-4cd2-81fd-4442a940622f",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42805848,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1bb81dd5-8d4e-4d6d-b030-a8ff2a3d4f55",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42801523,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "70052366-80f3-41bc-b2dd-c1efe9317243",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36219046,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1164213",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen Oral Liquid Product",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Clinical Dose Group",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36219047,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1164214",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen Oral Product",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Clinical Dose Group",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40090953,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "393416",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40135169,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "644303",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen Oral Solution [Soltamox]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40090954,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "374020",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40090961,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93514",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen Oral Tablet [Nolvadex]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2108690,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4179F",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Tamoxifen or aromatase inhibitor (AI) prescribed (ONC)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36219048,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1164215",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "tamoxifen Pill",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Clinical Dose Group",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[MSK-AI] tamoxifen",
+      "id": 0
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4112853,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "254837009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of breast",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432851,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128462008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Secondary malignant neoplastic disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[LEGEND HTN] Malignant neoplasms of breast",
+      "id": 6
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45697402,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "063FA789-4570-4715-C3BD-1BAD0449FB26",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "NOLVADEX - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42804940,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "bd72fd53-ae0c-4080-9b7f-2d294b14cc86",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "SOLTAMOX - tamoxifen citrate liquid",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45672512,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "8e4710a7-8757-49be-8bec-a1dc39e6c695",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "SOLTAMOX - tamoxifen citrate liquid",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21603831,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "L02BA01",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "tamoxifen; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45690920,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "dae37822-4738-4918-8370-aa01a776ec03",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45781760,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "2378410a-1b92-4e4c-af3f-f8f75fa70aaf",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45666144,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "6630c8a2-8c01-4ae7-a48d-0bf6ffd5b22a",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET, FILM COATED",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45624491,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "e3503377-5756-46f4-9465-14f9fb786826",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 / 20mg/1 ORAL TABLET, FILM COATED",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45777985,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "03aa160e-65cb-4bc7-afd8-157666e39b8c",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 ORAL TABLET",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45778750,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "089a379c-072b-49a6-af3f-15ff33b3188c",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/1 ORAL TABLET, FILM COATED",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45688368,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "653917f0-f878-11e1-a21f-0800200c9a66",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 10mg/5mL ORAL LIQUID [soltamox]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45661594,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "9116209f-df47-45cd-9147-acd2e3eb0b5d",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "tamoxifen citrate 20mg/1 ORAL TABLET",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45628249,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "8f642753-9e12-433c-a0bc-ab33dac41ddf",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36155001,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "b02f410e-ba92-4853-9b67-2afbde9866be",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36159385,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "393383c9-32b2-446c-b324-7e7c1dc7ba33",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42694028,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "fea92349-6e44-429c-9d8c-38b9a49a8ad5",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42801939,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "716657e8-d809-4671-87bc-8d10ef69a071",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42806296,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "bb53eeb7-83fc-469e-b9e3-df5f27bfec7b",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44339136,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "8d731e7e-3b04-49a2-a0f6-3779422174cc",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44356917,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "dc7bcc53-b69d-48dc-aa5e-b0454d6aa210",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45650672,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "9b8a4211-120f-4981-ad69-928accb97637",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45661189,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45698114,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "2720c127-ec86-42ea-97e7-88dd6a195cdb",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46244741,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "f5ffe9dd-f76d-4aab-9473-81e33b26710b",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44361432,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "e0da3b80-835f-4c4e-ab37-81095e96e881",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45683541,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "86dcde0e-347c-49e1-8b38-ad106a25c9af",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44337587,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "cfd2e863-544d-4f32-b53d-dda6ef26522f",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44337470,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "8e02d45c-2b87-4c2f-8d75-b848172fafde",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42807178,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "fa87c1c2-f58b-4a12-a658-a957ae7e522d",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46301876,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "61c988cc-a5bf-4cd2-81fd-4442a940622f",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42805848,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1bb81dd5-8d4e-4d6d-b030-a8ff2a3d4f55",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42801523,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "70052366-80f3-41bc-b2dd-c1efe9317243",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35902966,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "7424b623-4f1a-4c45-b30a-140b708750b2",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45665346,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "407a372d-4448-4d53-afd4-eb0e74bbc336",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45631182,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "151ce76c-2d44-4c82-850d-ab213bea4d6b",
+            "VOCABULARY_ID": "SPL",
+            "CONCEPT_NAME": "TAMOXIFEN CITRATE - tamoxifen citrate tablet, film coated",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Prescription Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[MSK-AI] tamoxifen drug",
+      "id": 8
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21603838,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "L02BG",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "Aromatase inhibitors",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 4th",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "[MSK_AI] aromatase drug",
+      "id": 9
+    }
+  ],
+  "EndStrategy": null,
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "Title": null,
+  "AdditionalCriteria": {
+    "CriteriaList": [],
+    "Type": "ALL",
+    "DemographicCriteriaList": [],
+    "Groups": [],
+    "Count": null
+  },
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 365,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 6,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "breast cancer",
+      "description": "must have breast cancer diagnosis within 1y prior to tamoxifen use"
+    },
+    {
+      "expression": {
+        "CriteriaList": [],
+        "Type": "ALL",
+        "DemographicCriteriaList": [{
+          "Ethnicity": null,
+          "OccurrenceEndDate": null,
+          "Race": null,
+          "Gender": null,
+          "OccurrenceStartDate": null,
+          "Age": {
+            "Op": "gte",
+            "Extent": null,
+            "Value": 55
+          }
+        }],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "Age >=55",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"DrugExposure": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "DrugSourceConcept": null,
+            "CodesetId": 9,
+            "DrugTypeExclude": false,
+            "Quantity": null,
+            "DrugType": null,
+            "ProviderSpecialty": null,
+            "EffectiveDrugDose": null,
+            "Gender": null,
+            "DaysSupply": null,
+            "DoseUnit": null,
+            "VisitType": null,
+            "Refills": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "RouteConcept": null,
+            "StopReason": null,
+            "LotNumber": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "No prior AI use",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [],
+        "Type": "ALL",
+        "DemographicCriteriaList": [{
+          "Ethnicity": null,
+          "OccurrenceEndDate": null,
+          "Race": null,
+          "Gender": [{
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8532,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "F",
+            "VOCABULARY_ID": "Gender",
+            "CONCEPT_NAME": "FEMALE",
+            "DOMAIN_ID": "Gender",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          }],
+          "OccurrenceStartDate": null,
+          "Age": null
+        }],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "female sex",
+      "description": null
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"DrugExposure": {
+      "OccurrenceEndDate": null,
+      "CorrelatedCriteria": null,
+      "DrugSourceConcept": null,
+      "CodesetId": 8,
+      "DrugTypeExclude": false,
+      "Quantity": null,
+      "DrugType": null,
+      "ProviderSpecialty": null,
+      "EffectiveDrugDose": null,
+      "Gender": null,
+      "DaysSupply": null,
+      "DoseUnit": null,
+      "VisitType": null,
+      "Refills": null,
+      "First": true,
+      "OccurrenceStartDate": null,
+      "RouteConcept": null,
+      "StopReason": null,
+      "LotNumber": null,
+      "Age": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 365
+    }
+  }
+}
