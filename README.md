@@ -13,8 +13,9 @@ MSKAI- Musculoskeletal adverse events following hormonal treatment for breast ca
 - Study end date: **1st May 2021**
 - Protocol: **[EU PAS 38362](http://www.encepp.eu/encepp/viewResource.htm?id=38363)**
 - Publications: ** **
-- Cohort Diagnostics explorer: **[ShinyApp](https://jenniferlane.shinyapps.io/CohortDiagnosticsMSKAI_FinalDesign/)**
-- PLE Results explorer: **[EvidenceExplorer]()**
+- Results explorer: 
+    - **[Shiny App: Cohort Diagnostics](https://jenniferlane.shinyapps.io/CohortDiagnosticsMSKAI_FinalDesign/)**
+    - **[Shiny App: PLE Results]()**
 
 *A study to evaluate the risk of adverse musculoskeletal events in post-menopausal women taking Aromatase Inhibitors compared to Tamoxifen to treat breast cancer.*
 
