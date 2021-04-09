@@ -53,7 +53,7 @@ dataFolder <- file.path(outputFolder, "shinyData")
 prepareForEvidenceExplorer(resultsZipFile = resultsZipFile, dataFolder = dataFolder)
 launchEvidenceExplorer(dataFolder = dataFolder, blind = TRUE, launch.browser = FALSE)
 
-# Upload the results to the OHDSI SFTP server:
+# Upload the results to the OHDSI SFTP server: ideally please name the folder 'PLE-database-results' within AiEstimation
 privateKeyFileName <- ""
 userName <- ""
 uploadResults(outputFolder, privateKeyFileName, userName)
