@@ -15,7 +15,7 @@ MSKAI- Musculoskeletal adverse events following hormonal treatment for breast ca
 - Publications: ** **
 - Results explorer: 
     - **[Shiny App: Cohort Diagnostics](https://jenniferlane.shinyapps.io/CohortDiagnosticsMSKAI_FinalDesign/)**
-    - **[Shiny App: PLE Results]()**
+    - **[Shiny App: PLE Results](https://data.ohdsi.org/MskaiEstimationPrelim/)**
 
 *A study to evaluate the risk of adverse musculoskeletal events in post-menopausal women taking Aromatase Inhibitors compared to Tamoxifen to treat breast cancer.*
 
