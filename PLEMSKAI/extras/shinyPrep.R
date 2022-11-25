@@ -44,6 +44,22 @@ for (zipFile in zipFiles[14]) {
   prepareForEvidenceExplorer(zipFile, shinyDataFolder)
 }
 
+
+covertToRds <- function(resultsFolder) { # resultsFolder <- "G:/StudyResults/mskai"
+  cprdFolder <- file.path(resultsFolder, "Results_CPRD")
+  cprdCsvs <- list.files(cprdFolder, full.names = TRUE)
+  shinyDataFolder <- file.path(resultsFolder, "shinyData")
+  for (cprdCsv in cprdCsvs) { # cprdCsv <- cprdCsvs[1]
+    csv <- read.csv(cprdCsv)
+    csvFileName <- basename(cprdCsv)
+    rdsFileName <- sub("csv", "rds", csvFileName)
+    cprdRds <- file.path(shinyDataFolder, rdsFileName)
+    saveRDS(csv, cprdRds)
+  }
+}
+
+
+
 preMergeShinyData <- function(shinyDataFolder) { # shinyDataFolder <- "G:/StudyResults/mskai/shinyData"
   shinySettings <- list(dataFolder = shinyDataFolder, blind = TRUE)
   dataFolder <- shinySettings$dataFolder
@@ -66,7 +82,9 @@ preMergeShinyData <- function(shinyDataFolder) { # shinyDataFolder <- "G:/StudyR
       rm(list = camelCaseNames)
     )
   }
+  
   loadFile <- function(file, removePart) { # file <- dbFiles[1]
+    print(file)
     tableName <- gsub("_t[0-9]+_c[0-9]+$", "", gsub(removePart, "", file))
     camelCaseName <- SqlRender::snakeCaseToCamelCase(tableName)
     if (!(tableName %in% splittableTables)) {
@@ -93,7 +111,7 @@ preMergeShinyData <- function(shinyDataFolder) { # shinyDataFolder <- "G:/StudyR
     invisible(NULL)
   }
   
-  for (removePart in removeParts) { # removePart <- removeParts[13]
+  for (removePart in removeParts) { # removePart <- removeParts[1]
     dbFiles <- files[grepl(removePart, files)]
     if (removePart == "_SIDIAP.rds$") {
       dbFiles <- dbFiles[!grepl("_H_SIDIAP.rds$", dbFiles)]
